@@ -2,16 +2,16 @@
   {
     "agencyId": "heroines",
     "name": "ヒロインズ",
-    "detailURL": "https://gist.githubusercontent.com/soraize/37f847079f0995f6fc7677fd3ee89615/raw/heroines.json"
+    "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/heroines.json"
   },
   {
     "agencyId": "kawaii_lab",
     "name": "KAWAII LAB.",
-    "detailURL": "https://gist.githubusercontent.com/soraize/eaa3ab433b907e5c8b4fca61e02afb8b/raw/kawaiilab.json"
+    "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/kawaiilab.json"
   },
   {
     "agencyId": "stpr",
     "name": "STPR",
-    "detailURL": "https://gist.githubusercontent.com/soraize/796f78e7819cf23fa06b9805daef65e8/raw/stpr.json"
+    "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/stpr.json"
   }
 ]
