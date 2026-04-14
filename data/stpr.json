@@ -1,0 +1,547 @@
+{
+  "agencyId": "stpr",
+  "agency": "STPR",
+  "imageBaseURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/",
+  "imageExtension": "jpg",
+  "groups": [
+    {
+      "uuid": "3CEB6C93-BE70-41DD-B327-E1358FBE99A0",
+      "masterId": "stpr_strawberryprince",
+      "name": "すとぷり",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": null,
+        "instagram": null,
+        "tiktok": null
+      },
+      "members": [
+        {
+          "uuid": "A44F28E8-3D9B-4F6D-B5F5-7C7A3E1B9001",
+          "masterId": "stpr_strawberryprince_nanamori",
+          "name": "ななもり。",
+          "isGraduated": false,
+          "colorHex": "#B57EDC",
+          "birthday": "06-23",
+          "sns": {
+            "twitter": "nanamorisan",
+            "instagram": "love_nkun",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3E5B4F4A-4DA2-4F61-9ED7-6EAC9B119002",
+          "masterId": "stpr_strawberryprince_satomi",
+          "name": "さとみ",
+          "isGraduated": false,
+          "colorHex": "#FF9ECF",
+          "birthday": "02-24",
+          "sns": {
+            "twitter": "satoniya_",
+            "instagram": "satoniya_",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9D442F7C-7E95-4E37-9A61-8E8D0BFA9003",
+          "masterId": "stpr_strawberryprince_root",
+          "name": "るぅと",
+          "isGraduated": false,
+          "colorHex": "#FFF176",
+          "birthday": "10-25",
+          "sns": {
+            "twitter": "root_nico",
+            "instagram": "root_nico",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C8A1A50E-233C-4A6C-8D17-2BFA435B9004",
+          "masterId": "stpr_strawberryprince_colon",
+          "name": "ころん",
+          "isGraduated": false,
+          "colorHex": "#6FD3FF",
+          "birthday": "05-29",
+          "sns": {
+            "twitter": "Colon56N",
+            "instagram": "colon56n",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E2C7F2D1-6D7A-45C5-96DA-4FC2F58F9005",
+          "masterId": "stpr_strawberryprince_rinu",
+          "name": "莉犬",
+          "isGraduated": false,
+          "colorHex": "#FF6B6B",
+          "birthday": "05-24",
+          "sns": {
+            "twitter": "rinu_nico",
+            "instagram": "riinukun",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7B3D5A9F-5A4D-4B28-BA7B-7A1D14E29006",
+          "masterId": "stpr_strawberryprince_jel",
+          "name": "ジェル",
+          "isGraduated": false,
+          "colorHex": "#FFB347",
+          "birthday": "07-28",
+          "sns": {
+            "twitter": "Jel__official",
+            "instagram": "jel__official",
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "7ECEE9B7-DCEB-4B6C-8AED-9FBFA364EA2C",
+      "masterId": "stpr_meteorites",
+      "name": "めておら",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": null,
+        "instagram": null,
+        "tiktok": null
+      },
+      "members": [
+        {
+          "uuid": "A8F1C2D3-4B5E-6789-ABCD-111111111001",
+          "masterId": "stpr_meteorites_shion",
+          "name": "心音",
+          "isGraduated": false,
+          "colorHex": "#B57EDC",
+          "birthday": "02-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B9E2D3C4-5F6A-7890-BCDE-111111111002",
+          "masterId": "stpr_meteorites_rose",
+          "name": "ロゼ",
+          "isGraduated": false,
+          "colorHex": "#FF6B6B",
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C1D3E4F5-6A7B-8901-CDEF-111111111003",
+          "masterId": "stpr_meteorites_lapis",
+          "name": "Lapis",
+          "isGraduated": false,
+          "colorHex": "#6FD3FF",
+          "birthday": "12-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D2E4F5A6-7B8C-9012-DEFA-111111111004",
+          "masterId": "stpr_meteorites_melt",
+          "name": "メルト・ダ・テンシ",
+          "isGraduated": false,
+          "colorHex": "#FFFFFF",
+          "birthday": "10-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E3F5A6B7-8C9D-0123-EFAB-111111111005",
+          "masterId": "stpr_meteorites_mikasa",
+          "name": "みかさくん",
+          "isGraduated": false,
+          "colorHex": "#FF9ECF",
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F4A7B8C9-9D0E-1234-FABC-111111111006",
+          "masterId": "stpr_meteorites_light",
+          "name": "明雷らいと",
+          "isGraduated": false,
+          "colorHex": "#FFF176",
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "B0954565-42C7-4AEC-BE69-D65BEFE5105E",
+      "masterId": "stpr_amptakcolors",
+      "name": "AMPTAK",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": null,
+        "instagram": null,
+        "tiktok": null
+      },
+      "members": [
+        {
+          "uuid": "3D4B2A91-0D89-4D8A-9B63-CB8D7A450001",
+          "masterId": "stpr_amptakcolors_akkii",
+          "name": "あっきぃ",
+          "isGraduated": false,
+          "colorHex": "#FFF176",
+          "birthday": "04-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7E0A8F56-2B7C-4E7B-A2D5-1A9E3F620002",
+          "masterId": "stpr_amptakcolors_mazeta",
+          "name": "まぜ太",
+          "isGraduated": false,
+          "colorHex": "#B57EDC",
+          "birthday": "05-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9B1C6D44-5E8A-4C9F-8B14-2F7D5A330003",
+          "masterId": "stpr_amptakcolors_pretz",
+          "name": "ぷりっつ",
+          "isGraduated": false,
+          "colorHex": "#90EE90",
+          "birthday": "01-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4F7D2E88-6A31-4F0A-9E76-3C2B5D190004",
+          "masterId": "stpr_amptakcolors_tigusakun",
+          "name": "ちぐさくん",
+          "isGraduated": false,
+          "colorHex": "#6FD3FF",
+          "birthday": "09-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AF2E5941-8C67-4B2A-8D1F-4E7B6C280005",
+          "masterId": "stpr_amptakcolors_atto",
+          "name": "あっと",
+          "isGraduated": false,
+          "colorHex": "#FF6B6B",
+          "birthday": "07-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C6A7D811-3F52-4E6D-91B8-5D4A2E770006",
+          "masterId": "stpr_amptakcolors_ketcha",
+          "name": "けちゃ",
+          "isGraduated": false,
+          "colorHex": "#FF9ECF",
+          "birthday": "08-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "5ADDC1E5-F80D-4220-B4AE-90B9DA1FD41E",
+      "masterId": "stpr_knightx",
+      "name": "騎士X",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": null,
+        "instagram": null,
+        "tiktok": null
+      },
+      "members": [
+        {
+          "uuid": "D1C1E7A9-4C13-4D0A-8B58-7F8A4301A001",
+          "masterId": "stpr_knightx_shiyun",
+          "name": "しゆん",
+          "isGraduated": false,
+          "colorHex": "#90EE90",
+          "birthday": "09-28",
+          "sns": {
+            "twitter": "shiyun928",
+            "instagram": "shiyun928",
+            "tiktok": "shiyun928"
+          }
+        },
+        {
+          "uuid": "8A1E6D42-7B37-4F8A-9D20-5E9B8C72A002",
+          "masterId": "stpr_knightx_takeyakishou",
+          "name": "タケヤキ翔",
+          "isGraduated": false,
+          "colorHex": "#FFFFFF",
+          "birthday": "03-19",
+          "sns": {
+            "twitter": "takeyakii",
+            "instagram": "takeyakisyou",
+            "tiktok": "takeyakisyo"
+          }
+        },
+        {
+          "uuid": "B7F4C3D8-5A64-4A3D-9F7B-2C18DE93A003",
+          "masterId": "stpr_knightx_vau",
+          "name": "ばぁう",
+          "isGraduated": false,
+          "colorHex": "#FF6B6B",
+          "birthday": "03-07",
+          "sns": {
+            "twitter": "Vau1113",
+            "instagram": "vau1113",
+            "tiktok": "vau1113"
+          }
+        },
+        {
+          "uuid": "F3A9B2C7-1E86-4D5F-8A31-6C7E5D44A004",
+          "masterId": "stpr_knightx_terutokun",
+          "name": "てるとくん",
+          "isGraduated": false,
+          "colorHex": "#FF9ECF",
+          "birthday": "07-09",
+          "sns": {
+            "twitter": "teruto_nico",
+            "instagram": "teruto_nico",
+            "tiktok": "teruto_nico"
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "07926EA0-7B97-4E92-92A7-E0692DFF41EA",
+      "masterId": "stpr_sneakerstep",
+      "name": "すにすて",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": null,
+        "instagram": null,
+        "tiktok": null
+      },
+      "members": [
+        {
+          "uuid": "6D2E0E4A-6F8F-4D32-A6F1-0A5F6B710001",
+          "masterId": "stpr_sneakerstep_nishiki",
+          "name": "にしき",
+          "isGraduated": false,
+          "colorHex": "#FFFFFF",
+          "birthday": "12-24",
+          "sns": {
+            "twitter": "nishiki1225",
+            "instagram": "nishiki_1225",
+            "tiktok": "nishiki1225"
+          }
+        },
+        {
+          "uuid": "B3A5F94C-6D6E-4A9D-9E73-7C48A5320002",
+          "masterId": "stpr_sneakerstep_rao",
+          "name": "らお",
+          "isGraduated": false,
+          "colorHex": "#FF6B6B",
+          "birthday": "06-25",
+          "sns": {
+            "twitter": "_Raokun_",
+            "instagram": "raokun_official",
+            "tiktok": "_raokun_"
+          }
+        },
+        {
+          "uuid": "D9A1C7BE-1A7D-4A06-8B89-2F1A4C930003",
+          "masterId": "stpr_sneakerstep_daiquiri",
+          "name": "だいきり",
+          "isGraduated": false,
+          "colorHex": "#FFD54F",
+          "birthday": "07-24",
+          "sns": {
+            "twitter": "daiquiri_ch",
+            "instagram": "daiquiri0724",
+            "tiktok": "daiquirikun"
+          }
+        },
+        {
+          "uuid": "8F41B6E9-9B8A-48E1-9F92-4A8627C40004",
+          "masterId": "stpr_sneakerstep_tachibana",
+          "name": "たちばな",
+          "isGraduated": false,
+          "colorHex": "#6FD3FF",
+          "birthday": "06-21",
+          "sns": {
+            "twitter": "tcbnwst",
+            "instagram": "tcbnwst",
+            "tiktok": "tcbnwst_"
+          }
+        },
+        {
+          "uuid": "1E8A9C73-4D2B-46CF-9D53-6F81A2050005",
+          "masterId": "stpr_sneakerstep_yutakun",
+          "name": "ゆたくん",
+          "isGraduated": false,
+          "colorHex": "#6FD3FF",
+          "birthday": "08-16",
+          "sns": {
+            "twitter": "utut_2525",
+            "instagram": "utut_2525",
+            "tiktok": "utut_2525"
+          }
+        },
+        {
+          "uuid": "C2F74D91-3A70-4D8D-B3C8-7A96D1E60006",
+          "masterId": "stpr_sneakerstep_yanato",
+          "name": "やなと",
+          "isGraduated": false,
+          "colorHex": "#FFF176",
+          "birthday": "01-26",
+          "sns": {
+            "twitter": "yanato_desu",
+            "instagram": "yanatogram",
+            "tiktok": "yanato_desu"
+          }
+        },
+        {
+          "uuid": "F5B823A7-8A11-4D2D-A548-9B02D3470007",
+          "masterId": "stpr_sneakerstep_osadei",
+          "name": "おさでい",
+          "isGraduated": false,
+          "colorHex": "#4FC3F7",
+          "birthday": "02-13",
+          "sns": {
+            "twitter": "osusi0303",
+            "instagram": "daystagram03",
+            "tiktok": "osamusitik"
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "2CED86CA-C9E1-4D07-B81F-755B7CEFBD55",
+      "masterId": "stpr_truelip",
+      "name": "とぅるりぷ - True&Lip",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": null,
+        "instagram": null,
+        "tiktok": null
+      },
+      "members": [
+        {
+          "uuid": "2E9A0D4C-1A93-4D6E-9B88-73B9C7011001",
+          "masterId": "stpr_truelip_soara",
+          "name": "そあら",
+          "isGraduated": false,
+          "colorHex": "#6FD3FF",
+          "birthday": "11-14",
+          "sns": {
+            "twitter": "Amai_nico",
+            "instagram": "amai.nico",
+            "tiktok": "soara_n"
+          }
+        },
+        {
+          "uuid": "5B7C2F18-4E2D-44C1-9E3A-8DAA5F021002",
+          "masterId": "stpr_truelip_yashiro",
+          "name": "つきしろやしろ。",
+          "isGraduated": false,
+          "colorHex": "#B57EDC",
+          "birthday": "03-22",
+          "sns": {
+            "twitter": "Yq4Ro_",
+            "instagram": "yashiroooo_t",
+            "tiktok": "tuki_y_illust"
+          }
+        },
+        {
+          "uuid": "7F84C1A9-0D63-4B8E-A31E-4B2D8D8C1003",
+          "masterId": "stpr_truelip_paruo",
+          "name": "パルオ",
+          "isGraduated": false,
+          "colorHex": "#FF9ECF",
+          "birthday": "04-19",
+          "sns": {
+            "twitter": "PARUO49N",
+            "instagram": "paruo__urusai",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "91D6E2B4-8D51-4F39-94B8-20F3FAD51004",
+          "masterId": "stpr_truelip_harima",
+          "name": "はりま",
+          "isGraduated": false,
+          "colorHex": "#FFB347",
+          "birthday": "02-28",
+          "sns": {
+            "twitter": "harima_ha",
+            "instagram": "harima_ha",
+            "tiktok": "harima_ha"
+          }
+        },
+        {
+          "uuid": "A4C5F1B8-3E71-45C7-8E6D-12E0B7AD1005",
+          "masterId": "stpr_truelip_monokuro",
+          "name": "ものくろ",
+          "isGraduated": false,
+          "colorHex": "#FFFFFF",
+          "birthday": "01-26",
+          "sns": {
+            "twitter": "MonoKuro_days",
+            "instagram": "monokuro_days",
+            "tiktok": "monokuro_kun"
+          }
+        },
+        {
+          "uuid": "C8E1A472-6A42-4D8F-9C10-5F4D0A6B1006",
+          "masterId": "stpr_truelip_mahiromaru",
+          "name": "まひろまる。",
+          "isGraduated": false,
+          "colorHex": "#FFF176",
+          "birthday": "03-27",
+          "sns": {
+            "twitter": "Ene_Mahiro",
+            "instagram": null,
+            "tiktok": "mahiromaru_stprboys"
+          }
+        }
+      ]
+    }
+  ]
+}
