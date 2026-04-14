@@ -1,0 +1,163 @@
+[
+  {
+    "venueId": "sapporo_dome",
+    "name": "札幌ドーム",
+    "address": "北海道札幌市豊平区羊ヶ丘1",
+    "lat": 43.0151,
+    "lng": 141.4097
+  },
+  {
+    "venueId": "sekisui_heim_super_arena",
+    "name": "セキスイハイムスーパーアリーナ",
+    "address": "宮城県宮城郡利府町菅谷字舘40-1",
+    "lat": 38.3397,
+    "lng": 140.9531
+  },
+  {
+    "venueId": "kanadevia_hall",
+    "name": "Kanadevia Hall",
+    "address": "東京都文京区後楽1-3-61 東京ドームシティ内",
+    "lat": 35.7042,
+    "lng": 139.7525
+  },
+  {
+    "venueId": "harevutai",
+    "name": "harevutai",
+    "address": "東京都豊島区東池袋1-19-1 Hareza池袋1F",
+    "lat": 35.7319,
+    "lng": 139.7155
+  },
+  {
+    "venueId": "tokyo_dome",
+    "name": "東京ドーム",
+    "address": "東京都文京区後楽1-3-61",
+    "lat": 35.7056,
+    "lng": 139.7519
+  },
+  {
+    "venueId": "nippon_budokan",
+    "name": "日本武道館",
+    "address": "東京都千代田区北の丸公園2-3",
+    "lat": 35.6933,
+    "lng": 139.7497
+  },
+  {
+    "venueId": "yoyogi_national_gymnasium_first",
+    "name": "国立代々木競技場 第一体育館",
+    "address": "東京都渋谷区神南2-1-1",
+    "lat": 35.6678,
+    "lng": 139.7003
+  },
+  {
+    "venueId": "zepp_haneda",
+    "name": "Zepp Haneda",
+    "address": "東京都大田区羽田空港1-1-4",
+    "lat": 35.5481,
+    "lng": 139.7554
+  },
+  {
+    "venueId": "zepp_divercity",
+    "name": "Zepp DiverCity",
+    "address": "東京都江東区青海1-1-10",
+    "lat": 35.6252,
+    "lng": 139.7755
+  },
+  {
+    "venueId": "k_arena_yokohama",
+    "name": "Kアリーナ横浜",
+    "address": "神奈川県横浜市西区みなとみらい6-2-14",
+    "lat": 35.4646,
+    "lng": 139.6306
+  },
+  {
+    "venueId": "saitama_super_arena",
+    "name": "さいたまスーパーアリーナ",
+    "address": "埼玉県さいたま市中央区新都心8",
+    "lat": 35.8949,
+    "lng": 139.6309
+  },
+  {
+    "venueId": "pia_arena_mm",
+    "name": "ぴあアリーナMM",
+    "address": "神奈川県横浜市西区みなとみらい3-2-2",
+    "lat": 35.4545,
+    "lng": 139.6314
+  },
+  {
+    "venueId": "yokohama_arena",
+    "name": "横浜アリーナ",
+    "address": "神奈川県横浜市港北区新横浜3-10",
+    "lat": 35.5066,
+    "lng": 139.6214
+  },
+  {
+    "venueId": "belluna_dome",
+    "name": "ベルーナドーム",
+    "address": "埼玉県所沢市上山口2135",
+    "lat": 35.7686,
+    "lng": 139.4205
+  },
+  {
+    "venueId": "vantelin_dome_nagoya",
+    "name": "バンテリンドーム ナゴヤ",
+    "address": "愛知県名古屋市東区大幸南1-1-1",
+    "lat": 35.1859,
+    "lng": 136.9474
+  },
+  {
+    "venueId": "zepp_nagoya",
+    "name": "Zepp Nagoya",
+    "address": "愛知県名古屋市中村区平池町4-60-7",
+    "lat": 35.1616,
+    "lng": 136.8856
+  },
+  {
+    "venueId": "kyocera_dome_osaka",
+    "name": "京セラドーム大阪",
+    "address": "大阪府大阪市西区千代崎3-中2-1",
+    "lat": 34.6692,
+    "lng": 135.4761
+  },
+  {
+    "venueId": "osaka_jo_hall",
+    "name": "大阪城ホール",
+    "address": "大阪府大阪市中央区大阪城3-1",
+    "lat": 34.6894,
+    "lng": 135.5298
+  },
+  {
+    "venueId": "zepp_namba",
+    "name": "Zepp Namba",
+    "address": "大阪府大阪市浪速区敷津東2-1-39",
+    "lat": 34.6593,
+    "lng": 135.4988
+  },
+  {
+    "venueId": "zepp_osaka_bayside",
+    "name": "Zepp Osaka Bayside",
+    "address": "大阪府大阪市此花区桜島1-1-61",
+    "lat": 34.6628,
+    "lng": 135.4283
+  },
+  {
+    "venueId": "mizuhopaypay_dome_fukuoka",
+    "name": "みずほPayPayドーム福岡",
+    "address": "福岡県福岡市中央区地行浜2-2-2",
+    "lat": 33.5954,
+    "lng": 130.3622
+  },
+  {
+    "venueId": "zepp_fukuoka",
+    "name": "Zepp Fukuoka",
+    "address": "福岡県福岡市中央区地行浜2-2-1",
+    "lat": 33.5941,
+    "lng": 130.3644
+  },
+  {
+    "venueId": "marine_messe_fukuoka_a",
+    "name": "マリンメッセ福岡 A館",
+    "address": "福岡県福岡市博多区沖浜町7-1",
+    "lat": 33.6063,
+    "lng": 130.4032
+  }
+]
