@@ -1,0 +1,474 @@
+{
+  "agencyId": "kawaii_lab",
+  "agency": "KAWAII LAB.",
+  "imageBaseURL": "https://raw.githubusercontent.com/soraize/oshi-images/refs/heads/main/",
+  "imageExtension": "jpg",
+  "groups": [
+    {
+      "uuid": "D11B1A3E-5F3F-41A6-A7F8-DCD285E8F131",
+      "masterId": "kawaiilab_fruits_zipper",
+      "name": "FRUITS ZIPPER",
+      "colorHex": null,
+      "birthday": null,
+      "sns": null,
+      "members": [
+        {
+          "uuid": "4B7A5D72-8A53-4D6E-8A44-3B404C7D0101",
+          "masterId": "kawaiilab_fruits_zipper_tsukiashi_amane",
+          "name": "月足 天音",
+          "isGraduated": false,
+          "colorHex": "#FF6B6B",
+          "birthday": null,
+          "sns": {
+            "twitter": "amane_fz1026",
+            "instagram": "am1026_official",
+            "tiktok": "am1026_official"
+          }
+        },
+        {
+          "uuid": "A9B28385-7B8C-4D1B-9D76-5D48E2F30202",
+          "masterId": "kawaiilab_fruits_zipper_chinzei_suzuka",
+          "name": "鎮西 寿々歌",
+          "isGraduated": false,
+          "colorHex": "#FFB347",
+          "birthday": null,
+          "sns": {
+            "twitter": "suzuka_fz1124",
+            "instagram": "tarasuzuka24",
+            "tiktok": "oooooossssss24"
+          }
+        },
+        {
+          "uuid": "C2D9A116-2DCE-46AE-8F75-31B6B7D70303",
+          "masterId": "kawaiilab_fruits_zipper_sakurai_yui",
+          "name": "櫻井 優衣",
+          "isGraduated": false,
+          "colorHex": "#90EE90",
+          "birthday": null,
+          "sns": {
+            "twitter": "yui_fz0221",
+            "instagram": "yui.sakurai_7",
+            "tiktok": "sakuraiyui2"
+          }
+        },
+        {
+          "uuid": "0F7E0C1A-874A-4DB1-A4F8-8CB74D490404",
+          "masterId": "kawaiilab_fruits_zipper_nakagawa_runa",
+          "name": "仲川 瑠夏",
+          "isGraduated": false,
+          "colorHex": "#B57EDC",
+          "birthday": null,
+          "sns": {
+            "twitter": "luna_fz0703",
+            "instagram": "luna_7373",
+            "tiktok": "luna_luna073"
+          }
+        },
+        {
+          "uuid": "7E3B824B-3C3A-4EA9-B98C-DA6D45130505",
+          "masterId": "kawaiilab_fruits_zipper_manaka_mana",
+          "name": "真中 まな",
+          "isGraduated": false,
+          "colorHex": "#87CEFA",
+          "birthday": null,
+          "sns": {
+            "twitter": "manafy_fz0422",
+            "instagram": "manafy_baby",
+            "tiktok": "manafy_fz0422"
+          }
+        },
+        {
+          "uuid": "A7C5E3D1-95B9-4E1F-AFC6-4B3C2A0A0606",
+          "masterId": "kawaiilab_fruits_zipper_matsumoto_karen",
+          "name": "松本 かれん",
+          "isGraduated": false,
+          "colorHex": "#FF9ECF",
+          "birthday": null,
+          "sns": {
+            "twitter": "karen_fz0328",
+            "instagram": "__matsumotokaren",
+            "tiktok": "__matsumotokaren"
+          }
+        },
+        {
+          "uuid": "693C4FE4-BD82-479A-94E5-54EFC4E10707",
+          "masterId": "kawaiilab_fruits_zipper_hayase_noel",
+          "name": "早瀬 ノエル",
+          "isGraduated": false,
+          "colorHex": "#FFF176",
+          "birthday": null,
+          "sns": {
+            "twitter": "noel_fz1229",
+            "instagram": "noel_hayase",
+            "tiktok": "hysnl1229"
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "44C2B98B-16D0-4A26-A827-67F7F2737280",
+      "masterId": "kawaiilab_candy_tune",
+      "name": "CANDY TUNE",
+      "colorHex": null,
+      "birthday": null,
+      "sns": null,
+      "members": [
+        {
+          "uuid": "CC2E8A74-4AF7-4C4B-8D58-1A6B99110801",
+          "masterId": "kawaiilab_candy_tune_fukuyama_rino",
+          "name": "福山 梨乃",
+          "isGraduated": false,
+          "colorHex": "#87CEFA",
+          "birthday": null,
+          "sns": {
+            "twitter": "rino_ct1224",
+            "instagram": "rinomaru_",
+            "tiktok": "rinomaru_"
+          }
+        },
+        {
+          "uuid": "CB4DFF10-B334-433F-97F4-553B462D0802",
+          "masterId": "kawaiilab_candy_tune_kirihara_mizuki",
+          "name": "桐原 美月",
+          "isGraduated": false,
+          "colorHex": "#4A90E2",
+          "birthday": null,
+          "sns": {
+            "twitter": "mizuki_ct0221",
+            "instagram": "kirihara_mizuki",
+            "tiktok": "kirihara_mizuki"
+          }
+        },
+        {
+          "uuid": "2FCE66D2-27C7-43E9-B3D0-B4608A260803",
+          "masterId": "kawaiilab_candy_tune_minami_natsu",
+          "name": "南 なつ",
+          "isGraduated": false,
+          "colorHex": "#FFB347",
+          "birthday": null,
+          "sns": {
+            "twitter": "natsu_ct0317",
+            "instagram": "nattanntan",
+            "tiktok": "nattanntan"
+          }
+        },
+        {
+          "uuid": "7F7D2C4C-6D8A-4731-A1A7-C7CDB4F80804",
+          "masterId": "kawaiilab_candy_tune_ogawa_nanako",
+          "name": "小川 奈々子",
+          "isGraduated": false,
+          "colorHex": "#90EE90",
+          "birthday": null,
+          "sns": {
+            "twitter": "nachico_ct1001",
+            "instagram": "__nchisan__",
+            "tiktok": "__nachisan__"
+          }
+        },
+        {
+          "uuid": "27F437C4-0F8C-4B11-86EA-E5F779B50805",
+          "masterId": "kawaiilab_candy_tune_tachibana_kotomi",
+          "name": "立花 琴未",
+          "isGraduated": false,
+          "colorHex": "#FF6B6B",
+          "birthday": null,
+          "sns": {
+            "twitter": "kotomi_ct0525",
+            "instagram": "kotomi_5chan",
+            "tiktok": "kotomi_5chan"
+          }
+        },
+        {
+          "uuid": "15353C15-3E4B-45EB-9F70-A4A7AF140806",
+          "masterId": "kawaiilab_candy_tune_miyano_shizuka",
+          "name": "宮野 静",
+          "isGraduated": false,
+          "colorHex": "#B57EDC",
+          "birthday": null,
+          "sns": {
+            "twitter": "shizuka_ct0530",
+            "instagram": "miyano_shizuka",
+            "tiktok": "miyano_shicha"
+          }
+        },
+        {
+          "uuid": "9B2D670D-A0FB-4A61-912C-19143D0A0807",
+          "masterId": "kawaiilab_candy_tune_murakawa_bibian",
+          "name": "村川 緋杏",
+          "isGraduated": false,
+          "colorHex": "#FF9ECF",
+          "birthday": null,
+          "sns": {
+            "twitter": "bibian_ct1203",
+            "instagram": "murakawabibiann",
+            "tiktok": "murakawabibiann"
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "16CFC43C-FE51-4248-9B4C-EDA4D99E5524",
+      "masterId": "kawaiilab_sweet_steady",
+      "name": "SWEET STEADY",
+      "colorHex": null,
+      "birthday": null,
+      "sns": null,
+      "members": [
+        {
+          "uuid": "30C16CE4-6212-4336-B38A-833A6EAE0901",
+          "masterId": "kawaiilab_sweet_steady_okuda_ayu",
+          "name": "奥田 彩友",
+          "isGraduated": false,
+          "colorHex": "#4A90E2",
+          "birthday": null,
+          "sns": {
+            "twitter": "ayu_ss0107",
+            "instagram": "okudaayu",
+            "tiktok": "okudaayu"
+          }
+        },
+        {
+          "uuid": "D4D4801A-5D91-437D-A39E-1D2C11F50902",
+          "masterId": "kawaiilab_sweet_steady_otoi_yui",
+          "name": "音井 結衣",
+          "isGraduated": false,
+          "colorHex": "#87CEFA",
+          "birthday": null,
+          "sns": {
+            "twitter": "yui_ss0109",
+            "instagram": "otoi_yui_19",
+            "tiktok": "otoi_yui_19"
+          }
+        },
+        {
+          "uuid": "0C675246-9B54-4272-A9AE-8D765A6A0903",
+          "masterId": "kawaiilab_sweet_steady_kurita_natsuka",
+          "name": "栗田 なつか",
+          "isGraduated": false,
+          "colorHex": "#FF9ECF",
+          "birthday": null,
+          "sns": {
+            "twitter": "natsuka_ss0719",
+            "instagram": "n_wanwan3",
+            "tiktok": "n_wanwan3"
+          }
+        },
+        {
+          "uuid": "45CFBFD8-C62A-47BC-87E9-6C970B9B0904",
+          "masterId": "kawaiilab_sweet_steady_shiokawa_rise",
+          "name": "塩川 莉世",
+          "isGraduated": false,
+          "colorHex": "#B57EDC",
+          "birthday": null,
+          "sns": {
+            "twitter": "rise_ss0731",
+            "instagram": "rise_shio",
+            "tiktok": "rise_7"
+          }
+        },
+        {
+          "uuid": "579020D8-CA94-4821-A242-2A0E60E70905",
+          "masterId": "kawaiilab_sweet_steady_shoji_nagisa",
+          "name": "庄司 なぎさ",
+          "isGraduated": false,
+          "colorHex": "#FFB347",
+          "birthday": null,
+          "sns": {
+            "twitter": "nagisa_ss1029",
+            "instagram": "nagyuuu_official",
+            "tiktok": "nagyu_official"
+          }
+        },
+        {
+          "uuid": "B6F03012-04B8-49FC-9B0D-4E0B73B90906",
+          "masterId": "kawaiilab_sweet_steady_shiraishi_mayumi",
+          "name": "白石 まゆみ",
+          "isGraduated": false,
+          "colorHex": "#FF6B6B",
+          "birthday": null,
+          "sns": {
+            "twitter": "mayumi_ss1227",
+            "instagram": "mayumi.1227",
+            "tiktok": "shiraishi_mayumi"
+          }
+        },
+        {
+          "uuid": "A6B3E1A8-2D09-420D-B462-A411BA7B0907",
+          "masterId": "kawaiilab_sweet_steady_yamauchi_sakina",
+          "name": "山内 咲奈",
+          "isGraduated": false,
+          "colorHex": "#FFF176",
+          "birthday": null,
+          "sns": {
+            "twitter": "sakina_ss0229",
+            "instagram": "sakina_yamauchi",
+            "tiktok": "sakina_yamauchi"
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "DAC80F8F-4326-42FF-B1C8-FAE8870F438B",
+      "masterId": "kawaiilab_cutie_street",
+      "name": "CUTIE STREET",
+      "colorHex": null,
+      "birthday": null,
+      "sns": null,
+      "members": [
+        {
+          "uuid": "A1A5E0F5-6EDB-4C7A-9AF2-20C4CD7F1001",
+          "masterId": "kawaiilab_cutie_street_furusawa_risa",
+          "name": "古澤 里紗",
+          "isGraduated": false,
+          "colorHex": "#FFF176",
+          "birthday": null,
+          "sns": {
+            "twitter": "risa_cs1108",
+            "instagram": "fuuuuu_ri",
+            "tiktok": "fuuuuu_ri"
+          }
+        },
+        {
+          "uuid": "4B7A4A42-3531-41B3-A86D-AB4672C71002",
+          "masterId": "kawaiilab_cutie_street_sano_aika",
+          "name": "佐野 愛花",
+          "isGraduated": false,
+          "colorHex": "#FF6B6B",
+          "birthday": null,
+          "sns": {
+            "twitter": "aika_cs1126",
+            "instagram": "aika.sano_official",
+            "tiktok": "aika_sano_"
+          }
+        },
+        {
+          "uuid": "3EB9E07B-3051-4B2B-B0F9-8C4BB6321003",
+          "masterId": "kawaiilab_cutie_street_itakura_kana",
+          "name": "板倉 可奈",
+          "isGraduated": false,
+          "colorHex": "#90EE90",
+          "birthday": null,
+          "sns": {
+            "twitter": "kana_cs1111",
+            "instagram": "kana.sii.i",
+            "tiktok": "kana.sii.i"
+          }
+        },
+        {
+          "uuid": "C7C0F9E2-4F03-492A-BB88-526E0D6B1004",
+          "masterId": "kawaiilab_cutie_street_masuda_ayano",
+          "name": "増田 彩乃",
+          "isGraduated": false,
+          "colorHex": "#4A90E2",
+          "birthday": null,
+          "sns": {
+            "twitter": "ayano_cs0526",
+            "instagram": "m_ayano26",
+            "tiktok": "m_ayano26"
+          }
+        },
+        {
+          "uuid": "8AFC744C-CF26-4A7B-9F84-B75439261005",
+          "masterId": "kawaiilab_cutie_street_kawamoto_emiru",
+          "name": "川本 笑瑠",
+          "isGraduated": false,
+          "colorHex": "#FFB347",
+          "birthday": null,
+          "sns": {
+            "twitter": "emiru_cs0422",
+            "instagram": "_emiru._",
+            "tiktok": "_emiru._"
+          }
+        },
+        {
+          "uuid": "E0FA77D0-47D2-45B9-9AE8-DA480B421006",
+          "masterId": "kawaiilab_cutie_street_umeda_miyu",
+          "name": "梅田 みゆ",
+          "isGraduated": false,
+          "colorHex": "#87CEFA",
+          "birthday": null,
+          "sns": {
+            "twitter": "miyu_cs0913",
+            "instagram": "miyu_.0913",
+            "tiktok": "miyu_ume"
+          }
+        },
+        {
+          "uuid": "5EA11FE9-868F-4A86-AF29-CA3C60481007",
+          "masterId": "kawaiilab_cutie_street_manabe_nagisa",
+          "name": "真鍋 凪咲",
+          "isGraduated": false,
+          "colorHex": "#B57EDC",
+          "birthday": null,
+          "sns": {
+            "twitter": "nagisa_cs0628",
+            "instagram": "nagisa_manabe",
+            "tiktok": "nagisa_manabe"
+          }
+        },
+        {
+          "uuid": "E23C304E-0D34-4E9A-893D-CE88DE5D1008",
+          "masterId": "kawaiilab_cutie_street_sakuraba_haruka",
+          "name": "桜庭 遥花",
+          "isGraduated": false,
+          "colorHex": "#FF9ECF",
+          "birthday": null,
+          "sns": {
+            "twitter": "haruka_cs0129",
+            "instagram": "pa___.ru",
+            "tiktok": "sakuraba_haruka"
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "EA09D35C-D3AD-4A3F-9862-BB7A27DD46D9",
+      "masterId": "kawaiilab_morestar",
+      "name": "MORE STAR",
+      "colorHex": null,
+      "birthday": null,
+      "sns": null,
+      "members": [
+        {
+          "uuid": "91A2B3C4-D5E6-47F8-9A0B-1C2D3E4F5001",
+          "masterId": "kawaiilab_morestar_haruka",
+          "name": "桜庭はるか",
+          "isGraduated": false,
+          "colorHex": "#FF9ECF",
+          "birthday": "04-12",
+          "sns": {
+            "twitter": "haruka_morestar",
+            "instagram": "haruka_morestar",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "02B3C4D5-E6F7-48A9-B0C1-2D3E4F500002",
+          "masterId": "kawaiilab_morestar_mio",
+          "name": "白石みお",
+          "isGraduated": false,
+          "colorHex": "#87CEFA",
+          "birthday": "06-08",
+          "sns": {
+            "twitter": "mio_morestar",
+            "instagram": "mio_morestar",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "13C4D5E6-F7A8-49B0-C1D2-3E4F50000303",
+          "masterId": "kawaiilab_morestar_yuna",
+          "name": "天音ゆな",
+          "isGraduated": false,
+          "colorHex": "#CBA6F7",
+          "birthday": "09-21",
+          "sns": {
+            "twitter": "yuna_morestar",
+            "instagram": "yuna_morestar",
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

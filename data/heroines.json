@@ -1,0 +1,223 @@
+{
+  "agencyId": "heroines",
+  "agency": "ヒロインズ",
+  "imageBaseURL": "https://raw.githubusercontent.com/soraize/oshi-images/refs/heads/main/",
+  "imageExtension": "jpg",
+  "groups": [
+    {
+      "uuid": "771FCA15-C3EE-4146-A777-D240EC2D1739",
+      "masterId": "heroines_ilife",
+      "name": "iLiFE!",
+      "colorHex": null,
+      "birthday": null,
+      "sns": null,
+      "members": [
+        {
+          "uuid": "A1F3C9D2-7B4E-4E9A-9F2C-1D3E5A6B7C01",
+          "masterId": "heroines_ilife_ice",
+          "name": "あいす",
+          "isGraduated": false,
+          "colorHex": "#FFFFFF",
+          "birthday": "01-23",
+          "sns": {
+            "twitter": "ice_icol",
+            "instagram": "ice_li_fe",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B2E4D6F8-1A2B-4C3D-8E9F-0A1B2C3D4E02",
+          "masterId": "heroines_ilife_riri",
+          "name": "心花りり",
+          "isGraduated": false,
+          "colorHex": "#FF6B6B",
+          "birthday": "05-19",
+          "sns": {
+            "twitter": "iLiFE_riri",
+            "instagram": "ilife_riri",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C3D5E7F9-2B3C-4D5E-9F0A-1B2C3D4E5F03",
+          "masterId": "heroines_ilife_noa",
+          "name": "若葉のあ",
+          "isGraduated": false,
+          "colorHex": "#66E2A3",
+          "birthday": "07-07",
+          "sns": {
+            "twitter": "iLiFE_wakaba",
+            "instagram": "ilife_noa",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D4E6F8A0-3C4D-5E6F-0A1B-2C3D4E5F6A04",
+          "masterId": "heroines_ilife_usa",
+          "name": "福丸うさ",
+          "isGraduated": false,
+          "colorHex": "#FFE066",
+          "birthday": "01-26",
+          "sns": {
+            "twitter": "iLiFE_fukumaru",
+            "instagram": "ilife_usa",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E5F7A9B1-4D5E-6F7A-1B2C-3D4E5F6A7B05",
+          "masterId": "heroines_ilife_karen",
+          "name": "空詩かれん",
+          "isGraduated": false,
+          "colorHex": "#4A90E2",
+          "birthday": "07-10",
+          "sns": {
+            "twitter": "iLiFE_karen",
+            "instagram": "ilife_karen",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F6A8B0C2-5E6F-7A8B-2C3D-4E5F6A7B8C06",
+          "masterId": "heroines_ilife_mini",
+          "name": "虹羽みに",
+          "isGraduated": false,
+          "colorHex": "#6FD3FF",
+          "birthday": "03-02",
+          "sns": {
+            "twitter": "iLiFE_mini",
+            "instagram": "ilife_mini",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A7B9C1D3-6F7A-8B9C-3D4E-5F6A7B8C9D07",
+          "masterId": "heroines_ilife_mamu",
+          "name": "小熊まむ",
+          "isGraduated": false,
+          "colorHex": "#FFB347",
+          "birthday": "12-23",
+          "sns": {
+            "twitter": "iLiFE_koguma",
+            "instagram": "ilife_mamu",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B8CAD2E4-7A8B-9C0D-4E5F-6A7B8C9D0E08",
+          "masterId": "heroines_ilife_miki",
+          "name": "純嶺みき",
+          "isGraduated": false,
+          "colorHex": "#B57EDC",
+          "birthday": "01-12",
+          "sns": {
+            "twitter": "iLiFE_sumire",
+            "instagram": "ilife_miki",
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "5E9D8E3A-56AA-47EC-8671-1342E09BEEDD",
+      "masterId": "heroines_nonfic",
+      "name": "のんふぃく！",
+      "colorHex": null,
+      "birthday": null,
+      "sns": null,
+      "members": [
+        {
+          "uuid": "1A8F4D3C-6E21-4C97-9F8D-2B7A0D930001",
+          "masterId": "heroines_nonfic_amu",
+          "name": "香月あむ",
+          "isGraduated": false,
+          "colorHex": "#B57EDC",
+          "birthday": "01-30",
+          "sns": {
+            "twitter": "Amu_nonfic",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2B9E5A4D-7F32-4D18-A0B6-3C8E1A540002",
+          "masterId": "heroines_nonfic_niina",
+          "name": "澪織にいな",
+          "isGraduated": false,
+          "colorHex": "#4A90E2",
+          "birthday": "03-02",
+          "sns": {
+            "twitter": "Niina_nonfic",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3C0A6B5E-8D43-4E29-B1C7-4D9F2B650003",
+          "masterId": "heroines_nonfic_colne",
+          "name": "こるね",
+          "isGraduated": false,
+          "colorHex": "#FF6B6B",
+          "birthday": "04-28",
+          "sns": {
+            "twitter": "colne_icol",
+            "instagram": "colne_icol",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4D1B7C6F-9E54-4F3A-C2D8-5E0A3C760004",
+          "masterId": "heroines_nonfic_haruka",
+          "name": "恋星はるか",
+          "isGraduated": false,
+          "colorHex": "#FF9ECF",
+          "birthday": "10-15",
+          "sns": {
+            "twitter": "Haru_nonfic",
+            "instagram": "haru_nonfic",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5E2C8D70-AF65-403B-D3E9-6F1B4D870005",
+          "masterId": "heroines_nonfic_marin",
+          "name": "海まりん",
+          "isGraduated": false,
+          "colorHex": "#90EE90",
+          "birthday": "12-29",
+          "sns": {
+            "twitter": "Marin_nonfic",
+            "instagram": "marin_nonfic",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6F3D9E81-B076-414C-E4FA-702C5E980006",
+          "masterId": "heroines_nonfic_piano",
+          "name": "水瀬ぴあの",
+          "isGraduated": false,
+          "colorHex": "#6FD3FF",
+          "birthday": "08-10",
+          "sns": {
+            "twitter": "Piano_nonfic",
+            "instagram": "piano_nonfic",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7A4E0F92-C187-425D-F50B-813D6FA90007",
+          "masterId": "heroines_nonfic_touka",
+          "name": "永月十華",
+          "isGraduated": false,
+          "colorHex": "#FFF176",
+          "birthday": "10-01",
+          "sns": {
+            "twitter": "Touka_nonfic",
+            "instagram": "touka_nonfic",
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}
