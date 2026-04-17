@@ -199,7 +199,7 @@
       "uuid": "66993C9B-28E5-4D9C-8F39-AB30CF3170DA",
       "masterId": "heroines_ilife",
       "name": "iLiFE!",
-      "isActive": false,
+      "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/ILiFE!",
       "colorHex": null,
       "birthday": null,
