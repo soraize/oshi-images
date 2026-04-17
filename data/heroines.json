@@ -2,7 +2,7 @@
   "agencyId": "heroines",
   "agency": "ヒロインズ",
   "isActive": true,
-  "imageBaseURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/",
+  "imageBaseURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/images/heroines/default/",
   "imageExtension": "jpg",
   "groups": [
     {
