@@ -9409,29 +9409,53 @@
       "name": "好実れん",
       "candidates": [
         {
-          "fileName": "MEGAFON Ren Halloween 2025 2.jpg",
-          "caption": "Halloween 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/0/09/MEGAFON_Ren_Halloween_2025_2.jpg/revision/latest?cb=20251113215148"
+          "fileName": "MEGAFON Ren Nov2025.jpg",
+          "caption": "1",
+          "url": "https://static.wikia.nocookie.net/jpop/images/d/dc/MEGAFON_Ren_Nov2025.jpg/revision/latest?cb=20251113214957",
+          "yearMonth": "2025-11",
+          "eventLabel": "1"
         },
         {
-          "fileName": "MEGAFON Ren Halloween 2025.jpg",
-          "caption": "Halloween 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/0/0d/MEGAFON_Ren_Halloween_2025.jpg/revision/latest?cb=20251113214833"
-        },
-        {
-          "fileName": "MEGAFON Ren Tanabata 2025.jpg",
-          "caption": "Tanabata 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/f/fb/MEGAFON_Ren_Tanabata_2025.jpg/revision/latest?cb=20251113214552"
+          "fileName": "MEGAFON Ren Nov2025 2.jpg",
+          "caption": "2",
+          "url": "https://static.wikia.nocookie.net/jpop/images/1/11/MEGAFON_Ren_Nov2025_2.jpg/revision/latest?cb=20251113215021",
+          "yearMonth": "2025-11",
+          "eventLabel": "2"
         },
         {
           "fileName": "Konomi Ren Apr 2025 (1).jpg",
           "caption": "April 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/4/46/Konomi_Ren_Apr_2025_%281%29.jpg/revision/latest?cb=20250406230649"
+          "url": "https://static.wikia.nocookie.net/jpop/images/4/46/Konomi_Ren_Apr_2025_%281%29.jpg/revision/latest?cb=20250406230649",
+          "yearMonth": "2025-04",
+          "eventLabel": null
         },
         {
           "fileName": "Konomi Ren Apr 2025 (2).jpg",
           "caption": "April 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/1/1f/Konomi_Ren_Apr_2025_%282%29.jpg/revision/latest?cb=20250406230648"
+          "url": "https://static.wikia.nocookie.net/jpop/images/1/1f/Konomi_Ren_Apr_2025_%282%29.jpg/revision/latest?cb=20250406230648",
+          "yearMonth": "2025-04",
+          "eventLabel": null
+        },
+        {
+          "fileName": "MEGAFON Ren Halloween 2025 2.jpg",
+          "caption": "Halloween 2025",
+          "url": "https://static.wikia.nocookie.net/jpop/images/0/09/MEGAFON_Ren_Halloween_2025_2.jpg/revision/latest?cb=20251113215148",
+          "yearMonth": "2025-02",
+          "eventLabel": "Halloween 2025"
+        },
+        {
+          "fileName": "MEGAFON Ren Halloween 2025.jpg",
+          "caption": "Halloween 2025",
+          "url": "https://static.wikia.nocookie.net/jpop/images/0/0d/MEGAFON_Ren_Halloween_2025.jpg/revision/latest?cb=20251113214833",
+          "yearMonth": null,
+          "eventLabel": "Halloween 2025"
+        },
+        {
+          "fileName": "MEGAFON Ren Tanabata 2025.jpg",
+          "caption": "Tanabata 2025",
+          "url": "https://static.wikia.nocookie.net/jpop/images/f/fb/MEGAFON_Ren_Tanabata_2025.jpg/revision/latest?cb=20251113214552",
+          "yearMonth": null,
+          "eventLabel": "Tanabata 2025"
         }
       ]
     },
@@ -9443,34 +9467,60 @@
       "name": "小晴のか",
       "candidates": [
         {
-          "fileName": "MEGAFON Noka Halloween 2025 2.jpg",
-          "caption": "Halloween 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/7/73/MEGAFON_Noka_Halloween_2025_2.jpg/revision/latest?cb=20251114015040"
+          "fileName": "MEGAFON Noka Nov2025.jpg",
+          "caption": "1",
+          "url": "https://static.wikia.nocookie.net/jpop/images/4/44/MEGAFON_Noka_Nov2025.jpg/revision/latest?cb=20251119212745",
+          "yearMonth": "2025-11",
+          "eventLabel": "1"
         },
         {
-          "fileName": "MEGAFON Noka Halloween 2025.jpg",
-          "caption": "Halloween 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/e/e9/MEGAFON_Noka_Halloween_2025.jpg/revision/latest?cb=20251114014947"
+          "fileName": "MEGAFON Noka Nov2025 2.jpg",
+          "caption": "2",
+          "url": "https://static.wikia.nocookie.net/jpop/images/8/8f/MEGAFON_Noka_Nov2025_2.jpg/revision/latest?cb=20251119212806",
+          "yearMonth": "2025-11",
+          "eventLabel": "2"
         },
         {
           "fileName": "MEGAFON Noka Jul2025.jpg",
           "caption": "Summer Outfit (July 2025)",
-          "url": "https://static.wikia.nocookie.net/jpop/images/9/92/MEGAFON_Noka_Jul2025.jpg/revision/latest?cb=20251114014902"
-        },
-        {
-          "fileName": "MEGAFON Noka Tanabata 2025.jpg",
-          "caption": "Tanabata 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/a/ab/MEGAFON_Noka_Tanabata_2025.jpg/revision/latest?cb=20251114014253"
+          "url": "https://static.wikia.nocookie.net/jpop/images/9/92/MEGAFON_Noka_Jul2025.jpg/revision/latest?cb=20251114014902",
+          "yearMonth": "2025-07",
+          "eventLabel": "Summer Outfit"
         },
         {
           "fileName": "Koharu Noka Apr 2025 (1).jpg",
           "caption": "April 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/9/91/Koharu_Noka_Apr_2025_%281%29.jpg/revision/latest?cb=20250408194134"
+          "url": "https://static.wikia.nocookie.net/jpop/images/9/91/Koharu_Noka_Apr_2025_%281%29.jpg/revision/latest?cb=20250408194134",
+          "yearMonth": "2025-04",
+          "eventLabel": null
         },
         {
           "fileName": "Koharu Noka Apr 2025 (2).jpg",
           "caption": "April 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/a/ae/Koharu_Noka_Apr_2025_%282%29.jpg/revision/latest?cb=20250408194133"
+          "url": "https://static.wikia.nocookie.net/jpop/images/a/ae/Koharu_Noka_Apr_2025_%282%29.jpg/revision/latest?cb=20250408194133",
+          "yearMonth": "2025-04",
+          "eventLabel": null
+        },
+        {
+          "fileName": "MEGAFON Noka Halloween 2025 2.jpg",
+          "caption": "Halloween 2025",
+          "url": "https://static.wikia.nocookie.net/jpop/images/7/73/MEGAFON_Noka_Halloween_2025_2.jpg/revision/latest?cb=20251114015040",
+          "yearMonth": "2025-02",
+          "eventLabel": "Halloween 2025"
+        },
+        {
+          "fileName": "MEGAFON Noka Halloween 2025.jpg",
+          "caption": "Halloween 2025",
+          "url": "https://static.wikia.nocookie.net/jpop/images/e/e9/MEGAFON_Noka_Halloween_2025.jpg/revision/latest?cb=20251114014947",
+          "yearMonth": null,
+          "eventLabel": "Halloween 2025"
+        },
+        {
+          "fileName": "MEGAFON Noka Tanabata 2025.jpg",
+          "caption": "Tanabata 2025",
+          "url": "https://static.wikia.nocookie.net/jpop/images/a/ab/MEGAFON_Noka_Tanabata_2025.jpg/revision/latest?cb=20251114014253",
+          "yearMonth": null,
+          "eventLabel": "Tanabata 2025"
         }
       ]
     },
@@ -9482,34 +9532,60 @@
       "name": "星野あみ",
       "candidates": [
         {
-          "fileName": "MEGAFON Ami Halloween 2025 2.jpg",
-          "caption": "Halloween 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/b/bb/MEGAFON_Ami_Halloween_2025_2.jpg/revision/latest?cb=20251114225245"
+          "fileName": "MEGAFON Ami Nov2025.jpg",
+          "caption": "1",
+          "url": "https://static.wikia.nocookie.net/jpop/images/7/70/MEGAFON_Ami_Nov2025.jpg/revision/latest?cb=20251117152409",
+          "yearMonth": "2025-11",
+          "eventLabel": "1"
         },
         {
-          "fileName": "MEGAFON Ami  Halloween 2025.jpg",
-          "caption": "Halloween 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/f/fc/MEGAFON_Ami_Halloween_2025.jpg/revision/latest?cb=20251114225214"
+          "fileName": "MEGAFON Ami Nov2025 2.jpg",
+          "caption": "2",
+          "url": "https://static.wikia.nocookie.net/jpop/images/c/c1/MEGAFON_Ami_Nov2025_2.jpg/revision/latest?cb=20251117152432",
+          "yearMonth": "2025-11",
+          "eventLabel": "2"
         },
         {
           "fileName": "MEGAFON Ami Jul2025.jpg",
           "caption": "Summer Outfit (July 2025)",
-          "url": "https://static.wikia.nocookie.net/jpop/images/4/41/MEGAFON_Ami_Jul2025.jpg/revision/latest?cb=20251114225141"
-        },
-        {
-          "fileName": "MEGAFON Ami Tanabata 2025.jpg",
-          "caption": "Tanabata 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/0/04/MEGAFON_Ami_Tanabata_2025.jpg/revision/latest?cb=20251114225119"
+          "url": "https://static.wikia.nocookie.net/jpop/images/4/41/MEGAFON_Ami_Jul2025.jpg/revision/latest?cb=20251114225141",
+          "yearMonth": "2025-07",
+          "eventLabel": "Summer Outfit"
         },
         {
           "fileName": "Hoshino Ami Apr 2025 (1).jpg",
           "caption": "April 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/e/eb/Hoshino_Ami_Apr_2025_%281%29.jpg/revision/latest?cb=20250410205315"
+          "url": "https://static.wikia.nocookie.net/jpop/images/e/eb/Hoshino_Ami_Apr_2025_%281%29.jpg/revision/latest?cb=20250410205315",
+          "yearMonth": "2025-04",
+          "eventLabel": null
         },
         {
           "fileName": "Hoshino Ami Apr 2025 (2).jpg",
           "caption": "April 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/7/7e/Hoshino_Ami_Apr_2025_%282%29.jpg/revision/latest?cb=20250410205313"
+          "url": "https://static.wikia.nocookie.net/jpop/images/7/7e/Hoshino_Ami_Apr_2025_%282%29.jpg/revision/latest?cb=20250410205313",
+          "yearMonth": "2025-04",
+          "eventLabel": null
+        },
+        {
+          "fileName": "MEGAFON Ami Halloween 2025 2.jpg",
+          "caption": "Halloween 2025",
+          "url": "https://static.wikia.nocookie.net/jpop/images/b/bb/MEGAFON_Ami_Halloween_2025_2.jpg/revision/latest?cb=20251114225245",
+          "yearMonth": "2025-02",
+          "eventLabel": "Halloween 2025"
+        },
+        {
+          "fileName": "MEGAFON Ami  Halloween 2025.jpg",
+          "caption": "Halloween 2025",
+          "url": "https://static.wikia.nocookie.net/jpop/images/f/fc/MEGAFON_Ami_Halloween_2025.jpg/revision/latest?cb=20251114225214",
+          "yearMonth": null,
+          "eventLabel": "Halloween 2025"
+        },
+        {
+          "fileName": "MEGAFON Ami Tanabata 2025.jpg",
+          "caption": "Tanabata 2025",
+          "url": "https://static.wikia.nocookie.net/jpop/images/0/04/MEGAFON_Ami_Tanabata_2025.jpg/revision/latest?cb=20251114225119",
+          "yearMonth": null,
+          "eventLabel": "Tanabata 2025"
         }
       ]
     },
@@ -9521,34 +9597,60 @@
       "name": "明音いろは",
       "candidates": [
         {
-          "fileName": "MEGAFON Iroha Halloween 2025 2.jpg",
-          "caption": "Halloween 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/5/55/MEGAFON_Iroha_Halloween_2025_2.jpg/revision/latest?cb=20251114211358"
+          "fileName": "MEGAFON Iroha Nov2025.jpg",
+          "caption": "1",
+          "url": "https://static.wikia.nocookie.net/jpop/images/e/e5/MEGAFON_Iroha_Nov2025.jpg/revision/latest?cb=20251114211419",
+          "yearMonth": "2025-11",
+          "eventLabel": "1"
         },
         {
-          "fileName": "MEGAFON Iroha Halloween 2025.jpg",
-          "caption": "Halloween 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/1/11/MEGAFON_Iroha_Halloween_2025.jpg/revision/latest?cb=20251114211313"
+          "fileName": "MEGAFON Iroha Nov2025 2.jpg",
+          "caption": "2",
+          "url": "https://static.wikia.nocookie.net/jpop/images/2/26/MEGAFON_Iroha_Nov2025_2.jpg/revision/latest?cb=20251114211444",
+          "yearMonth": "2025-11",
+          "eventLabel": "2"
         },
         {
           "fileName": "MEGAFON Iroha Jul2025.jpg",
           "caption": "Summer Outfit (July 2025)",
-          "url": "https://static.wikia.nocookie.net/jpop/images/1/1f/MEGAFON_Iroha_Jul2025.jpg/revision/latest?cb=20251114211241"
-        },
-        {
-          "fileName": "MEGAFON Iroha Tanabata 2025.jpg",
-          "caption": "Tanabata 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/a/ad/MEGAFON_Iroha_Tanabata_2025.jpg/revision/latest?cb=20251114211208"
+          "url": "https://static.wikia.nocookie.net/jpop/images/1/1f/MEGAFON_Iroha_Jul2025.jpg/revision/latest?cb=20251114211241",
+          "yearMonth": "2025-07",
+          "eventLabel": "Summer Outfit"
         },
         {
           "fileName": "Ramune Iroha Apr 2025 (1).jpg",
           "caption": "April 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/7/7a/Ramune_Iroha_Apr_2025_%281%29.jpg/revision/latest?cb=20250411052749"
+          "url": "https://static.wikia.nocookie.net/jpop/images/7/7a/Ramune_Iroha_Apr_2025_%281%29.jpg/revision/latest?cb=20250411052749",
+          "yearMonth": "2025-04",
+          "eventLabel": null
         },
         {
           "fileName": "Ramune Iroha Apr 2025 (2).jpg",
           "caption": "April 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/9/94/Ramune_Iroha_Apr_2025_%282%29.jpg/revision/latest?cb=20250411052748"
+          "url": "https://static.wikia.nocookie.net/jpop/images/9/94/Ramune_Iroha_Apr_2025_%282%29.jpg/revision/latest?cb=20250411052748",
+          "yearMonth": "2025-04",
+          "eventLabel": null
+        },
+        {
+          "fileName": "MEGAFON Iroha Halloween 2025 2.jpg",
+          "caption": "Halloween 2025",
+          "url": "https://static.wikia.nocookie.net/jpop/images/5/55/MEGAFON_Iroha_Halloween_2025_2.jpg/revision/latest?cb=20251114211358",
+          "yearMonth": "2025-02",
+          "eventLabel": "Halloween 2025"
+        },
+        {
+          "fileName": "MEGAFON Iroha Halloween 2025.jpg",
+          "caption": "Halloween 2025",
+          "url": "https://static.wikia.nocookie.net/jpop/images/1/11/MEGAFON_Iroha_Halloween_2025.jpg/revision/latest?cb=20251114211313",
+          "yearMonth": null,
+          "eventLabel": "Halloween 2025"
+        },
+        {
+          "fileName": "MEGAFON Iroha Tanabata 2025.jpg",
+          "caption": "Tanabata 2025",
+          "url": "https://static.wikia.nocookie.net/jpop/images/a/ad/MEGAFON_Iroha_Tanabata_2025.jpg/revision/latest?cb=20251114211208",
+          "yearMonth": null,
+          "eventLabel": "Tanabata 2025"
         }
       ]
     },
@@ -9560,54 +9662,88 @@
       "name": "羽雲ろこ",
       "candidates": [
         {
-          "fileName": "MEGAFON Roko Halloween 2025 2.jpg",
-          "caption": "Halloween 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/b/bd/MEGAFON_Roko_Halloween_2025_2.jpg/revision/latest?cb=20251114232918"
+          "fileName": "MEGAFON Roko Nov2025.jpg",
+          "caption": "1",
+          "url": "https://static.wikia.nocookie.net/jpop/images/f/fc/MEGAFON_Roko_Nov2025.jpg/revision/latest?cb=20251118121506",
+          "yearMonth": "2025-11",
+          "eventLabel": "1"
         },
         {
-          "fileName": "MEGAFON Roko Halloween 2025.jpg",
-          "caption": "Halloween 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/9/91/MEGAFON_Roko_Halloween_2025.jpg/revision/latest?cb=20251114232854"
+          "fileName": "MEGAFON Roko Nov2025 2.jpg",
+          "caption": "2",
+          "url": "https://static.wikia.nocookie.net/jpop/images/c/c3/MEGAFON_Roko_Nov2025_2.jpg/revision/latest?cb=20251118121532",
+          "yearMonth": "2025-11",
+          "eventLabel": "2"
         },
         {
           "fileName": "MEGAFON Roko Jul2025.jpg",
           "caption": "Summer Outfit (July 2025)",
-          "url": "https://static.wikia.nocookie.net/jpop/images/d/d6/MEGAFON_Roko_Jul2025.jpg/revision/latest?cb=20251114232830"
-        },
-        {
-          "fileName": "MEGAFON Roko Tanabata 2025.jpg",
-          "caption": "Tanabata 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/3/3e/MEGAFON_Roko_Tanabata_2025.jpg/revision/latest?cb=20251114232807"
+          "url": "https://static.wikia.nocookie.net/jpop/images/d/d6/MEGAFON_Roko_Jul2025.jpg/revision/latest?cb=20251114232830",
+          "yearMonth": "2025-07",
+          "eventLabel": "Summer Outfit"
         },
         {
           "fileName": "Wakumo Roko Apr 2025 (1).jpg",
           "caption": "April 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/2/21/Wakumo_Roko_Apr_2025_%281%29.jpg/revision/latest?cb=20250411053115"
+          "url": "https://static.wikia.nocookie.net/jpop/images/2/21/Wakumo_Roko_Apr_2025_%281%29.jpg/revision/latest?cb=20250411053115",
+          "yearMonth": "2025-04",
+          "eventLabel": null
         },
         {
           "fileName": "Wakumo Roko Apr 2025 (2).jpg",
           "caption": "April 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/f/f2/Wakumo_Roko_Apr_2025_%282%29.jpg/revision/latest?cb=20250411053114"
+          "url": "https://static.wikia.nocookie.net/jpop/images/f/f2/Wakumo_Roko_Apr_2025_%282%29.jpg/revision/latest?cb=20250411053114",
+          "yearMonth": "2025-04",
+          "eventLabel": null
+        },
+        {
+          "fileName": "MEGAFON Roko Halloween 2025 2.jpg",
+          "caption": "Halloween 2025",
+          "url": "https://static.wikia.nocookie.net/jpop/images/b/bd/MEGAFON_Roko_Halloween_2025_2.jpg/revision/latest?cb=20251114232918",
+          "yearMonth": "2025-02",
+          "eventLabel": "Halloween 2025"
         },
         {
           "fileName": "RIOTBABY_MIKARAJuly2021.jpg",
           "caption": "July 2021",
-          "url": "https://static.wikia.nocookie.net/jpop/images/e/e0/RIOTBABY_MIKARAJuly2021.jpg/revision/latest?cb=20210710062740"
-        },
-        {
-          "fileName": "Mikara_RB.jpg",
-          "caption": "2020",
-          "url": "https://static.wikia.nocookie.net/jpop/images/9/92/Mikara_RB.jpg/revision/latest?cb=20210627033003"
-        },
-        {
-          "fileName": "RIOTBABY_MIKARA2018.jpg",
-          "caption": "2018 Profile",
-          "url": "https://static.wikia.nocookie.net/jpop/images/b/ba/RIOTBABY_MIKARA2018.jpg/revision/latest?cb=20210627033952"
+          "url": "https://static.wikia.nocookie.net/jpop/images/e/e0/RIOTBABY_MIKARAJuly2021.jpg/revision/latest?cb=20210710062740",
+          "yearMonth": "2021-07",
+          "eventLabel": null
         },
         {
           "fileName": "Mikara Yamamoto (Koala) 5.jpg",
           "caption": "June 2014",
-          "url": "https://static.wikia.nocookie.net/jpop/images/e/e8/Mikara_Yamamoto_%28Koala%29_5.jpg/revision/latest?cb=20230301002506"
+          "url": "https://static.wikia.nocookie.net/jpop/images/e/e8/Mikara_Yamamoto_%28Koala%29_5.jpg/revision/latest?cb=20230301002506",
+          "yearMonth": "2014-06",
+          "eventLabel": null
+        },
+        {
+          "fileName": "MEGAFON Roko Halloween 2025.jpg",
+          "caption": "Halloween 2025",
+          "url": "https://static.wikia.nocookie.net/jpop/images/9/91/MEGAFON_Roko_Halloween_2025.jpg/revision/latest?cb=20251114232854",
+          "yearMonth": null,
+          "eventLabel": "Halloween 2025"
+        },
+        {
+          "fileName": "MEGAFON Roko Tanabata 2025.jpg",
+          "caption": "Tanabata 2025",
+          "url": "https://static.wikia.nocookie.net/jpop/images/3/3e/MEGAFON_Roko_Tanabata_2025.jpg/revision/latest?cb=20251114232807",
+          "yearMonth": null,
+          "eventLabel": "Tanabata 2025"
+        },
+        {
+          "fileName": "Mikara_RB.jpg",
+          "caption": "2020",
+          "url": "https://static.wikia.nocookie.net/jpop/images/9/92/Mikara_RB.jpg/revision/latest?cb=20210627033003",
+          "yearMonth": null,
+          "eventLabel": "2020"
+        },
+        {
+          "fileName": "RIOTBABY_MIKARA2018.jpg",
+          "caption": "2018 Profile",
+          "url": "https://static.wikia.nocookie.net/jpop/images/b/ba/RIOTBABY_MIKARA2018.jpg/revision/latest?cb=20210627033952",
+          "yearMonth": null,
+          "eventLabel": "2018 Profile"
         }
       ]
     },
@@ -9619,79 +9755,123 @@
       "name": "日陽きい",
       "candidates": [
         {
-          "fileName": "MEGAFON Kii Halloween 2025.jpg",
-          "caption": "Halloween 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/6/6f/MEGAFON_Kii_Halloween_2025.jpg/revision/latest?cb=20251114233306"
+          "fileName": "MEGAFON Kii Nov2025.jpg",
+          "caption": "1",
+          "url": "https://static.wikia.nocookie.net/jpop/images/c/cb/MEGAFON_Kii_Nov2025.jpg/revision/latest?cb=20251116220525",
+          "yearMonth": "2025-11",
+          "eventLabel": "1"
         },
         {
-          "fileName": "MEGAFON Kii Halloween 2025 2.jpg",
-          "caption": "Halloween 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/4/44/MEGAFON_Kii_Halloween_2025_2.jpg/revision/latest?cb=20251114233326"
+          "fileName": "MEGAFON Kii Nov2025 2.jpg",
+          "caption": "2",
+          "url": "https://static.wikia.nocookie.net/jpop/images/c/c6/MEGAFON_Kii_Nov2025_2.jpg/revision/latest?cb=20251116220550",
+          "yearMonth": "2025-11",
+          "eventLabel": "2"
         },
         {
           "fileName": "MEGAFON Kii Summer2025.jpg",
           "caption": "Summer 2025 (July 2025)",
-          "url": "https://static.wikia.nocookie.net/jpop/images/7/78/MEGAFON_Kii_Summer2025.jpg/revision/latest?cb=20251009010538"
-        },
-        {
-          "fileName": "MEGAFON Kii Tanabata2025.jpg",
-          "caption": "Tanabata 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/3/3f/MEGAFON_Kii_Tanabata2025.jpg/revision/latest?cb=20251009010522"
+          "url": "https://static.wikia.nocookie.net/jpop/images/7/78/MEGAFON_Kii_Summer2025.jpg/revision/latest?cb=20251009010538",
+          "yearMonth": "2025-07",
+          "eventLabel": "Summer 2025"
         },
         {
           "fileName": "Himari Kii Apr 2025 (1).jpg",
           "caption": "April 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/d/de/Himari_Kii_Apr_2025_%281%29.jpg/revision/latest?cb=20250412045424"
+          "url": "https://static.wikia.nocookie.net/jpop/images/d/de/Himari_Kii_Apr_2025_%281%29.jpg/revision/latest?cb=20250412045424",
+          "yearMonth": "2025-04",
+          "eventLabel": null
         },
         {
           "fileName": "Himari Kii Apr 2025 (2).jpg",
           "caption": "April 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/a/a5/Himari_Kii_Apr_2025_%282%29.jpg/revision/latest?cb=20250412045423"
+          "url": "https://static.wikia.nocookie.net/jpop/images/a/a5/Himari_Kii_Apr_2025_%282%29.jpg/revision/latest?cb=20250412045423",
+          "yearMonth": "2025-04",
+          "eventLabel": null
         },
         {
           "fileName": "Nanaland Hiyori Mar2025.jpg",
           "caption": "March 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/2/2f/Nanaland_Hiyori_Mar2025.jpg/revision/latest?cb=20251009005628"
+          "url": "https://static.wikia.nocookie.net/jpop/images/2/2f/Nanaland_Hiyori_Mar2025.jpg/revision/latest?cb=20251009005628",
+          "yearMonth": "2025-03",
+          "eventLabel": null
+        },
+        {
+          "fileName": "MEGAFON Kii Halloween 2025 2.jpg",
+          "caption": "Halloween 2025",
+          "url": "https://static.wikia.nocookie.net/jpop/images/4/44/MEGAFON_Kii_Halloween_2025_2.jpg/revision/latest?cb=20251114233326",
+          "yearMonth": "2025-02",
+          "eventLabel": "Halloween 2025"
         },
         {
           "fileName": "Momose Hiyori July 2024.jpg",
           "caption": "July 2024",
-          "url": "https://static.wikia.nocookie.net/jpop/images/8/8f/Momose_Hiyori_July_2024.jpg/revision/latest?cb=20240729143221"
+          "url": "https://static.wikia.nocookie.net/jpop/images/8/8f/Momose_Hiyori_July_2024.jpg/revision/latest?cb=20240729143221",
+          "yearMonth": "2024-07",
+          "eventLabel": null
         },
         {
           "fileName": "Nanaland Hiyori Apr2024.jpg",
           "caption": "April 2024",
-          "url": "https://static.wikia.nocookie.net/jpop/images/e/e1/Nanaland_Hiyori_Apr2024.jpg/revision/latest?cb=20251009005858"
+          "url": "https://static.wikia.nocookie.net/jpop/images/e/e1/Nanaland_Hiyori_Apr2024.jpg/revision/latest?cb=20251009005858",
+          "yearMonth": "2024-04",
+          "eventLabel": null
         },
         {
           "fileName": "Momose Hiyori July 2023.jpg",
           "caption": "July 2023",
-          "url": "https://static.wikia.nocookie.net/jpop/images/1/1e/Momose_Hiyori_July_2023.jpg/revision/latest?cb=20240729143218"
+          "url": "https://static.wikia.nocookie.net/jpop/images/1/1e/Momose_Hiyori_July_2023.jpg/revision/latest?cb=20240729143218",
+          "yearMonth": "2023-07",
+          "eventLabel": null
         },
         {
           "fileName": "Nanaland-hiyori-jun23.jpg",
           "caption": "June 2023",
-          "url": "https://static.wikia.nocookie.net/jpop/images/0/02/Nanaland-hiyori-jun23.jpg/revision/latest?cb=20230625173319"
+          "url": "https://static.wikia.nocookie.net/jpop/images/0/02/Nanaland-hiyori-jun23.jpg/revision/latest?cb=20230625173319",
+          "yearMonth": "2023-06",
+          "eventLabel": null
         },
         {
           "fileName": "Nanaland Hiyori Jan2023.jpg",
           "caption": "January 2023",
-          "url": "https://static.wikia.nocookie.net/jpop/images/b/bf/Nanaland_Hiyori_Jan2023.jpg/revision/latest?cb=20251009005835"
+          "url": "https://static.wikia.nocookie.net/jpop/images/b/bf/Nanaland_Hiyori_Jan2023.jpg/revision/latest?cb=20251009005835",
+          "yearMonth": "2023-01",
+          "eventLabel": null
         },
         {
           "fileName": "Nanaland Hiyori Aug2022.jpg",
           "caption": "August 2022",
-          "url": "https://static.wikia.nocookie.net/jpop/images/4/4b/Nanaland_Hiyori_Aug2022.jpg/revision/latest?cb=20251009005751"
+          "url": "https://static.wikia.nocookie.net/jpop/images/4/4b/Nanaland_Hiyori_Aug2022.jpg/revision/latest?cb=20251009005751",
+          "yearMonth": "2022-08",
+          "eventLabel": null
         },
         {
           "fileName": "Nanaland Hiyori Apr2022.jpg",
           "caption": "April 2022",
-          "url": "https://static.wikia.nocookie.net/jpop/images/3/3c/Nanaland_Hiyori_Apr2022.jpg/revision/latest?cb=20251009005732"
+          "url": "https://static.wikia.nocookie.net/jpop/images/3/3c/Nanaland_Hiyori_Apr2022.jpg/revision/latest?cb=20251009005732",
+          "yearMonth": "2022-04",
+          "eventLabel": null
         },
         {
           "fileName": "Nanaland-hiyori-feb22.jpg",
           "caption": "February 2022",
-          "url": "https://static.wikia.nocookie.net/jpop/images/5/5b/Nanaland-hiyori-feb22.jpg/revision/latest?cb=20230625173559"
+          "url": "https://static.wikia.nocookie.net/jpop/images/5/5b/Nanaland-hiyori-feb22.jpg/revision/latest?cb=20230625173559",
+          "yearMonth": "2022-02",
+          "eventLabel": null
+        },
+        {
+          "fileName": "MEGAFON Kii Halloween 2025.jpg",
+          "caption": "Halloween 2025",
+          "url": "https://static.wikia.nocookie.net/jpop/images/6/6f/MEGAFON_Kii_Halloween_2025.jpg/revision/latest?cb=20251114233306",
+          "yearMonth": null,
+          "eventLabel": "Halloween 2025"
+        },
+        {
+          "fileName": "MEGAFON Kii Tanabata2025.jpg",
+          "caption": "Tanabata 2025",
+          "url": "https://static.wikia.nocookie.net/jpop/images/3/3f/MEGAFON_Kii_Tanabata2025.jpg/revision/latest?cb=20251009010522",
+          "yearMonth": null,
+          "eventLabel": "Tanabata 2025"
         }
       ]
     },
@@ -9703,84 +9883,130 @@
       "name": "宮代ゆき",
       "candidates": [
         {
-          "fileName": "MEGAFON Yuki Halloween 2025 2.jpg",
-          "caption": "Halloween 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/d/d9/MEGAFON_Yuki_Halloween_2025_2.jpg/revision/latest?cb=20251115003614"
+          "fileName": "MEGAFON Yuki Nov2025.jpg",
+          "caption": "1",
+          "url": "https://static.wikia.nocookie.net/jpop/images/2/2c/MEGAFON_Yuki_Nov2025.jpg/revision/latest?cb=20251115212415",
+          "yearMonth": "2025-11",
+          "eventLabel": "1"
         },
         {
-          "fileName": "MEGAFON Yuki Halloween 2025.jpg",
-          "caption": "Halloween 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/f/fb/MEGAFON_Yuki_Halloween_2025.jpg/revision/latest?cb=20251115003530"
+          "fileName": "MEGAFON Yuki Nov2025 2.jpg",
+          "caption": "2",
+          "url": "https://static.wikia.nocookie.net/jpop/images/d/dc/MEGAFON_Yuki_Nov2025_2.jpg/revision/latest?cb=20251115212444",
+          "yearMonth": "2025-11",
+          "eventLabel": "2"
         },
         {
           "fileName": "MEGAFON Yuki Jul2025.jpg",
           "caption": "Summer Outfit (July 2025)",
-          "url": "https://static.wikia.nocookie.net/jpop/images/0/04/MEGAFON_Yuki_Jul2025.jpg/revision/latest?cb=20251115003436"
-        },
-        {
-          "fileName": "MEGAFON Yuki Tanabata 2025.jpg",
-          "caption": "Tanabata 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/a/a2/MEGAFON_Yuki_Tanabata_2025.jpg/revision/latest?cb=20251115003033"
+          "url": "https://static.wikia.nocookie.net/jpop/images/0/04/MEGAFON_Yuki_Jul2025.jpg/revision/latest?cb=20251115003436",
+          "yearMonth": "2025-07",
+          "eventLabel": "Summer Outfit"
         },
         {
           "fileName": "Miyashiro Yuki April 2025(2).jpg",
           "caption": "April 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/8/81/Miyashiro_Yuki_April_2025%282%29.jpg/revision/latest?cb=20250413102404"
+          "url": "https://static.wikia.nocookie.net/jpop/images/8/81/Miyashiro_Yuki_April_2025%282%29.jpg/revision/latest?cb=20250413102404",
+          "yearMonth": "2025-04",
+          "eventLabel": null
         },
         {
           "fileName": "Miyashiro Yuki April 2025(1).jpg",
           "caption": "April 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/4/4a/Miyashiro_Yuki_April_2025%281%29.jpg/revision/latest?cb=20250413102334"
+          "url": "https://static.wikia.nocookie.net/jpop/images/4/4a/Miyashiro_Yuki_April_2025%281%29.jpg/revision/latest?cb=20250413102334",
+          "yearMonth": "2025-04",
+          "eventLabel": null
         },
         {
-          "fileName": "Hiroken Hiiro White Day2025.jpg",
-          "caption": "White Day 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/0/05/Hiroken_Hiiro_White_Day2025.jpg/revision/latest?cb=20251115002835"
-        },
-        {
-          "fileName": "Hiroken Hiiro White Day2025 2.jpg",
-          "caption": "White Day 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/6/60/Hiroken_Hiiro_White_Day2025_2.jpg/revision/latest?cb=20251115002901"
-        },
-        {
-          "fileName": "Hiroken Hiiro Valentines 2025.jpg",
-          "caption": "Valentine's Day 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/7/75/Hiroken_Hiiro_Valentines_2025.jpg/revision/latest?cb=20251115002441"
+          "fileName": "MEGAFON Yuki Halloween 2025 2.jpg",
+          "caption": "Halloween 2025",
+          "url": "https://static.wikia.nocookie.net/jpop/images/d/d9/MEGAFON_Yuki_Halloween_2025_2.jpg/revision/latest?cb=20251115003614",
+          "yearMonth": "2025-02",
+          "eventLabel": "Halloween 2025"
         },
         {
           "fileName": "Hiroken Hiiro Valentines 2025 2.jpg",
           "caption": "Valentine's Day 2025",
-          "url": "https://static.wikia.nocookie.net/jpop/images/b/bb/Hiroken_Hiiro_Valentines_2025_2.jpg/revision/latest?cb=20251115002512"
-        },
-        {
-          "fileName": "Hiroken Hiiro Christmas 2024.jpg",
-          "caption": "Christmas 2024",
-          "url": "https://static.wikia.nocookie.net/jpop/images/a/a3/Hiroken_Hiiro_Christmas_2024.jpg/revision/latest?cb=20251115002243"
-        },
-        {
-          "fileName": "Hiroken Hiiro Christmas 2024 2.jpg",
-          "caption": "Christmas 2024",
-          "url": "https://static.wikia.nocookie.net/jpop/images/1/1a/Hiroken_Hiiro_Christmas_2024_2.jpg/revision/latest?cb=20251115002314"
-        },
-        {
-          "fileName": "Hiroken Hiiro Halloween 2024.jpg",
-          "caption": "Halloween 2024",
-          "url": "https://static.wikia.nocookie.net/jpop/images/e/e9/Hiroken_Hiiro_Halloween_2024.jpg/revision/latest?cb=20251115002046"
-        },
-        {
-          "fileName": "Hiroken Hiiro Halloween 2024 2.jpg",
-          "caption": "Halloween 2024",
-          "url": "https://static.wikia.nocookie.net/jpop/images/5/5e/Hiroken_Hiiro_Halloween_2024_2.jpg/revision/latest?cb=20251115002114"
+          "url": "https://static.wikia.nocookie.net/jpop/images/b/bb/Hiroken_Hiiro_Valentines_2025_2.jpg/revision/latest?cb=20251115002512",
+          "yearMonth": "2025-02",
+          "eventLabel": "Valentine's Day 2025"
         },
         {
           "fileName": "Miyamizuhiiro2024.jpg",
           "caption": "June 2024",
-          "url": "https://static.wikia.nocookie.net/jpop/images/6/6b/Miyamizuhiiro2024.jpg/revision/latest?cb=20240625101922"
+          "url": "https://static.wikia.nocookie.net/jpop/images/6/6b/Miyamizuhiiro2024.jpg/revision/latest?cb=20240625101922",
+          "yearMonth": "2024-06",
+          "eventLabel": null
         },
         {
           "fileName": "Miyamizu Hiiro June 2024 1.jpg",
           "caption": "June 2024",
-          "url": "https://static.wikia.nocookie.net/jpop/images/e/e9/Miyamizu_Hiiro_June_2024_1.jpg/revision/latest?cb=20240718124136"
+          "url": "https://static.wikia.nocookie.net/jpop/images/e/e9/Miyamizu_Hiiro_June_2024_1.jpg/revision/latest?cb=20240718124136",
+          "yearMonth": "2024-06",
+          "eventLabel": null
+        },
+        {
+          "fileName": "Hiroken Hiiro Christmas 2024 2.jpg",
+          "caption": "Christmas 2024",
+          "url": "https://static.wikia.nocookie.net/jpop/images/1/1a/Hiroken_Hiiro_Christmas_2024_2.jpg/revision/latest?cb=20251115002314",
+          "yearMonth": "2024-02",
+          "eventLabel": "Christmas 2024"
+        },
+        {
+          "fileName": "Hiroken Hiiro Halloween 2024 2.jpg",
+          "caption": "Halloween 2024",
+          "url": "https://static.wikia.nocookie.net/jpop/images/5/5e/Hiroken_Hiiro_Halloween_2024_2.jpg/revision/latest?cb=20251115002114",
+          "yearMonth": "2024-02",
+          "eventLabel": "Halloween 2024"
+        },
+        {
+          "fileName": "MEGAFON Yuki Halloween 2025.jpg",
+          "caption": "Halloween 2025",
+          "url": "https://static.wikia.nocookie.net/jpop/images/f/fb/MEGAFON_Yuki_Halloween_2025.jpg/revision/latest?cb=20251115003530",
+          "yearMonth": null,
+          "eventLabel": "Halloween 2025"
+        },
+        {
+          "fileName": "MEGAFON Yuki Tanabata 2025.jpg",
+          "caption": "Tanabata 2025",
+          "url": "https://static.wikia.nocookie.net/jpop/images/a/a2/MEGAFON_Yuki_Tanabata_2025.jpg/revision/latest?cb=20251115003033",
+          "yearMonth": null,
+          "eventLabel": "Tanabata 2025"
+        },
+        {
+          "fileName": "Hiroken Hiiro White Day2025.jpg",
+          "caption": "White Day 2025",
+          "url": "https://static.wikia.nocookie.net/jpop/images/0/05/Hiroken_Hiiro_White_Day2025.jpg/revision/latest?cb=20251115002835",
+          "yearMonth": null,
+          "eventLabel": "White Day 2025"
+        },
+        {
+          "fileName": "Hiroken Hiiro White Day2025 2.jpg",
+          "caption": "White Day 2025",
+          "url": "https://static.wikia.nocookie.net/jpop/images/6/60/Hiroken_Hiiro_White_Day2025_2.jpg/revision/latest?cb=20251115002901",
+          "yearMonth": null,
+          "eventLabel": "White Day 2025"
+        },
+        {
+          "fileName": "Hiroken Hiiro Valentines 2025.jpg",
+          "caption": "Valentine's Day 2025",
+          "url": "https://static.wikia.nocookie.net/jpop/images/7/75/Hiroken_Hiiro_Valentines_2025.jpg/revision/latest?cb=20251115002441",
+          "yearMonth": null,
+          "eventLabel": "Valentine's Day 2025"
+        },
+        {
+          "fileName": "Hiroken Hiiro Christmas 2024.jpg",
+          "caption": "Christmas 2024",
+          "url": "https://static.wikia.nocookie.net/jpop/images/a/a3/Hiroken_Hiiro_Christmas_2024.jpg/revision/latest?cb=20251115002243",
+          "yearMonth": null,
+          "eventLabel": "Christmas 2024"
+        },
+        {
+          "fileName": "Hiroken Hiiro Halloween 2024.jpg",
+          "caption": "Halloween 2024",
+          "url": "https://static.wikia.nocookie.net/jpop/images/e/e9/Hiroken_Hiiro_Halloween_2024.jpg/revision/latest?cb=20251115002046",
+          "yearMonth": null,
+          "eventLabel": "Halloween 2024"
         }
       ]
     },
