@@ -6,7 +6,7 @@
   "imageExtension": "jpg",
   "groups": [
     {
-      "uuid": "DCA3CC89-9F67-4C9A-A64E-FF6F0729FC78",
+      "uuid": "BE5250C4-CCE0-4718-93DA-4E25D7E603E6",
       "masterId": "heroines_ponkotsu_konpo",
       "name": "ポンコツコンポ",
       "isActive": true,
@@ -22,7 +22,7 @@
       },
       "members": [
         {
-          "uuid": "90786D12-8CDD-47A0-BFFD-3B07F99EEDA5",
+          "uuid": "9AAADCEA-5C96-4021-9B44-D8C8C25F44BD",
           "masterId": "heroines_ponkotsu_konpo_harenochi_ame",
           "name": "晴後あめ",
           "profileURL": "https://jpop.fandom.com/wiki/Harenochi_Ame",
@@ -36,7 +36,7 @@
           }
         },
         {
-          "uuid": "9FD0456E-5386-487E-A7EC-6FD46D80A5B3",
+          "uuid": "1C980757-21FD-415D-B695-1A9631695499",
           "masterId": "heroines_ponkotsu_konpo_yubari_meron",
           "name": "夕葉里めろん",
           "profileURL": "https://jpop.fandom.com/wiki/Yubari_Meron",
@@ -50,7 +50,7 @@
           }
         },
         {
-          "uuid": "D8A3639B-05BB-4C2D-90CB-D27519CBE8C5",
+          "uuid": "6D4D6775-8422-4BC4-8863-6F5E8E7352CA",
           "masterId": "heroines_ponkotsu_konpo_akita_komachi",
           "name": "秋田こまち",
           "profileURL": "https://jpop.fandom.com/wiki/Akita_Komachi",
@@ -60,11 +60,11 @@
           "sns": {
             "twitter": "https://x.com/koma_ponkotsu",
             "instagram": null,
-            "tiktok": null
+            "tiktok": "https://www.tiktok.com/@koma_ponkotsu"
           }
         },
         {
-          "uuid": "D777A8E1-8E61-44D3-9314-8238CA56D9FE",
+          "uuid": "874A4A76-578F-445A-9E33-2A66528214D7",
           "masterId": "heroines_ponkotsu_konpo_ninomae_ran",
           "name": "一蘭",
           "profileURL": "https://jpop.fandom.com/wiki/Ninomae_Ran",
@@ -74,11 +74,11 @@
           "sns": {
             "twitter": "https://x.com/ran_ponkotsu",
             "instagram": null,
-            "tiktok": null
+            "tiktok": "https://www.tiktok.com/@ran_ponkotsu"
           }
         },
         {
-          "uuid": "ACB4755C-319C-4FAF-84BE-DD9E4AE80B30",
+          "uuid": "398A85B3-5314-44AD-B8E7-A095036C4AB7",
           "masterId": "heroines_ponkotsu_konpo_amasugi_apollo",
           "name": "甘杉あぽろ",
           "profileURL": "https://jpop.fandom.com/wiki/Amasugi_Apollo",
@@ -92,7 +92,35 @@
           }
         },
         {
-          "uuid": "2C121AF7-EB6E-4081-9818-CE8FCE7D3FCB",
+          "uuid": "030659E7-0A30-47F0-8EF0-259479233898",
+          "masterId": "heroines_ponkotsu_konpo_norimaki_uni",
+          "name": "海苔巻うに",
+          "profileURL": "https://jpop.fandom.com/wiki/Norimaki_Uni",
+          "isGraduated": false,
+          "colorHex": "#8E3EF6",
+          "birthday": null,
+          "sns": {
+            "twitter": "https://x.com/uni_ponkotsu",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "608D5A70-BDE4-41D7-8C94-27DD5DA6C077",
+          "masterId": "heroines_ponkotsu_konpo_showe29886time",
+          "name": "ショー☆タイム",
+          "profileURL": "https://jpop.fandom.com/wiki/Show%E2%98%86Time",
+          "isGraduated": false,
+          "colorHex": "#FFFFFF",
+          "birthday": "03-14",
+          "sns": {
+            "twitter": "https://x.com/time_ponkotsu",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "94BBAA34-13C3-4076-B3B6-72E8E1BB4CC8",
           "masterId": "heroines_ponkotsu_konpo_charlin",
           "name": "チャーリン",
           "profileURL": "https://jpop.fandom.com/wiki/Charlin",
@@ -108,7 +136,7 @@
       ]
     },
     {
-      "uuid": "B875EA09-23B5-403E-ABB0-3436DB25F848",
+      "uuid": "7E3DEFA7-1B87-4D32-9AA5-0AA89935DFDE",
       "masterId": "heroines_tenrin",
       "name": "TENRIN",
       "isActive": true,
@@ -124,7 +152,7 @@
       },
       "members": [
         {
-          "uuid": "C639D878-A060-485B-9543-B33BD824A36F",
+          "uuid": "EBB33185-5FAE-4CC9-B1E4-7E04B295034D",
           "masterId": "heroines_tenrin_no_more_chacha",
           "name": "のもあちゃちゃ",
           "profileURL": "https://jpop.fandom.com/wiki/No_More_Chacha",
@@ -138,7 +166,7 @@
           }
         },
         {
-          "uuid": "442D292C-7DB5-4E59-AC35-49FB9949EFC7",
+          "uuid": "D5503F1B-3C96-49B3-8D81-1084F6C1C724",
           "masterId": "heroines_tenrin_shirasu_ayan",
           "name": "白洲あやん",
           "profileURL": "https://jpop.fandom.com/wiki/Shirasu_Ayan",
@@ -152,7 +180,7 @@
           }
         },
         {
-          "uuid": "3AB3608B-E715-46B0-AB3D-0F479DF045EE",
+          "uuid": "396914D4-D93D-41DA-B887-E41642230CF7",
           "masterId": "heroines_tenrin_nanase_nico",
           "name": "七瀬にこ",
           "profileURL": "https://jpop.fandom.com/wiki/Nanase_Nico",
@@ -166,7 +194,7 @@
           }
         },
         {
-          "uuid": "9FE9E58A-5AC3-4DAC-82BB-20F30F301C14",
+          "uuid": "77E0FFD5-3BA9-4E38-AA81-E0945814B96D",
           "masterId": "heroines_tenrin_renge_urara",
           "name": "蓮花うらら",
           "profileURL": "https://jpop.fandom.com/wiki/Renge_Urara",
@@ -180,7 +208,7 @@
           }
         },
         {
-          "uuid": "40AC93BB-EFE2-4A56-AE29-8E309ACD9161",
+          "uuid": "08AA4193-5B16-4210-B40A-9FB043466074",
           "masterId": "heroines_tenrin_kasumi_ageha",
           "name": "霞あげは",
           "profileURL": "https://jpop.fandom.com/wiki/Kasumi_Ageha",
@@ -196,7 +224,7 @@
       ]
     },
     {
-      "uuid": "66993C9B-28E5-4D9C-8F39-AB30CF3170DA",
+      "uuid": "F9CFB04C-529D-455D-B884-17BA7B2D9EAB",
       "masterId": "heroines_ilife",
       "name": "iLiFE!",
       "isActive": true,
@@ -212,7 +240,7 @@
       },
       "members": [
         {
-          "uuid": "AFF1B036-4F6F-477F-A0A8-1BFED91F2A0C",
+          "uuid": "98E304B7-DF59-4A2C-8AD7-EE237967ACF4",
           "masterId": "heroines_ilife_konoka_riri",
           "name": "心花りり",
           "profileURL": "https://jpop.fandom.com/wiki/Konoka_Riri",
@@ -226,7 +254,7 @@
           }
         },
         {
-          "uuid": "28FC04D0-3CCD-4DCB-94B8-2597BB39982A",
+          "uuid": "4019463E-C4A0-41D8-B8EF-2B77F0EB77FE",
           "masterId": "heroines_ilife_aisu",
           "name": "あいす",
           "profileURL": "https://jpop.fandom.com/wiki/Aisu",
@@ -240,7 +268,7 @@
           }
         },
         {
-          "uuid": "432D726E-F39A-4C9A-9E66-E6C92ACEBB90",
+          "uuid": "EAF6CE0A-AFB0-4119-9E58-5533014A4114",
           "masterId": "heroines_ilife_fukumaru_usa",
           "name": "福丸うさ",
           "profileURL": "https://jpop.fandom.com/wiki/Fukumaru_Usa",
@@ -254,7 +282,7 @@
           }
         },
         {
-          "uuid": "FB8AB84F-6BBB-45BF-B4E5-C71755E76305",
+          "uuid": "534B8E8A-432F-4668-B143-F824DFA0F500",
           "masterId": "heroines_ilife_wakaba_noa",
           "name": "若葉のあ",
           "profileURL": "https://jpop.fandom.com/wiki/Wakaba_Noa",
@@ -268,7 +296,7 @@
           }
         },
         {
-          "uuid": "24E67656-95A7-4777-B6A8-92BDB3C132F7",
+          "uuid": "F09BFA1F-FFFD-4DDC-BEFB-AF267AC286CA",
           "masterId": "heroines_ilife_sonata_karen",
           "name": "空詩かれん",
           "profileURL": "https://jpop.fandom.com/wiki/Sonata_Karen",
@@ -282,7 +310,7 @@
           }
         },
         {
-          "uuid": "8B818289-6BCB-4CB1-ADE2-F09B8BCCE27F",
+          "uuid": "F6FE6134-6667-4B66-B04F-824194F3FCAB",
           "masterId": "heroines_ilife_kohane_mini",
           "name": "虹羽みに",
           "profileURL": "https://jpop.fandom.com/wiki/Kohane_Mini",
@@ -296,7 +324,7 @@
           }
         },
         {
-          "uuid": "06DABD50-0CAB-4488-9349-7D3F44D13C6A",
+          "uuid": "DFB4E376-EC44-46AF-B244-61E4F3339C9B",
           "masterId": "heroines_ilife_sumire_miki",
           "name": "純嶺みき",
           "profileURL": "https://jpop.fandom.com/wiki/Sumire_Miki",
@@ -310,7 +338,7 @@
           }
         },
         {
-          "uuid": "433CE800-2DF4-4662-87C1-9EC5B0554197",
+          "uuid": "8D93B07C-C538-46EE-9CE8-2387C5B83073",
           "masterId": "heroines_ilife_koguma_mamu",
           "name": "小熊まむ",
           "profileURL": "https://jpop.fandom.com/wiki/Koguma_Mamu",
@@ -324,7 +352,7 @@
           }
         },
         {
-          "uuid": "611131C3-2177-4C5A-A9C4-8F25EFD691F0",
+          "uuid": "0405C0E0-126E-40D1-8E8C-5B4A10051B10",
           "masterId": "heroines_ilife_konose_haruka",
           "name": "恋星はるか",
           "profileURL": "https://jpop.fandom.com/wiki/Konose_Haruka",
@@ -340,7 +368,7 @@
       ]
     },
     {
-      "uuid": "83C28995-D211-40F2-9571-F863FEE4C087",
+      "uuid": "B946BCA0-5A2F-43C5-9F5F-1AF577EFFB47",
       "masterId": "heroines_yakousei_amuse",
       "name": "夜光性アミューズ",
       "isActive": true,
@@ -356,7 +384,7 @@
       },
       "members": [
         {
-          "uuid": "6979C42A-D2F3-4115-9401-C5F057C242D5",
+          "uuid": "85C1CC1B-7192-4DBB-A65E-7D1656D51F64",
           "masterId": "heroines_yakousei_amuse_kusumoto_miho",
           "name": "みぽたぽた",
           "profileURL": "https://jpop.fandom.com/wiki/Kusumoto_Miho",
@@ -370,7 +398,7 @@
           }
         },
         {
-          "uuid": "9E70315A-F5AB-4EDC-B5E0-38B7BC33A7D1",
+          "uuid": "DF67B885-1911-472B-B849-6D5908FF4D9A",
           "masterId": "heroines_yakousei_amuse_hakuu_coai",
           "name": "白空こあい",
           "profileURL": "https://jpop.fandom.com/wiki/Hakuu_Coai",
@@ -384,7 +412,7 @@
           }
         },
         {
-          "uuid": "2863DB5D-FAC9-4867-9FD6-27C5F36C74EC",
+          "uuid": "0105B566-8FB7-451D-9554-CDD751150B9B",
           "masterId": "heroines_yakousei_amuse_futeko",
           "name": "ふてこ",
           "profileURL": "https://jpop.fandom.com/wiki/Futeko",
@@ -398,7 +426,7 @@
           }
         },
         {
-          "uuid": "3ABE9702-BE5D-4BCD-826F-965055BE5393",
+          "uuid": "9442C1D4-6086-4AA9-82AB-DC3670361BC9",
           "masterId": "heroines_yakousei_amuse_kobayashi_rina",
           "name": "炎谷莉奈",
           "profileURL": "https://jpop.fandom.com/wiki/Kobayashi_Rina",
@@ -412,7 +440,7 @@
           }
         },
         {
-          "uuid": "903AEEE0-8997-4703-AA05-40A0CD141DB5",
+          "uuid": "3BF38889-9699-457B-9675-21030AFEFE17",
           "masterId": "heroines_yakousei_amuse_minamo_shuru",
           "name": "水萌しゅる",
           "profileURL": "https://jpop.fandom.com/wiki/Minamo_Shuru",
@@ -426,7 +454,7 @@
           }
         },
         {
-          "uuid": "7E007329-062C-408C-8E03-8088BFD161E1",
+          "uuid": "A7F5E66C-331D-415D-8E99-7235B397690A",
           "masterId": "heroines_yakousei_amuse_kotone_furiru",
           "name": "琴音ふりる",
           "profileURL": "https://jpop.fandom.com/wiki/Kotone_Furiru",
@@ -442,7 +470,7 @@
       ]
     },
     {
-      "uuid": "C96EC696-1FDC-440E-92AC-89CBE3FFDFB4",
+      "uuid": "01BD5C21-BCC5-4297-AE19-8C832C1A6404",
       "masterId": "heroines_nonfiction",
       "name": "のんふぃく！",
       "isActive": true,
@@ -458,7 +486,7 @@
       },
       "members": [
         {
-          "uuid": "611131C3-2177-4C5A-A9C4-8F25EFD691F0",
+          "uuid": "0405C0E0-126E-40D1-8E8C-5B4A10051B10",
           "masterId": "heroines_ilife_konose_haruka",
           "name": "恋星はるか",
           "profileURL": "https://jpop.fandom.com/wiki/Konose_Haruka",
@@ -472,7 +500,7 @@
           }
         },
         {
-          "uuid": "8C1EDA77-D4AF-4647-91B2-24D2EED788F7",
+          "uuid": "DEAFBD7F-884E-4910-ABD7-430FC67476C9",
           "masterId": "heroines_nonfiction_minase_piano",
           "name": "水瀬ぴあの",
           "profileURL": "https://jpop.fandom.com/wiki/Minase_Piano",
@@ -486,7 +514,7 @@
           }
         },
         {
-          "uuid": "60647A6F-19AD-43CC-82CA-30B90E95ABAC",
+          "uuid": "B6F59C10-4B89-4267-957B-5FAD71F5167C",
           "masterId": "heroines_nonfiction_nagatsuki_touka",
           "name": "永月十華",
           "profileURL": "https://jpop.fandom.com/wiki/Nagatsuki_Touka",
@@ -500,7 +528,7 @@
           }
         },
         {
-          "uuid": "1A83B25E-6629-4638-9A53-F58686E50CCE",
+          "uuid": "2D94EE30-C8E8-4938-9B36-9894A2994187",
           "masterId": "heroines_nonfiction_aqua_marin",
           "name": "海まりん",
           "profileURL": "https://jpop.fandom.com/wiki/Aqua_Marin",
@@ -514,7 +542,7 @@
           }
         },
         {
-          "uuid": "21CA05C6-DE4E-477C-A6C9-2AF84797ECFE",
+          "uuid": "9FAF24CF-B274-40B6-9ECC-6E60CCD4C591",
           "masterId": "heroines_nonfiction_colne",
           "name": "こるね",
           "profileURL": "https://jpop.fandom.com/wiki/Colne",
@@ -528,7 +556,7 @@
           }
         },
         {
-          "uuid": "A8569885-8E84-4256-BE84-DF3388CA8DA8",
+          "uuid": "8CD91AEB-77CB-4BB6-90D1-034FE56EA6AA",
           "masterId": "heroines_nonfiction_miori_niina",
           "name": "澪織にいな",
           "profileURL": "https://jpop.fandom.com/wiki/Miori_Niina",
@@ -542,7 +570,7 @@
           }
         },
         {
-          "uuid": "79783A19-8C1C-48F9-8558-9635877F576C",
+          "uuid": "E231CB37-40E4-4CDC-8725-8BF17230C593",
           "masterId": "heroines_nonfiction_kouzuki_amu",
           "name": "香月あむ",
           "profileURL": "https://jpop.fandom.com/wiki/Kouzuki_Amu",
@@ -554,11 +582,39 @@
             "instagram": null,
             "tiktok": null
           }
+        },
+        {
+          "uuid": "EAE7DCB6-7124-4407-BDDE-30E6BA80A904",
+          "masterId": "heroines_nonfiction_misudo",
+          "name": "ミスド",
+          "profileURL": "https://jpop.fandom.com/wiki/Misudo",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": null,
+          "sns": {
+            "twitter": "https://x.com/misudo_nonfic",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "53252498-DAF2-494F-BE37-A25159E5D503",
+          "masterId": "heroines_nonfiction_koeda_nonc2acfiction",
+          "name": "こえだ",
+          "profileURL": "https://jpop.fandom.com/wiki/Koeda_(Non%C2%ACFiction)",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": null,
+          "sns": {
+            "twitter": "https://x.com/koeda_nonfic",
+            "instagram": null,
+            "tiktok": null
+          }
         }
       ]
     },
     {
-      "uuid": "3F0E8476-F4EF-4872-ADFF-47ADB218B811",
+      "uuid": "16C4CC4D-B2C3-4EF0-94B6-EAC9C97BF67D",
       "masterId": "heroines_calandres",
       "name": "CAL&RES",
       "isActive": true,
@@ -574,7 +630,7 @@
       },
       "members": [
         {
-          "uuid": "8BC3913D-6BC8-403E-BB5E-C9D9C0275605",
+          "uuid": "9A6C14A1-5136-4B84-9B37-E58642ECAFC3",
           "masterId": "heroines_calandres_yumeha_ruru",
           "name": "夢羽るる",
           "profileURL": "https://jpop.fandom.com/wiki/Yumeha_Ruru",
@@ -588,7 +644,7 @@
           }
         },
         {
-          "uuid": "1D4B01C1-19A8-4A28-87FB-EA5C7720560B",
+          "uuid": "827FB852-9817-41A4-9998-7B9228C92952",
           "masterId": "heroines_calandres_lime_neo",
           "name": "来夢ねお",
           "profileURL": "https://jpop.fandom.com/wiki/Lime_Neo",
@@ -602,7 +658,7 @@
           }
         },
         {
-          "uuid": "C188EB8F-D3ED-49C0-AE63-BCE978A7DFC3",
+          "uuid": "D9CF0CD3-1764-4940-A392-A3D713CF3CB5",
           "masterId": "heroines_calandres_annin_miru",
           "name": "杏仁みる",
           "profileURL": "https://jpop.fandom.com/wiki/Annin_Miru",
@@ -616,7 +672,7 @@
           }
         },
         {
-          "uuid": "292B6A35-F4FF-4853-8B9E-2FADE2CF56E4",
+          "uuid": "D30450B4-06AC-4C5F-839C-C28D84E93E08",
           "masterId": "heroines_calandres_kujo_asuna",
           "name": "九条あすな",
           "profileURL": "https://jpop.fandom.com/wiki/Kujo_Asuna",
@@ -630,7 +686,7 @@
           }
         },
         {
-          "uuid": "C415F027-B81A-4E55-953D-70820A68E24F",
+          "uuid": "CC4F43B7-4274-4553-9E97-79BC830E9D06",
           "masterId": "heroines_calandres_asumi_maaya",
           "name": "明日実まあや",
           "profileURL": "https://jpop.fandom.com/wiki/Asumi_Maaya",
@@ -646,7 +702,7 @@
       ]
     },
     {
-      "uuid": "B7E92126-0A4C-4DBA-AD7C-5B069BDF9920",
+      "uuid": "1D6E6EDE-E631-4428-8636-81240E8CC4B3",
       "masterId": "heroines_ill",
       "name": "Ill",
       "isActive": true,
@@ -662,7 +718,7 @@
       },
       "members": [
         {
-          "uuid": "C8992965-DFAB-4FB1-9C3D-2EB813C58803",
+          "uuid": "95C8B57A-6CAB-425F-87E6-94E1B62BE232",
           "masterId": "heroines_ill_aoi_kanau",
           "name": "蒼井叶",
           "profileURL": "https://jpop.fandom.com/wiki/Aoi_Kanau",
@@ -676,7 +732,7 @@
           }
         },
         {
-          "uuid": "5184BF7E-4C7C-42F6-9214-77580652562E",
+          "uuid": "87D250A2-8010-47E7-A02A-6C1FDE45CCAC",
           "masterId": "heroines_ill_shirayuki_himeno",
           "name": "白雪姫乃",
           "profileURL": "https://jpop.fandom.com/wiki/Shirayuki_Himeno",
@@ -690,7 +746,7 @@
           }
         },
         {
-          "uuid": "76A83504-800C-43A1-A279-4E9CE8305A59",
+          "uuid": "9E5FB858-5D6A-4AF4-ACC0-5864F84E51FF",
           "masterId": "heroines_ill_shikino_shiki",
           "name": "紫ノ色",
           "profileURL": "https://jpop.fandom.com/wiki/Shikino_Shiki",
@@ -704,7 +760,7 @@
           }
         },
         {
-          "uuid": "3F2328F2-EA9F-4BD5-87CD-7E62F825AB5F",
+          "uuid": "636FFD39-B44F-4774-A3AF-90A0A7F8922C",
           "masterId": "heroines_ill_mori_marimo",
           "name": "森緑藻",
           "profileURL": "https://jpop.fandom.com/wiki/Mori_Marimo",
@@ -720,7 +776,7 @@
       ]
     },
     {
-      "uuid": "7EA3CC11-7457-4C35-AE67-2C10FBB2E325",
+      "uuid": "281136C9-4AB4-4E34-9E61-65225011612E",
       "masterId": "heroines_i_col",
       "name": "i-COL",
       "isActive": true,
@@ -736,7 +792,7 @@
       },
       "members": [
         {
-          "uuid": "28FC04D0-3CCD-4DCB-94B8-2597BB39982A",
+          "uuid": "4019463E-C4A0-41D8-B8EF-2B77F0EB77FE",
           "masterId": "heroines_ilife_aisu",
           "name": "あいす",
           "profileURL": "https://jpop.fandom.com/wiki/Aisu",
@@ -750,7 +806,7 @@
           }
         },
         {
-          "uuid": "21CA05C6-DE4E-477C-A6C9-2AF84797ECFE",
+          "uuid": "9FAF24CF-B274-40B6-9ECC-6E60CCD4C591",
           "masterId": "heroines_nonfiction_colne",
           "name": "こるね",
           "profileURL": "https://jpop.fandom.com/wiki/Colne",
@@ -766,7 +822,7 @@
       ]
     },
     {
-      "uuid": "8467C844-C829-4855-9471-A7E9B527A066",
+      "uuid": "BF0837CC-A705-4E4F-B096-B027C622410B",
       "masterId": "heroines_parallel_cider",
       "name": "パラレルサイダー",
       "isActive": true,
@@ -782,7 +838,7 @@
       },
       "members": [
         {
-          "uuid": "6B0ADACA-FE80-4C7F-926F-F93802CE7528",
+          "uuid": "A686B5A9-942C-4AE9-A13F-E4E1153D5DF1",
           "masterId": "heroines_parallel_cider_yuuki_ai",
           "name": "小熊まな香",
           "profileURL": "https://jpop.fandom.com/wiki/Yuuki_Ai",
@@ -796,7 +852,7 @@
           }
         },
         {
-          "uuid": "B8EE16E8-82B7-4160-AD38-DD41846716C4",
+          "uuid": "25980794-C847-478D-97BE-52D8F6FDD645",
           "masterId": "heroines_parallel_cider_kosaka_mion",
           "name": "小坂みおん",
           "profileURL": "https://jpop.fandom.com/wiki/Kosaka_Mion",
@@ -810,7 +866,7 @@
           }
         },
         {
-          "uuid": "AEF1C809-B292-42A1-A2F9-E59FDF3AB29C",
+          "uuid": "449D2788-FF52-42D3-9F9A-725A456973AC",
           "masterId": "heroines_parallel_cider_hazuki_mitsuha",
           "name": "葉月みつは",
           "profileURL": "https://jpop.fandom.com/wiki/Hazuki_Mitsuha",
@@ -824,7 +880,7 @@
           }
         },
         {
-          "uuid": "119486A9-2ADA-492E-96E3-56DEBB216FB8",
+          "uuid": "25F51D38-23BC-4C1C-87AA-F1DE0BCC0F8E",
           "masterId": "heroines_parallel_cider_asuma_yuno",
           "name": "彩音ゆの",
           "profileURL": "https://jpop.fandom.com/wiki/Asuma_Yuno",
@@ -838,7 +894,7 @@
           }
         },
         {
-          "uuid": "A71B5C58-0937-4BC0-AB7A-013235768398",
+          "uuid": "24DEBE5A-C675-4E9A-B209-55960E99A60E",
           "masterId": "heroines_parallel_cider_miyana_moco",
           "name": "宮奈もこ",
           "profileURL": "https://jpop.fandom.com/wiki/Miyana_Moco",
@@ -852,7 +908,7 @@
           }
         },
         {
-          "uuid": "C6E02FE6-B431-4F6A-B2EA-5737D521B60D",
+          "uuid": "ABE56321-4B17-42B5-8324-0CFB960C4695",
           "masterId": "heroines_parallel_cider_usami_ako",
           "name": "宇佐美あこ",
           "profileURL": "https://jpop.fandom.com/wiki/Usami_Ako",
@@ -868,7 +924,7 @@
       ]
     },
     {
-      "uuid": "FC4BFF3A-1DA6-4608-B36A-852B44BCDECA",
+      "uuid": "DD79A21B-095C-475C-BC11-40746506D190",
       "masterId": "heroines_giltyxgilty",
       "name": "GILTY×GILTY",
       "isActive": true,
@@ -884,7 +940,7 @@
       },
       "members": [
         {
-          "uuid": "C8992965-DFAB-4FB1-9C3D-2EB813C58803",
+          "uuid": "95C8B57A-6CAB-425F-87E6-94E1B62BE232",
           "masterId": "heroines_ill_aoi_kanau",
           "name": "蒼井叶",
           "profileURL": "https://jpop.fandom.com/wiki/Aoi_Kanau",
@@ -898,7 +954,7 @@
           }
         },
         {
-          "uuid": "5184BF7E-4C7C-42F6-9214-77580652562E",
+          "uuid": "87D250A2-8010-47E7-A02A-6C1FDE45CCAC",
           "masterId": "heroines_ill_shirayuki_himeno",
           "name": "白雪姫乃",
           "profileURL": "https://jpop.fandom.com/wiki/Shirayuki_Himeno",
@@ -912,7 +968,7 @@
           }
         },
         {
-          "uuid": "9E70315A-F5AB-4EDC-B5E0-38B7BC33A7D1",
+          "uuid": "DF67B885-1911-472B-B849-6D5908FF4D9A",
           "masterId": "heroines_yakousei_amuse_hakuu_coai",
           "name": "白空こあい",
           "profileURL": "https://jpop.fandom.com/wiki/Hakuu_Coai",
@@ -926,7 +982,7 @@
           }
         },
         {
-          "uuid": "611131C3-2177-4C5A-A9C4-8F25EFD691F0",
+          "uuid": "0405C0E0-126E-40D1-8E8C-5B4A10051B10",
           "masterId": "heroines_ilife_konose_haruka",
           "name": "恋星はるか",
           "profileURL": "https://jpop.fandom.com/wiki/Konose_Haruka",
@@ -940,7 +996,7 @@
           }
         },
         {
-          "uuid": "AFF1B036-4F6F-477F-A0A8-1BFED91F2A0C",
+          "uuid": "98E304B7-DF59-4A2C-8AD7-EE237967ACF4",
           "masterId": "heroines_ilife_konoka_riri",
           "name": "心花りり",
           "profileURL": "https://jpop.fandom.com/wiki/Konoka_Riri",
@@ -956,7 +1012,7 @@
       ]
     },
     {
-      "uuid": "0441CC54-DA74-4A14-9A22-2877C9A37AC9",
+      "uuid": "A824EC90-8F12-4451-8A08-478F3AF89351",
       "masterId": "heroines_adamlilith",
       "name": "AdamLilith",
       "isActive": true,
@@ -972,7 +1028,7 @@
       },
       "members": [
         {
-          "uuid": "D6DE3620-FA0F-47D5-A99F-FF780F0AE545",
+          "uuid": "7AEBF783-A5F6-4C4F-B1CA-432C04998AF1",
           "masterId": "heroines_adamlilith_yayoi_yamu",
           "name": "夜宵やむ",
           "profileURL": "https://jpop.fandom.com/wiki/Yayoi_Yamu",
@@ -986,7 +1042,7 @@
           }
         },
         {
-          "uuid": "4068623B-8CD1-4FA6-80A0-9FCA2E6331DA",
+          "uuid": "03178F19-D751-47AE-B6B8-94616D3D990A",
           "masterId": "heroines_adamlilith_miki_ray",
           "name": "三木零",
           "profileURL": "https://jpop.fandom.com/wiki/Miki_Ray",
@@ -1000,7 +1056,7 @@
           }
         },
         {
-          "uuid": "1A6DFDD8-B0A8-482D-8FC8-B04878F39D79",
+          "uuid": "8DF6281D-7A78-485D-9811-7228D5F12908",
           "masterId": "heroines_adamlilith_miyako_yuna",
           "name": "都ユナ",
           "profileURL": "https://jpop.fandom.com/wiki/Miyako_Yuna",
@@ -1014,7 +1070,7 @@
           }
         },
         {
-          "uuid": "D0F21AAA-A743-4FE0-A60D-946240E167F4",
+          "uuid": "1BE121D7-FC15-455D-B34F-B22B71C186D3",
           "masterId": "heroines_adamlilith_otoha_rizu",
           "name": "響羽リズ",
           "profileURL": "https://jpop.fandom.com/wiki/Otoha_Rizu",
@@ -1030,7 +1086,7 @@
       ]
     },
     {
-      "uuid": "582E3A92-FBA0-49EE-8313-FB4AD3390A69",
+      "uuid": "1A0A0441-D84B-4959-B209-828061F49CC9",
       "masterId": "heroines_zuttomotto",
       "name": "ZUTTOMOTTO",
       "isActive": true,
@@ -1046,7 +1102,7 @@
       },
       "members": [
         {
-          "uuid": "29616F22-65BE-4F48-A124-6CE4633EF4DC",
+          "uuid": "21C097AD-890A-417E-822E-63CDF5FE60E7",
           "masterId": "heroines_zuttomotto_kousaka_rin",
           "name": "高坂りん",
           "profileURL": "https://jpop.fandom.com/wiki/Kousaka_Rin",
@@ -1060,7 +1116,7 @@
           }
         },
         {
-          "uuid": "4969449B-6CF6-43B8-8BA1-92F95319A70A",
+          "uuid": "387C39C3-8310-4E0A-9294-116284379280",
           "masterId": "heroines_zuttomotto_shinomiya_elu",
           "name": "四宮える",
           "profileURL": "https://jpop.fandom.com/wiki/Shinomiya_Elu",
@@ -1074,7 +1130,7 @@
           }
         },
         {
-          "uuid": "74C6A58C-B5AF-4475-83BB-D32C192D026B",
+          "uuid": "46C942D8-7C00-40BD-AA6B-35FAD713B9AB",
           "masterId": "heroines_zuttomotto_masora_seira",
           "name": "真空せいら",
           "profileURL": "https://jpop.fandom.com/wiki/Masora_Seira",
@@ -1088,7 +1144,7 @@
           }
         },
         {
-          "uuid": "70A33DBE-CF25-4BF1-8E19-F18B5F52CFFD",
+          "uuid": "FDEBC3D1-AFD6-4957-A89B-98706D470C44",
           "masterId": "heroines_zuttomotto_shiina_suzu",
           "name": "椎名すず",
           "profileURL": "https://jpop.fandom.com/wiki/Shiina_Suzu",
@@ -1102,7 +1158,7 @@
           }
         },
         {
-          "uuid": "772FF253-F557-49FC-A987-13668C721487",
+          "uuid": "7BAFD690-5340-4734-AADA-7DE006B65854",
           "masterId": "heroines_zuttomotto_mochizuki_mira",
           "name": "望月みら",
           "profileURL": "https://jpop.fandom.com/wiki/Mochizuki_Mira",
@@ -1116,7 +1172,7 @@
           }
         },
         {
-          "uuid": "B76DE781-AA97-4788-8200-1980B451CBB9",
+          "uuid": "8F00F3D2-6A0A-4696-8FA7-83995E499B1D",
           "masterId": "heroines_zuttomotto_sakura_an",
           "name": "佐倉あん",
           "profileURL": "https://jpop.fandom.com/wiki/Sakura_An",
@@ -1130,7 +1186,7 @@
           }
         },
         {
-          "uuid": "ED80B297-7C28-42D6-891B-32D0724F3C25",
+          "uuid": "BFD3074F-2533-4167-B08D-3FD526EBC555",
           "masterId": "heroines_zuttomotto_aoba_waka",
           "name": "青羽わか",
           "profileURL": "https://jpop.fandom.com/wiki/Aoba_Waka",
@@ -1146,7 +1202,7 @@
       ]
     },
     {
-      "uuid": "4459513A-1197-4C69-9824-DBF0766BFA5F",
+      "uuid": "2F25308F-0BA6-419E-BE78-0578A382203D",
       "masterId": "heroines_ladybaby",
       "name": "LADYBABY",
       "isActive": true,
@@ -1162,7 +1218,7 @@
       },
       "members": [
         {
-          "uuid": "F917973F-82BF-4500-815A-D801E3B89279",
+          "uuid": "072FB133-874E-427D-9E58-E646277A8044",
           "masterId": "heroines_ladybaby_kanrei_mia",
           "name": "神黎ミア",
           "profileURL": "https://jpop.fandom.com/wiki/Kanrei_Mia",
@@ -1176,7 +1232,7 @@
           }
         },
         {
-          "uuid": "BBB52DF9-BEDC-457D-BCDD-291105C909C5",
+          "uuid": "855A4BAE-168A-4BF6-9142-C39C88EAD6A6",
           "masterId": "heroines_ladybaby_kurusaki_sena",
           "name": "來崎せな",
           "profileURL": "https://jpop.fandom.com/wiki/Kurusaki_Sena",
@@ -1190,7 +1246,7 @@
           }
         },
         {
-          "uuid": "405A720D-A705-4DEB-98AC-247317ADADAA",
+          "uuid": "FAD78630-F9AC-4A97-B411-240CD5BA8792",
           "masterId": "heroines_ladybaby_tsukimachi_ei",
           "name": "月街えい",
           "profileURL": "https://jpop.fandom.com/wiki/Tsukimachi_Ei",
@@ -1204,7 +1260,7 @@
           }
         },
         {
-          "uuid": "02ECEEF3-E18A-4121-9DE0-D3D45EE3B317",
+          "uuid": "6DBA3985-68C3-449F-AA4F-77C5F68BF8F8",
           "masterId": "heroines_ladybaby_ochi_kino",
           "name": "越智きの︎",
           "profileURL": "https://jpop.fandom.com/wiki/Ochi_Kino",
@@ -1220,7 +1276,7 @@
       ]
     },
     {
-      "uuid": "69E2A71B-97E1-4CDE-BF9A-69531A04796B",
+      "uuid": "3DE57D76-4707-40C3-AAD3-1897284D280A",
       "masterId": "heroines_akishibu_project",
       "name": "アキシブproject",
       "isActive": true,
@@ -1236,7 +1292,7 @@
       },
       "members": [
         {
-          "uuid": "54F047AE-FA7B-4B13-A077-80772AAA7CC0",
+          "uuid": "0F47D42C-EB30-40F9-9A3D-83ECC4AAFF55",
           "masterId": "heroines_akishibu_project_aoi_fuu_akishibu_project",
           "name": "葵ふう",
           "profileURL": "https://jpop.fandom.com/wiki/Aoi_Fuu_(Akishibu_project)",
@@ -1250,7 +1306,7 @@
           }
         },
         {
-          "uuid": "BE455415-91D6-431A-B991-BAD210E79BF2",
+          "uuid": "E498702C-DCC4-4CFD-9277-5302EF1E1AE2",
           "masterId": "heroines_akishibu_project_kisaragi_nana",
           "name": "如月なな",
           "profileURL": "https://jpop.fandom.com/wiki/Kisaragi_Nana",
@@ -1264,7 +1320,7 @@
           }
         },
         {
-          "uuid": "2417D64A-61F3-4C8E-B3DF-312A26A6BA17",
+          "uuid": "C558E756-B794-40D5-86CF-AB84FA821EAC",
           "masterId": "heroines_akishibu_project_kiyomi_run",
           "name": "清見るん",
           "profileURL": "https://jpop.fandom.com/wiki/Kiyomi_Run",
@@ -1278,7 +1334,7 @@
           }
         },
         {
-          "uuid": "B0D8740C-A24B-47EB-9C10-5F983A834FFB",
+          "uuid": "0D63AD73-450E-4438-9A0F-B4D1A60A93F2",
           "masterId": "heroines_akishibu_project_matsui_rana",
           "name": "茉井良菜",
           "profileURL": "https://jpop.fandom.com/wiki/Matsui_Rana",
@@ -1292,7 +1348,7 @@
           }
         },
         {
-          "uuid": "9562E616-AB86-4F5C-803C-A941D958E4A1",
+          "uuid": "62C2D322-FA8E-487E-A1BE-2A6A9CE19E40",
           "masterId": "heroines_akishibu_project_mikoto_manami",
           "name": "水琴まなみ",
           "profileURL": "https://jpop.fandom.com/wiki/Mikoto_Manami",
@@ -1306,7 +1362,7 @@
           }
         },
         {
-          "uuid": "90EC86BE-1108-4C1A-982E-FC1883CEA4E4",
+          "uuid": "253D29C6-ADA2-48F9-90C0-BF63DDD52131",
           "masterId": "heroines_akishibu_project_amakawa_hotaru",
           "name": "天川ほたる",
           "profileURL": "https://jpop.fandom.com/wiki/Amakawa_Hotaru",
@@ -1320,7 +1376,7 @@
           }
         },
         {
-          "uuid": "EE4DE881-06EB-4A8F-8167-23093BC89402",
+          "uuid": "508C5554-CD9A-46A7-9E7E-019954335DCD",
           "masterId": "heroines_akishibu_project_yumesaki_arisa",
           "name": "夢咲ありさ",
           "profileURL": "https://jpop.fandom.com/wiki/Yumesaki_Arisa",
@@ -1336,7 +1392,7 @@
       ]
     },
     {
-      "uuid": "285CFF48-59B0-4A66-BC82-1195A9710B6E",
+      "uuid": "39CAB592-A1D9-483D-9C1B-2299C9B46A28",
       "masterId": "heroines_chula",
       "name": "chuLa",
       "isActive": true,
@@ -1352,7 +1408,7 @@
       },
       "members": [
         {
-          "uuid": "655D2FF3-E57A-463F-A105-668923FDDA69",
+          "uuid": "163B3614-6688-4250-AF7C-D3B1461FF26A",
           "masterId": "heroines_chula_hamachi_hiyo",
           "name": "はまちひよ",
           "profileURL": "https://jpop.fandom.com/wiki/Hamachi_Hiyo",
@@ -1366,7 +1422,7 @@
           }
         },
         {
-          "uuid": "95744F36-D1D8-46F2-8B09-A6FD08B99824",
+          "uuid": "F88E636B-59B2-4E2C-AA22-9E816A7F986B",
           "masterId": "heroines_chula_ameiro_ringo",
           "name": "飴色りんご",
           "profileURL": "https://jpop.fandom.com/wiki/Ameiro_Ringo",
@@ -1380,7 +1436,7 @@
           }
         },
         {
-          "uuid": "32401653-638A-4B50-8922-24BBB0536C7B",
+          "uuid": "58AD765B-3BBC-4272-9ACC-3BBE8AE6AE59",
           "masterId": "heroines_chula_kagami_mirano",
           "name": "明鏡みらの",
           "profileURL": "https://jpop.fandom.com/wiki/Kagami_Mirano",
@@ -1394,7 +1450,7 @@
           }
         },
         {
-          "uuid": "D97F962E-BE23-410A-8D82-505BC887E2D0",
+          "uuid": "7CFB7DDC-065D-45CE-B7B0-E1211CB217A3",
           "masterId": "heroines_chula_hisaki_mio",
           "name": "陽咲みお",
           "profileURL": "https://jpop.fandom.com/wiki/Hisaki_Mio",
@@ -1408,7 +1464,7 @@
           }
         },
         {
-          "uuid": "AC44B18B-6E8E-46B3-931C-1754E417D787",
+          "uuid": "7DDDF41D-8AF5-4D83-B334-0B6BAE3EC23B",
           "masterId": "heroines_chula_tsurara_rara",
           "name": "紫藤らら",
           "profileURL": "https://jpop.fandom.com/wiki/Tsurara_Rara",
@@ -1422,7 +1478,7 @@
           }
         },
         {
-          "uuid": "0122103B-1D70-40B6-A095-3A47D43071D4",
+          "uuid": "C7F3F648-69EB-45AB-A304-915C799E9E9A",
           "masterId": "heroines_chula_mano_yuni",
           "name": "茉野ゆに",
           "profileURL": "https://jpop.fandom.com/wiki/Mano_Yuni",
@@ -1436,7 +1492,7 @@
           }
         },
         {
-          "uuid": "F530C4E6-E9D3-4371-B795-6A81436D3898",
+          "uuid": "69D83EBD-365F-4057-82C4-537C7490CFCC",
           "masterId": "heroines_chula_seno_tsubasa",
           "name": "世野つばさ",
           "profileURL": "https://jpop.fandom.com/wiki/Seno_Tsubasa",
@@ -1452,7 +1508,7 @@
       ]
     },
     {
-      "uuid": "731DCB0E-D464-4E59-89BB-95AF78C270C0",
+      "uuid": "1A299AC6-3565-4873-B104-9ECC7EAEDD10",
       "masterId": "heroines_paradeeq",
       "name": "パラディーク",
       "isActive": true,
@@ -1468,7 +1524,7 @@
       },
       "members": [
         {
-          "uuid": "43840CBB-66A1-4F4D-AC64-6F6FFC2D75B2",
+          "uuid": "B475E9D0-E9D4-480E-B60D-8504F62D51AB",
           "masterId": "heroines_paradeeq_mizuno_mei",
           "name": "水野めい",
           "profileURL": "https://jpop.fandom.com/wiki/Mizuno_Mei",
@@ -1482,7 +1538,7 @@
           }
         },
         {
-          "uuid": "B54BAE1D-20D5-4A44-BFB2-22F6493509A7",
+          "uuid": "E7D5F5B3-57E8-4F77-B7B3-A6996DAF4B04",
           "masterId": "heroines_paradeeq_kurusu_yuru",
           "name": "来栖ゆる",
           "profileURL": "https://jpop.fandom.com/wiki/Kurusu_Yuru",
@@ -1496,7 +1552,7 @@
           }
         },
         {
-          "uuid": "CD69972C-4461-4361-BBB8-66497D271330",
+          "uuid": "C2D741FA-87D2-4CBD-9378-348F544D7AE2",
           "masterId": "heroines_paradeeq_araki_runo",
           "name": "新木るの",
           "profileURL": "https://jpop.fandom.com/wiki/Araki_Runo",
@@ -1510,7 +1566,7 @@
           }
         },
         {
-          "uuid": "C02C5656-AD41-4B17-A7CA-2592E6C2E58B",
+          "uuid": "21B5352E-B3F4-4B9F-9AB7-33A9EF326610",
           "masterId": "heroines_paradeeq_akarida_niji",
           "name": "灯田にじ",
           "profileURL": "https://jpop.fandom.com/wiki/Akarida_Niji",
@@ -1524,7 +1580,7 @@
           }
         },
         {
-          "uuid": "E3A7C763-8756-4846-87A3-C3FDF835A46B",
+          "uuid": "41523234-9D27-4A98-992B-04623F4D5608",
           "masterId": "heroines_paradeeq_hamabe_shizuku",
           "name": "浜辺しずく",
           "profileURL": "https://jpop.fandom.com/wiki/Hamabe_Shizuku",
@@ -1538,7 +1594,7 @@
           }
         },
         {
-          "uuid": "57814E0A-99F0-4365-8545-89CF5D658D10",
+          "uuid": "5A1276A2-752E-417B-862F-19AC361AA702",
           "masterId": "heroines_paradeeq_yuzuriha_mikan",
           "name": "楪みかん",
           "profileURL": "https://jpop.fandom.com/wiki/Yuzuriha_Mikan",
@@ -1552,7 +1608,7 @@
           }
         },
         {
-          "uuid": "4F78BD0B-AD3D-48CD-AD0B-73A99CA752E7",
+          "uuid": "040EB452-B867-421E-AB1C-2F3E507E455E",
           "masterId": "heroines_paradeeq_hinazuki_hina",
           "name": "雛月ひな",
           "profileURL": "https://jpop.fandom.com/wiki/Hinazuki_Hina",
@@ -1566,7 +1622,7 @@
           }
         },
         {
-          "uuid": "89810529-7CC8-4630-9823-4B486F2A9792",
+          "uuid": "651FE14E-00AE-4490-A48F-16A213C16554",
           "masterId": "heroines_paradeeq_hisame_kokona",
           "name": "氷雨ここな",
           "profileURL": "https://jpop.fandom.com/wiki/Hisame_Kokona",
@@ -1578,11 +1634,25 @@
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@para_kokona"
           }
+        },
+        {
+          "uuid": "C2269DDE-1D76-4363-A172-13F0F5DD62A7",
+          "masterId": "heroines_paradeeq_ouzora_chuin",
+          "name": "桜空ちゅいん",
+          "profileURL": "https://jpop.fandom.com/wiki/Ouzora_Chuin",
+          "isGraduated": false,
+          "colorHex": "#FF99CB",
+          "birthday": "09-20",
+          "sns": {
+            "twitter": "https://x.com/para_chuin",
+            "instagram": null,
+            "tiktok": null
+          }
         }
       ]
     },
     {
-      "uuid": "8619A02D-213D-4711-B28F-987B863CFA46",
+      "uuid": "6DF2B6B2-7051-462B-A85A-FE08091BB849",
       "masterId": "heroines_dress_code",
       "name": "ドレスコード",
       "isActive": true,
@@ -1598,7 +1668,7 @@
       },
       "members": [
         {
-          "uuid": "D423EE61-CCA6-41B5-951D-9A2A382BC256",
+          "uuid": "DCA48ABC-4DF1-4931-9535-78C0E0360EE6",
           "masterId": "heroines_dress_code_momomiya_mimo",
           "name": "百宮みも",
           "profileURL": "https://jpop.fandom.com/wiki/Momomiya_Mimo",
@@ -1612,7 +1682,7 @@
           }
         },
         {
-          "uuid": "BBD1D863-26AD-484B-B230-504499460432",
+          "uuid": "6A3B5469-58D8-473E-9FF8-B3C46B1C7845",
           "masterId": "heroines_dress_code_asuma_rinoa",
           "name": "飛茉りのあ",
           "profileURL": "https://jpop.fandom.com/wiki/Asuma_Rinoa",
@@ -1626,7 +1696,7 @@
           }
         },
         {
-          "uuid": "8764AD23-D2C8-406B-AF10-C9652B43EE02",
+          "uuid": "94AEEB44-7B83-4DEE-B261-E3314C9258E9",
           "masterId": "heroines_dress_code_kosuzu_moyu",
           "name": "小鈴もゆ",
           "profileURL": "https://jpop.fandom.com/wiki/Kosuzu_Moyu",
@@ -1640,7 +1710,7 @@
           }
         },
         {
-          "uuid": "FA7754E6-8C36-4B0A-83D0-498C18515B46",
+          "uuid": "B62228A6-AA12-4A69-AA7B-B20541933AF5",
           "masterId": "heroines_dress_code_otogi_rilum",
           "name": "御伽りるむ",
           "profileURL": "https://jpop.fandom.com/wiki/Otogi_Rilum",
@@ -1654,7 +1724,7 @@
           }
         },
         {
-          "uuid": "7939C08B-42EA-43AC-A92B-10174F577FB4",
+          "uuid": "62363496-1FD0-44BF-8376-5723C14893EF",
           "masterId": "heroines_dress_code_asahi_maru",
           "name": "朝日まる",
           "profileURL": "https://jpop.fandom.com/wiki/Asahi_Maru",
@@ -1670,7 +1740,7 @@
       ]
     },
     {
-      "uuid": "575CAC1F-5653-487E-8B16-766830E7D257",
+      "uuid": "F0368856-C54C-4218-85AC-F2D1E0382DEE",
       "masterId": "heroines_megafon",
       "name": "MEGAFON",
       "isActive": true,
@@ -1686,7 +1756,7 @@
       },
       "members": [
         {
-          "uuid": "33141B6C-E962-4F0F-B3A8-2C9E56BAF073",
+          "uuid": "C7D93994-841C-48B0-A7B7-750F66B2ECD4",
           "masterId": "heroines_megafon_konomi_ren",
           "name": "好実れん",
           "profileURL": "https://jpop.fandom.com/wiki/Konomi_Ren",
@@ -1700,7 +1770,7 @@
           }
         },
         {
-          "uuid": "E8404C8C-E5C5-4CB7-A4E5-0BAC8BBC5269",
+          "uuid": "6571929E-5FC8-4962-B9AB-0A81AEA679E0",
           "masterId": "heroines_megafon_koharu_noka",
           "name": "小晴のか",
           "profileURL": "https://jpop.fandom.com/wiki/Koharu_Noka",
@@ -1714,7 +1784,7 @@
           }
         },
         {
-          "uuid": "91086CFE-6072-4AA3-AEEA-75BB0B1BFB0A",
+          "uuid": "D0127D99-3E55-4D52-9145-47E5448AF4E8",
           "masterId": "heroines_megafon_hoshino_ami_megafon",
           "name": "星野あみ",
           "profileURL": "https://jpop.fandom.com/wiki/Hoshino_Ami_(MEGAFON)",
@@ -1728,7 +1798,7 @@
           }
         },
         {
-          "uuid": "11704814-18A2-4F67-950E-57B9C10811F7",
+          "uuid": "1787D9E2-57DC-4A17-A3D6-8D2F5932B294",
           "masterId": "heroines_megafon_ramune_iroha",
           "name": "明音いろは",
           "profileURL": "https://jpop.fandom.com/wiki/Ramune_Iroha",
@@ -1742,7 +1812,7 @@
           }
         },
         {
-          "uuid": "52B6A0EC-C835-4E35-A051-7FC5C6B225BE",
+          "uuid": "74563DA3-0D04-48F4-9B23-F8BCBB1226C3",
           "masterId": "heroines_megafon_wakumo_roko",
           "name": "羽雲ろこ",
           "profileURL": "https://jpop.fandom.com/wiki/Wakumo_Roko",
@@ -1756,7 +1826,7 @@
           }
         },
         {
-          "uuid": "12AD4C3D-922D-4723-BE64-BCB0D973D0E0",
+          "uuid": "0AFC843D-FD9B-42EF-9F42-F550AFA3815D",
           "masterId": "heroines_megafon_himari_kii",
           "name": "日陽きい",
           "profileURL": "https://jpop.fandom.com/wiki/Himari_Kii",
@@ -1770,7 +1840,7 @@
           }
         },
         {
-          "uuid": "18BF5701-C108-493F-9F68-E33449C17D52",
+          "uuid": "0FF899B1-A7DA-4012-97A5-FD4831F06CC1",
           "masterId": "heroines_megafon_miyashiro_yuki",
           "name": "宮代ゆき",
           "profileURL": "https://jpop.fandom.com/wiki/Miyashiro_Yuki",
@@ -1786,7 +1856,7 @@
       ]
     },
     {
-      "uuid": "8B5D6201-CAEB-4DD1-BF9B-7B842B4A1B09",
+      "uuid": "DDC9CC36-C9AF-49DF-A272-C188A2B137B5",
       "masterId": "heroines_ion",
       "name": "iON!",
       "isActive": true,
@@ -1802,7 +1872,7 @@
       },
       "members": [
         {
-          "uuid": "7260169D-1023-4812-BEB4-9D9BADD13B17",
+          "uuid": "89CB50EF-46EE-466F-A814-9F152DCBEB91",
           "masterId": "heroines_ion_uno_yuri",
           "name": "宇野ゆり",
           "profileURL": "https://jpop.fandom.com/wiki/Uno_Yuri",
@@ -1811,12 +1881,12 @@
           "birthday": "02-22",
           "sns": {
             "twitter": "https://x.com/iON_yuri_",
-            "instagram": null,
+            "instagram": "https://www.instagram.com/yuri_heroines/",
             "tiktok": "https://www.tiktok.com/@yuri_heroines"
           }
         },
         {
-          "uuid": "E2148809-7678-4F15-8EA0-47DAD3C3E537",
+          "uuid": "CAD15A75-56CE-411F-94CC-25DD53A5C164",
           "masterId": "heroines_ion_hanamaru_peco",
           "name": "花丸ぺこ",
           "profileURL": "https://jpop.fandom.com/wiki/Hanamaru_Peco",
@@ -1830,7 +1900,7 @@
           }
         },
         {
-          "uuid": "652AC12B-1C5D-4A5A-947B-3D8B88378AFF",
+          "uuid": "16579865-2721-460E-B8B9-EE40CF12D7E2",
           "masterId": "heroines_ion_hakane_kono",
           "name": "儚寧この",
           "profileURL": "https://jpop.fandom.com/wiki/Hakane_Kono",
@@ -1844,7 +1914,7 @@
           }
         },
         {
-          "uuid": "5CA3994F-48EB-4D01-8DB7-8FE9BD5DE95E",
+          "uuid": "1F73E71E-0C7B-45A5-94EC-2250AA835EC8",
           "masterId": "heroines_ion_kurisu_mugi",
           "name": "栗栖むぎ",
           "profileURL": "https://jpop.fandom.com/wiki/Kurisu_Mugi",
@@ -1858,7 +1928,7 @@
           }
         },
         {
-          "uuid": "1D507828-D809-4F99-8ECA-431A0F6D0690",
+          "uuid": "DB996BC9-390B-4109-99C8-F4A33A0C9FE5",
           "masterId": "heroines_ion_kaguya_kurara",
           "name": "伽久耶くらら",
           "profileURL": "https://jpop.fandom.com/wiki/Kaguya_Kurara",
@@ -1872,7 +1942,7 @@
           }
         },
         {
-          "uuid": "AF6088F7-A007-49D2-A59A-93148047A6F0",
+          "uuid": "11581505-438B-4E4F-9308-8B3719D67BC1",
           "masterId": "heroines_ion_suzumiya_rise",
           "name": "鈴都りせ",
           "profileURL": "https://jpop.fandom.com/wiki/Suzumiya_Rise",
@@ -1886,7 +1956,7 @@
           }
         },
         {
-          "uuid": "88C3B662-135D-4D96-A8E7-DDF8F636EB55",
+          "uuid": "F6F29BDC-DF19-4166-B804-DBE8C38AC63C",
           "masterId": "heroines_ion_nakumo_menma",
           "name": "名雲めんま",
           "profileURL": "https://jpop.fandom.com/wiki/Nakumo_Menma",
@@ -1900,7 +1970,7 @@
           }
         },
         {
-          "uuid": "A6752C4A-F909-4032-A848-FC4E3A9B80B8",
+          "uuid": "C72FBFEA-73E2-4EFB-B04F-4AA667A11A4B",
           "masterId": "heroines_ion_tomari_kuria",
           "name": "透明くりあ",
           "profileURL": "https://jpop.fandom.com/wiki/Tomari_Kuria",
@@ -1914,7 +1984,7 @@
           }
         },
         {
-          "uuid": "7A15EDCF-9B6C-48F0-B458-7C8780947F9C",
+          "uuid": "9EAAD020-0590-46F2-AA69-B7E9B56F6378",
           "masterId": "heroines_ion_osu_kanon",
           "name": "大須かのん",
           "profileURL": "https://jpop.fandom.com/wiki/Osu_Kanon",
@@ -1928,7 +1998,7 @@
           }
         },
         {
-          "uuid": "77E0A58A-57BB-4F8B-AF0D-44DC6EFA1AC1",
+          "uuid": "76154E7D-BD83-444F-9BF1-9C7DE4A047E2",
           "masterId": "heroines_ion_maisen_ekubo",
           "name": "苺川えくぼ",
           "profileURL": "https://jpop.fandom.com/wiki/Maisen_Ekubo",
@@ -1944,9 +2014,9 @@
       ]
     },
     {
-      "uuid": "19825F13-B288-4A6A-AAE6-002D2E961C0A",
+      "uuid": "5AF70226-6147-467B-BF15-08B0CD0C9F66",
       "masterId": "heroines_pastel_closet",
-      "name": "パステルクローゼット",
+      "name": "Pastel Closet",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/Pastel_Closet",
       "colorHex": null,
@@ -1960,7 +2030,7 @@
       },
       "members": [
         {
-          "uuid": "E758DC5D-71A5-45F3-AF96-D8B766A22CC0",
+          "uuid": "BB6ACAB2-E675-44DC-B4F2-EE20DB060663",
           "masterId": "heroines_pastel_closet_shinohara_sakura",
           "name": "篠原さくら",
           "profileURL": "https://jpop.fandom.com/wiki/Shinohara_Sakura",
@@ -1974,7 +2044,7 @@
           }
         },
         {
-          "uuid": "6884827D-AFF2-46FE-9842-BE74387A22EE",
+          "uuid": "F1D1173E-7601-4335-A312-D110D6C77D2F",
           "masterId": "heroines_pastel_closet_yukino_reia",
           "name": "幸野れいあ",
           "profileURL": "https://jpop.fandom.com/wiki/Yukino_Reia",
@@ -1988,7 +2058,7 @@
           }
         },
         {
-          "uuid": "8AD96044-4241-4351-8C72-15B6387FBEF6",
+          "uuid": "2E3406BD-AE9F-4E58-8346-334AE17E74F0",
           "masterId": "heroines_pastel_closet_nishina_mitsu",
           "name": "仁科美都",
           "profileURL": "https://jpop.fandom.com/wiki/Nishina_Mitsu",
@@ -2002,7 +2072,7 @@
           }
         },
         {
-          "uuid": "59A35DF3-9D37-4664-B6E5-2E994D750EF9",
+          "uuid": "A35DC158-7E89-4353-B2C7-B78008573489",
           "masterId": "heroines_pastel_closet_sumihara_kaho",
           "name": "澄原夏帆",
           "profileURL": "https://jpop.fandom.com/wiki/Sumihara_Kaho",
@@ -2016,7 +2086,7 @@
           }
         },
         {
-          "uuid": "CBD189C7-5904-4FEE-AF8B-7DD61AD64EDD",
+          "uuid": "16834D43-72DB-4531-BC5D-5E553C9408F1",
           "masterId": "heroines_pastel_closet_hinaki_nonoka",
           "name": "雛城ののか",
           "profileURL": "https://jpop.fandom.com/wiki/Hinaki_Nonoka",
@@ -2030,7 +2100,7 @@
           }
         },
         {
-          "uuid": "4A5D124A-82C6-43B9-A932-F04C01B60ACD",
+          "uuid": "E31CC4D5-0D94-408A-BF7E-51798DC00C3B",
           "masterId": "heroines_pastel_closet_hanaki_maika",
           "name": "花木舞花",
           "profileURL": "https://jpop.fandom.com/wiki/Hanaki_Maika",
@@ -2044,7 +2114,7 @@
           }
         },
         {
-          "uuid": "3322EF94-5D97-4915-B720-159A534FFB9E",
+          "uuid": "FCA32916-0137-4E1F-B7D7-5B85C11664FB",
           "masterId": "heroines_pastel_closet_anzai_minori",
           "name": "安齋みのり",
           "profileURL": "https://jpop.fandom.com/wiki/Anzai_Minori",
@@ -2058,7 +2128,7 @@
           }
         },
         {
-          "uuid": "A73419A0-1DEB-45A7-9706-493115855C0F",
+          "uuid": "14120369-3214-4D36-AA3B-16891660798F",
           "masterId": "heroines_pastel_closet_kanno_ai",
           "name": "柑乃あい",
           "profileURL": "https://jpop.fandom.com/wiki/Kanno_Ai",
@@ -2074,7 +2144,7 @@
       ]
     },
     {
-      "uuid": "757AFA51-264A-441B-8AB1-A29E5075D07F",
+      "uuid": "8EFBAA1D-6D4E-4EAA-BFF8-1C35A17CA10D",
       "masterId": "heroines_last_scene",
       "name": "ラストシーン",
       "isActive": true,
@@ -2090,7 +2160,7 @@
       },
       "members": [
         {
-          "uuid": "8971254D-AFD6-4D41-B44C-F3C4AB470004",
+          "uuid": "C9F1B097-6E1B-46D3-8BE4-8DC5D9AA1A69",
           "masterId": "heroines_last_scene_amo_shiori",
           "name": "天羽しおり",
           "profileURL": "https://jpop.fandom.com/wiki/Amo_Shiori",
@@ -2104,7 +2174,7 @@
           }
         },
         {
-          "uuid": "F42E32F0-7FAB-4960-9C9E-9A1972E8A0F9",
+          "uuid": "6161DDD6-2D7F-4779-A31F-9A1D06989D32",
           "masterId": "heroines_last_scene_kanade_onpu",
           "name": "歌奏おんぷ",
           "profileURL": "https://jpop.fandom.com/wiki/Kanade_Onpu",
@@ -2118,7 +2188,7 @@
           }
         },
         {
-          "uuid": "09A6D7A2-1628-4074-B37A-EF39F6667EB3",
+          "uuid": "6BF66938-5844-441C-82EE-C69FBD0E2443",
           "masterId": "heroines_last_scene_yuzuki_ichika",
           "name": "佑月いちか",
           "profileURL": "https://jpop.fandom.com/wiki/Yuzuki_Ichika",
@@ -2132,7 +2202,7 @@
           }
         },
         {
-          "uuid": "77043906-A35B-4A0F-94DA-19ADE13076A9",
+          "uuid": "A548FCE3-9EAD-4E70-8844-93D66DFD919A",
           "masterId": "heroines_last_scene_yuuki_azusa",
           "name": "優木あずさ",
           "profileURL": "https://jpop.fandom.com/wiki/Yuuki_Azusa",
@@ -2146,7 +2216,7 @@
           }
         },
         {
-          "uuid": "AD5E3FC5-D644-458F-9D97-356624047230",
+          "uuid": "2E3057D8-E274-43C6-AE11-4BD49DDF2964",
           "masterId": "heroines_last_scene_miyase_uyu",
           "name": "宮瀬うゆ",
           "profileURL": "https://jpop.fandom.com/wiki/Miyase_Uyu",
@@ -2160,7 +2230,7 @@
           }
         },
         {
-          "uuid": "D9FF37DF-4C04-41BE-AD1D-1035C89BEDEE",
+          "uuid": "27D7CA3F-A2F2-4F03-B045-321349A34764",
           "masterId": "heroines_last_scene_koga_mirei",
           "name": "古賀みれい",
           "profileURL": "https://jpop.fandom.com/wiki/Koga_Mirei",
@@ -2176,7 +2246,7 @@
       ]
     },
     {
-      "uuid": "7B45A50D-CDF8-48B8-A874-136C21A491E3",
+      "uuid": "1CDE8139-EFB2-4FA0-B84B-C3A943FB1035",
       "masterId": "heroines_full_course",
       "name": "フルコース",
       "isActive": true,
@@ -2192,7 +2262,7 @@
       },
       "members": [
         {
-          "uuid": "FC02B716-9E01-42F5-A845-A386E5F17752",
+          "uuid": "5C594BBC-56EC-4825-BAFF-0DB841B0C890",
           "masterId": "heroines_full_course_nakagawa_cocoro",
           "name": "中川心",
           "profileURL": "https://jpop.fandom.com/wiki/Nakagawa_Cocoro",
@@ -2206,7 +2276,7 @@
           }
         },
         {
-          "uuid": "06872F73-B7EE-44AE-A133-F84E1B0091CC",
+          "uuid": "38D836B0-635D-4037-A022-83FD8B9C493B",
           "masterId": "heroines_full_course_abe_nanami",
           "name": "阿部菜々実",
           "profileURL": "https://jpop.fandom.com/wiki/Abe_Nanami",
@@ -2220,7 +2290,7 @@
           }
         },
         {
-          "uuid": "F6C4D96E-926D-4723-BEE4-27B9096DD2EE",
+          "uuid": "23960CBD-844F-4B1B-8E73-1214EE774279",
           "masterId": "heroines_full_course_suzuki_haruka",
           "name": "鈴木遥夏",
           "profileURL": "https://jpop.fandom.com/wiki/Suzuki_Haruka",
@@ -2234,7 +2304,7 @@
           }
         },
         {
-          "uuid": "078EC27C-5A2D-49CE-B2DD-EB3297F0CFC8",
+          "uuid": "E2539D03-8CF7-49D4-B382-A84B1480B1B3",
           "masterId": "heroines_full_course_konoha_cona",
           "name": "小葉こな",
           "profileURL": "https://jpop.fandom.com/wiki/Konoha_Cona",
@@ -2248,7 +2318,7 @@
           }
         },
         {
-          "uuid": "019D32D3-F6D3-4CC7-8E17-27AD614B3EE3",
+          "uuid": "8E7C0994-0F4B-4145-B057-BD32F68F4F59",
           "masterId": "heroines_full_course_kaneshiro_maki",
           "name": "金城まき",
           "profileURL": "https://jpop.fandom.com/wiki/Kaneshiro_Maki",
@@ -2262,7 +2332,7 @@
           }
         },
         {
-          "uuid": "4D58AA15-4B3C-4B8D-9593-AB0123BBC04C",
+          "uuid": "30559ED9-E4BD-4C0A-A1D3-4BFB09EBB68B",
           "masterId": "heroines_full_course_osaki_mihane",
           "name": "桜咲みはね",
           "profileURL": "https://jpop.fandom.com/wiki/Osaki_Mihane",
@@ -2276,7 +2346,7 @@
           }
         },
         {
-          "uuid": "7D1A8226-607E-42A6-BE4E-C2ADB4610FEB",
+          "uuid": "C2A66618-8516-4BAB-A975-45B515FB9D5A",
           "masterId": "heroines_full_course_mizukami_rimika",
           "name": "水上凜巳花",
           "profileURL": "https://jpop.fandom.com/wiki/Mizukami_Rimika",
@@ -2292,7 +2362,7 @@
       ]
     },
     {
-      "uuid": "94C53028-1A2C-4340-89B9-918B6B3A6C07",
+      "uuid": "B1F5749E-1A0B-4E7B-ACDB-18567BAE5DE8",
       "masterId": "heroines_haruka_echo",
       "name": "ハルカエコー",
       "isActive": true,
@@ -2303,18 +2373,18 @@
         "website": null,
         "twitter": "https://x.com/HARUKAECHO_IDOL",
         "instagram": null,
-        "tiktok": null,
+        "tiktok": "https://www.tiktok.com/@harukaecho",
         "youtube": "https://www.youtube.com/@HARUKAECHO"
       },
       "members": [
         {
-          "uuid": "9E0B2580-D1CA-411F-B017-B11BC791F907",
+          "uuid": "03053E1C-7FF9-4F34-8797-4B6BC72506DB",
           "masterId": "heroines_haruka_echo_amamiya_ruri",
           "name": "雨宮るり",
           "profileURL": "https://jpop.fandom.com/wiki/Amamiya_Ruri",
           "isGraduated": false,
           "colorHex": "#333790",
-          "birthday": "11-20",
+          "birthday": null,
           "sns": {
             "twitter": "https://x.com/HARUKAECHO_RURI",
             "instagram": null,
@@ -2322,7 +2392,7 @@
           }
         },
         {
-          "uuid": "10DAA324-C914-4BF4-A4F8-BC97D84D8157",
+          "uuid": "5ADCC0D7-3DFA-4C57-B5F6-3A8ED95B6581",
           "masterId": "heroines_haruka_echo_hirasawa_kae",
           "name": "平沢かえ",
           "profileURL": "https://jpop.fandom.com/wiki/Hirasawa_Kae",
@@ -2336,7 +2406,7 @@
           }
         },
         {
-          "uuid": "336064AF-5AE1-4F26-8A67-1F652FF866C1",
+          "uuid": "EC0F640D-3E0D-4D47-A32D-87EF99B3B779",
           "masterId": "heroines_haruka_echo_kannagi_mifuyu",
           "name": "神凪みふゆ",
           "profileURL": "https://jpop.fandom.com/wiki/Kannagi_Mifuyu",
@@ -2350,7 +2420,7 @@
           }
         },
         {
-          "uuid": "6B4DBDC4-6BAF-4B5C-9D8F-B0104C25A73E",
+          "uuid": "4BEA5A24-34D5-48F4-8CDD-B90623BDEDC3",
           "masterId": "heroines_haruka_echo_tokiwa_uta",
           "name": "常盤うた",
           "profileURL": "https://jpop.fandom.com/wiki/Tokiwa_Uta",
@@ -2364,13 +2434,13 @@
           }
         },
         {
-          "uuid": "B50BCFF4-679C-4640-84EC-81DA6F752674",
+          "uuid": "92102A4D-6DD4-4CE0-BC52-BCCC306874D8",
           "masterId": "heroines_haruka_echo_ashina_yui",
           "name": "芦名ゆい",
           "profileURL": "https://jpop.fandom.com/wiki/Ashina_Yui",
           "isGraduated": false,
           "colorHex": "#FFFFFF",
-          "birthday": "11-20",
+          "birthday": "08-29",
           "sns": {
             "twitter": "https://x.com/HARUKAECHO_YUI",
             "instagram": null,
@@ -2378,7 +2448,7 @@
           }
         },
         {
-          "uuid": "29616F22-65BE-4F48-A124-6CE4633EF4DC",
+          "uuid": "21C097AD-890A-417E-822E-63CDF5FE60E7",
           "masterId": "heroines_zuttomotto_kousaka_rin",
           "name": "高坂りん",
           "profileURL": "https://jpop.fandom.com/wiki/Kousaka_Rin",
@@ -2394,7 +2464,7 @@
       ]
     },
     {
-      "uuid": "2E7BA78C-BD42-439E-9CB9-FFB3BB50D33F",
+      "uuid": "50EC89CC-6988-4A7E-A689-510F9D516F1C",
       "masterId": "heroines_nanakorobi_yaoki",
       "name": "ナナコロビヤオキ",
       "isActive": true,
@@ -2410,7 +2480,7 @@
       },
       "members": [
         {
-          "uuid": "77E0A58A-57BB-4F8B-AF0D-44DC6EFA1AC1",
+          "uuid": "76154E7D-BD83-444F-9BF1-9C7DE4A047E2",
           "masterId": "heroines_ion_maisen_ekubo",
           "name": "苺川えくぼ",
           "profileURL": "https://jpop.fandom.com/wiki/Maisen_Ekubo",
@@ -2424,7 +2494,7 @@
           }
         },
         {
-          "uuid": "9A7C036C-16A2-4C63-966B-04FE0AAC273E",
+          "uuid": "7B4608D8-EE0F-47EB-AA0B-3F3BAF04AAA2",
           "masterId": "heroines_nanakorobi_yaoki_utage_tenka",
           "name": "歌花てんか",
           "profileURL": "https://jpop.fandom.com/wiki/Utage_Tenka",
@@ -2438,7 +2508,7 @@
           }
         },
         {
-          "uuid": "84F7EFB8-EF85-428F-8BB2-A5487680B892",
+          "uuid": "32C20825-389D-422C-B2EA-1A535629017E",
           "masterId": "heroines_nanakorobi_yaoki_setouchi_lemon",
           "name": "瀬戸内れもん",
           "profileURL": "https://jpop.fandom.com/wiki/Setouchi_Lemon",
@@ -2452,7 +2522,7 @@
           }
         },
         {
-          "uuid": "C3E8B82B-6337-44ED-8073-F819106D4D9C",
+          "uuid": "F3032D64-37FC-4C07-8037-72FDEE461414",
           "masterId": "heroines_nanakorobi_yaoki_kumanomi_nimo",
           "name": "熊ノ実にも",
           "profileURL": "https://jpop.fandom.com/wiki/Kumanomi_Nimo",
@@ -2466,7 +2536,7 @@
           }
         },
         {
-          "uuid": "9D690715-B753-442F-B6C3-77946B3AEB82",
+          "uuid": "287DE4F6-8C1A-47E9-B069-C84BFECF5885",
           "masterId": "heroines_nanakorobi_yaoki_mizuta_mari_heroines",
           "name": "水田茉莉",
           "profileURL": "https://jpop.fandom.com/wiki/Mizuta_Mari_(HEROINES)",
@@ -2480,7 +2550,7 @@
           }
         },
         {
-          "uuid": "C4F91A22-9005-409A-9E07-913C33A775CD",
+          "uuid": "8CE793F5-A336-422F-BD62-0D4E77C7320B",
           "masterId": "heroines_nanakorobi_yaoki_eeno_nina",
           "name": "笑乃にな",
           "profileURL": "https://jpop.fandom.com/wiki/Eeno_Nina",
@@ -2494,7 +2564,7 @@
           }
         },
         {
-          "uuid": "E8DFD18D-2B4B-40A0-B609-91E911C48149",
+          "uuid": "08836D0E-2D78-44FF-B487-C06E7E1FC2B9",
           "masterId": "heroines_nanakorobi_yaoki_hanna_riko",
           "name": "阪菜りこ",
           "profileURL": "https://jpop.fandom.com/wiki/Hanna_Riko",
@@ -2510,7 +2580,7 @@
       ]
     },
     {
-      "uuid": "42C9F856-9EE8-474D-993A-F1F8F534C5CE",
+      "uuid": "62D0F776-6C8C-4C73-AB7A-B87267978CA1",
       "masterId": "heroines_tenshinranman",
       "name": "テンシンランマン",
       "isActive": true,
@@ -2526,7 +2596,7 @@
       },
       "members": [
         {
-          "uuid": "610798E4-D0A0-42A1-B967-86AD33A38740",
+          "uuid": "A2F5032B-55FE-4166-B9D0-B6B81BB9DAC0",
           "masterId": "heroines_tenshinranman_kotone_una",
           "name": "琴音うな",
           "profileURL": "https://jpop.fandom.com/wiki/Kotone_Una",
@@ -2540,7 +2610,7 @@
           }
         },
         {
-          "uuid": "88727E3A-E3C6-42F2-A521-7054F392D87D",
+          "uuid": "46A29268-AA0C-4B62-9087-D1861CD8A69A",
           "masterId": "heroines_tenshinranman_ogura_azuki",
           "name": "小倉あずき",
           "profileURL": "https://jpop.fandom.com/wiki/Ogura_Azuki",
@@ -2554,7 +2624,7 @@
           }
         },
         {
-          "uuid": "A2853008-810D-4A9A-8DEE-F0F1557BD783",
+          "uuid": "2EAEA12A-0A07-46C8-8FB1-5E2CE5E7027A",
           "masterId": "heroines_tenshinranman_misono_sora",
           "name": "味園そら",
           "profileURL": "https://jpop.fandom.com/wiki/Misono_Sora",
@@ -2568,7 +2638,7 @@
           }
         },
         {
-          "uuid": "62BB200B-8840-44F3-A926-4FB756D28017",
+          "uuid": "7A9B6671-8FB8-40FE-9C99-772E577FE054",
           "masterId": "heroines_tenshinranman_oda_koyun",
           "name": "織田こゆん",
           "profileURL": "https://jpop.fandom.com/wiki/Oda_Koyun",
@@ -2582,7 +2652,7 @@
           }
         },
         {
-          "uuid": "8DD1A12A-F51C-4DC5-A9DD-25618BBBCF86",
+          "uuid": "BE31120C-8CF4-4180-A5F3-6D1057B88449",
           "masterId": "heroines_tenshinranman_ebihara_ten_heroines",
           "name": "海老原てん",
           "profileURL": "https://jpop.fandom.com/wiki/Ebihara_Ten_(HEROINES)",
@@ -2596,7 +2666,7 @@
           }
         },
         {
-          "uuid": "7A15EDCF-9B6C-48F0-B458-7C8780947F9C",
+          "uuid": "9EAAD020-0590-46F2-AA69-B7E9B56F6378",
           "masterId": "heroines_ion_osu_kanon",
           "name": "大須かのん",
           "profileURL": "https://jpop.fandom.com/wiki/Osu_Kanon",
@@ -2610,7 +2680,7 @@
           }
         },
         {
-          "uuid": "15B1CE3A-1146-4FAA-B54A-BEE0771E166F",
+          "uuid": "1CDB411B-B463-4A93-AA03-2608AAEC6EC2",
           "masterId": "heroines_tenshinranman_toyota_momo",
           "name": "豊田もも",
           "profileURL": "https://jpop.fandom.com/wiki/Toyota_Momo",
@@ -2626,7 +2696,7 @@
       ]
     },
     {
-      "uuid": "D2A2CB60-2ADB-4B28-8118-21F11A1A5998",
+      "uuid": "6289563C-944A-496E-8AE1-04350C37B620",
       "masterId": "heroines_heroines_kenkyuusei",
       "name": "ヒロインズ研究生",
       "isActive": true,
@@ -2642,7 +2712,7 @@
       },
       "members": [
         {
-          "uuid": "66827DF8-2EC1-4BFD-BFBF-CF563325A44F",
+          "uuid": "68329778-3531-4336-BF01-B88F2EB2D2A6",
           "masterId": "heroines_heroines_kenkyuusei_shiraishi_ayu",
           "name": "白石あゆ",
           "profileURL": "https://jpop.fandom.com/wiki/Shiraishi_Ayu",
@@ -2656,7 +2726,7 @@
           }
         },
         {
-          "uuid": "A8D720D7-296F-4BF4-9B6A-92D9EE1B2C21",
+          "uuid": "D7742D9B-C75A-4747-A7C0-4FF1328D318C",
           "masterId": "heroines_heroines_kenkyuusei_hirose_rimu",
           "name": "広瀬りむ",
           "profileURL": "https://jpop.fandom.com/wiki/Hirose_Rimu",
@@ -2670,7 +2740,7 @@
           }
         },
         {
-          "uuid": "F9B28E66-132E-4C15-894F-F04BF05D9513",
+          "uuid": "90D740F6-7801-47B8-8AB0-0581E285F8F1",
           "masterId": "heroines_heroines_kenkyuusei_konami_koyu",
           "name": "小菜実こゆ",
           "profileURL": "https://jpop.fandom.com/wiki/Konami_Koyu",
@@ -2684,7 +2754,7 @@
           }
         },
         {
-          "uuid": "86F99022-2E5C-414C-9821-6F7D657C5433",
+          "uuid": "E3C420D9-1AAB-4F42-B0C4-C78BCB49637B",
           "masterId": "heroines_heroines_kenkyuusei_ayase_meme",
           "name": "綾瀬めめ",
           "profileURL": "https://jpop.fandom.com/wiki/Ayase_Meme",
@@ -2700,7 +2770,7 @@
       ]
     },
     {
-      "uuid": "FF4348A4-76E4-4901-A6AA-EAEC762F4E80",
+      "uuid": "949A6DB5-2CC8-43F9-9555-7223E3E63AD8",
       "masterId": "heroines_heroines_kenkyuusei_osaka",
       "name": "ヒロインズ研究生大阪",
       "isActive": true,
@@ -2716,7 +2786,7 @@
       },
       "members": [
         {
-          "uuid": "B7203122-F715-48BB-9D4F-D814B6E86D64",
+          "uuid": "89522913-749D-4FB2-A88B-CE6A7167F13C",
           "masterId": "heroines_heroines_kenkyuusei_osaka_shikano_konaho",
           "name": "鹿野こなほ",
           "profileURL": "https://jpop.fandom.com/wiki/Shikano_Konaho",
@@ -2730,7 +2800,7 @@
           }
         },
         {
-          "uuid": "FA0BA5A5-07FC-478F-9C17-867BB5C07BB5",
+          "uuid": "4FDBD87C-044E-4F70-9216-D6186CDFDE71",
           "masterId": "heroines_heroines_kenkyuusei_osaka_chidori_moe",
           "name": "千鳥もえ",
           "profileURL": "https://jpop.fandom.com/wiki/Chidori_Moe",
@@ -2744,7 +2814,7 @@
           }
         },
         {
-          "uuid": "213C7C33-45E0-473B-957C-1F00C54AECB6",
+          "uuid": "CA025AA3-27A4-4769-A002-BF57A5DC4C42",
           "masterId": "heroines_heroines_kenkyuusei_osaka_fuwa_fuwari",
           "name": "不破ふわり",
           "profileURL": "https://jpop.fandom.com/wiki/Fuwa_Fuwari",
@@ -2758,7 +2828,7 @@
           }
         },
         {
-          "uuid": "BB002197-FA29-40C8-8AE8-0EB580B85CC5",
+          "uuid": "D727874A-EE9C-4EF0-9F95-3903B096E281",
           "masterId": "heroines_heroines_kenkyuusei_osaka_midousuji_piko",
           "name": "御堂筋ぴこ",
           "profileURL": "https://jpop.fandom.com/wiki/Midousuji_Piko",
