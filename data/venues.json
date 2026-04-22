@@ -1544,6 +1544,32 @@
     ]
   },
   {
+    "venueId": "nagoya_club_quattro",
+    "name": "NAGOYA CLUB QUATTRO",
+    "address": "愛知県名古屋市中区栄3-29-1 名古屋PARCO東館8F",
+    "lat": null,
+    "lng": null,
+    "prefecture": "愛知県",
+    "aliases": [
+      "名古屋CLUB QUATTRO",
+      "名古屋クラブクアトロ",
+      "クラブクアトロ",
+      "Nagoya Club Quattro"
+    ]
+  },
+  {
+    "venueId": "nagoya_spade_box",
+    "name": "SPADE BOX",
+    "address": "愛知県名古屋市中区新栄2-1-9 雲竜フレックスビル西館B1F",
+    "lat": null,
+    "lng": null,
+    "prefecture": "愛知県",
+    "aliases": [
+      "名古屋SPADE BOX",
+      "Nagoya SPADE BOX"
+    ]
+  },
+  {
     "venueId": "zepp_nagoya",
     "name": "Zepp Nagoya",
     "address": "愛知県名古屋市中村区平池町4-60-7",
