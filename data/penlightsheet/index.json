@@ -1,5 +1,14 @@
 [
   {
+    "id": "spaceStar",
+    "title": "スペーススター",
+    "subtitle": "星と土星のポップライン",
+    "layoutKind": "double",
+    "baseImageName": null,
+    "baseImageURL": "images/spaceStar.jpg",
+    "group": "double"
+  },
+  {
     "id": "dottedLovely",
     "title": "ドットハート",
     "subtitle": "ドット多めの甘めライン",
