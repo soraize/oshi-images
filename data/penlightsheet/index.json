@@ -1,23 +1,5 @@
 [
   {
-    "id": "ribbonHeart",
-    "title": "リボンハート",
-    "subtitle": "ハートの2行フレーム",
-    "layoutKind": "double",
-    "baseImageName": "PenlightTemplateRibbonHeart",
-    "baseImageURL": null,
-    "group": "double"
-  },
-  {
-    "id": "sparkleBerry",
-    "title": "きらきらベリー",
-    "subtitle": "星とハートの軽めライン",
-    "layoutKind": "double",
-    "baseImageName": null,
-    "baseImageURL": null,
-    "group": "double"
-  },
-  {
     "id": "dottedLovely",
     "title": "ドットハート",
     "subtitle": "ドット多めの甘めライン",
@@ -25,14 +7,5 @@
     "baseImageName": null,
     "baseImageURL": "images/dotHeart.png",
     "group": "double"
-  },
-  {
-    "id": "singleLovely",
-    "title": "シングルラブリー",
-    "subtitle": "1行用の両脇ライン",
-    "layoutKind": "single",
-    "baseImageName": null,
-    "baseImageURL": null,
-    "group": "single"
   }
 ]
