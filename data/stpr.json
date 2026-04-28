@@ -25,10 +25,11 @@
           "colorHex": "#B57EDC",
           "birthday": "06-23",
           "sns": {
-            "twitter": "nanamorisan",
-            "instagram": "love_nkun",
-            "tiktok": null
-          }
+            "twitter": "https://x.com/love_nkun",
+            "instagram": "https://www.instagram.com/love_nkun",
+            "tiktok": "https://www.tiktok.com/@nanamorinyan"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/stpr-nanamori"
         },
         {
           "uuid": "3E5B4F4A-4DA2-4F61-9ED7-6EAC9B119002",
@@ -38,10 +39,11 @@
           "colorHex": "#FF9ECF",
           "birthday": "02-24",
           "sns": {
-            "twitter": "satoniya_",
-            "instagram": "satoniya_",
-            "tiktok": null
-          }
+            "twitter": "https://x.com/satoniya_",
+            "instagram": "https://www.instagram.com/satoniya_",
+            "tiktok": "https://www.tiktok.com/@satoniya_"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/stpr-satomi"
         },
         {
           "uuid": "9D442F7C-7E95-4E37-9A61-8E8D0BFA9003",
@@ -51,10 +53,11 @@
           "colorHex": "#FFF176",
           "birthday": "10-25",
           "sns": {
-            "twitter": "root_nico",
-            "instagram": "root_nico",
-            "tiktok": null
-          }
+            "twitter": "https://x.com/root_nico",
+            "instagram": "https://www.instagram.com/root_nico",
+            "tiktok": "https://www.tiktok.com/@root_stpr"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/stpr-root"
         },
         {
           "uuid": "C8A1A50E-233C-4A6C-8D17-2BFA435B9004",
@@ -64,10 +67,11 @@
           "colorHex": "#6FD3FF",
           "birthday": "05-29",
           "sns": {
-            "twitter": "Colon56N",
-            "instagram": "colon56n",
-            "tiktok": null
-          }
+            "twitter": "https://x.com/Colon56N",
+            "instagram": "https://www.instagram.com/colon56n",
+            "tiktok": "https://www.tiktok.com/@colon_stpr"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/stpr-colon"
         },
         {
           "uuid": "E2C7F2D1-6D7A-45C5-96DA-4FC2F58F9005",
@@ -77,10 +81,11 @@
           "colorHex": "#FF6B6B",
           "birthday": "05-24",
           "sns": {
-            "twitter": "rinu_nico",
-            "instagram": "riinukun",
-            "tiktok": null
-          }
+            "twitter": "https://x.com/rinu_nico",
+            "instagram": "https://www.instagram.com/riinukun",
+            "tiktok": "https://www.tiktok.com/@riinukun"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/stpr-rinu"
         },
         {
           "uuid": "7B3D5A9F-5A4D-4B28-BA7B-7A1D14E29006",
@@ -90,12 +95,14 @@
           "colorHex": "#FFB347",
           "birthday": "07-28",
           "sns": {
-            "twitter": "Jel__official",
-            "instagram": "jel__official",
-            "tiktok": null
-          }
+            "twitter": "https://x.com/Jel__official",
+            "instagram": "https://www.instagram.com/jel__official",
+            "tiktok": "https://www.tiktok.com/@jel__official"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/stpr-jel"
         }
-      ]
+      ],
+      "profileURL": "https://www.stprinformalfansite.com/stpr"
     },
     {
       "uuid": "7ECEE9B7-DCEB-4B6C-8AED-9FBFA364EA2C",
@@ -118,10 +125,11 @@
           "colorHex": "#B57EDC",
           "birthday": "02-02",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://x.com/mtor_shion",
+            "instagram": "https://www.instagram.com/mtor_shion",
             "tiktok": null
-          }
+          },
+          "profileURL": "https://www.stprinformalfansite.com/心音"
         },
         {
           "uuid": "B9E2D3C4-5F6A-7890-BCDE-111111111002",
@@ -129,12 +137,13 @@
           "name": "ロゼ",
           "isGraduated": false,
           "colorHex": "#FF6B6B",
-          "birthday": null,
+          "birthday": "06-14",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://x.com/mtor_rose",
+            "instagram": "https://www.instagram.com/rose_mtor",
             "tiktok": null
-          }
+          },
+          "profileURL": "https://www.stprinformalfansite.com/ロゼ"
         },
         {
           "uuid": "C1D3E4F5-6A7B-8901-CDEF-111111111003",
@@ -142,12 +151,13 @@
           "name": "Lapis",
           "isGraduated": false,
           "colorHex": "#6FD3FF",
-          "birthday": "12-06",
+          "birthday": "12-07",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://x.com/mtor_lapis",
+            "instagram": "https://www.instagram.com/mtor_lapis",
             "tiktok": null
-          }
+          },
+          "profileURL": "https://www.stprinformalfansite.com/lapis"
         },
         {
           "uuid": "D2E4F5A6-7B8C-9012-DEFA-111111111004",
@@ -157,10 +167,11 @@
           "colorHex": "#FFFFFF",
           "birthday": "10-26",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://x.com/mtor_melt",
+            "instagram": "https://www.instagram.com/mtor_melt",
             "tiktok": null
-          }
+          },
+          "profileURL": "https://www.stprinformalfansite.com/メルト-ダ-テンシ"
         },
         {
           "uuid": "E3F5A6B7-8C9D-0123-EFAB-111111111005",
@@ -168,12 +179,13 @@
           "name": "みかさくん",
           "isGraduated": false,
           "colorHex": "#FF9ECF",
-          "birthday": null,
+          "birthday": "04-01",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://x.com/mtor_mikasa",
+            "instagram": "https://www.instagram.com/mtor_mikasa",
             "tiktok": null
-          }
+          },
+          "profileURL": "https://www.stprinformalfansite.com/みかさくん"
         },
         {
           "uuid": "F4A7B8C9-9D0E-1234-FABC-111111111006",
@@ -181,14 +193,16 @@
           "name": "明雷らいと",
           "isGraduated": false,
           "colorHex": "#FFF176",
-          "birthday": null,
+          "birthday": "07-30",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://x.com/akarusugiwww",
+            "instagram": "https://www.instagram.com/mtor_light",
             "tiktok": null
-          }
+          },
+          "profileURL": "https://www.stprinformalfansite.com/明雷らいと"
         }
-      ]
+      ],
+      "profileURL": "https://www.stprinformalfansite.com/meteorites"
     },
     {
       "uuid": "B0954565-42C7-4AEC-BE69-D65BEFE5105E",
@@ -211,10 +225,11 @@
           "colorHex": "#FFF176",
           "birthday": "04-12",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
-          }
+            "twitter": "https://x.com/akkkkiy",
+            "instagram": "https://www.instagram.com/akkkkiy3",
+            "tiktok": "https://www.tiktok.com/@akkiy62"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/akkiy"
         },
         {
           "uuid": "7E0A8F56-2B7C-4E7B-A2D5-1A9E3F620002",
@@ -224,10 +239,11 @@
           "colorHex": "#B57EDC",
           "birthday": "05-20",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
-          }
+            "twitter": "https://x.com/mazeta_666",
+            "instagram": "https://www.instagram.com/mazeta_official",
+            "tiktok": "https://www.tiktok.com/@mazeta_official"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/mazeta"
         },
         {
           "uuid": "9B1C6D44-5E8A-4C9F-8B14-2F7D5A330003",
@@ -237,10 +253,11 @@
           "colorHex": "#90EE90",
           "birthday": "01-06",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
-          }
+            "twitter": "https://x.com/umasugi_human",
+            "instagram": "https://www.instagram.com/prepretz111",
+            "tiktok": "https://www.tiktok.com/@pretzumasugi"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/purittu"
         },
         {
           "uuid": "4F7D2E88-6A31-4F0A-9E76-3C2B5D190004",
@@ -250,10 +267,11 @@
           "colorHex": "#6FD3FF",
           "birthday": "09-02",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
-          }
+            "twitter": "https://x.com/Tigusa_voice",
+            "instagram": "https://www.instagram.com/tigusa_92",
+            "tiktok": "https://www.tiktok.com/@sabrizbhlo8"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/tigusakun"
         },
         {
           "uuid": "AF2E5941-8C67-4B2A-8D1F-4E7B6C280005",
@@ -263,10 +281,11 @@
           "colorHex": "#FF6B6B",
           "birthday": "07-04",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
-          }
+            "twitter": "https://x.com/_AtToKun",
+            "instagram": "https://www.instagram.com/_attokun",
+            "tiktok": "https://www.tiktok.com/@_attokun"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/atto"
         },
         {
           "uuid": "C6A7D811-3F52-4E6D-91B8-5D4A2E770006",
@@ -276,12 +295,14 @@
           "colorHex": "#FF9ECF",
           "birthday": "08-02",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
-          }
+            "twitter": "https://x.com/ketchup_N1",
+            "instagram": "https://www.instagram.com/ketchup_n1",
+            "tiktok": "https://www.tiktok.com/@ketchup_a1"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/kecha"
         }
-      ]
+      ],
+      "profileURL": "https://www.stprinformalfansite.com/amptak"
     },
     {
       "uuid": "5ADDC1E5-F80D-4220-B4AE-90B9DA1FD41E",
@@ -304,10 +325,11 @@
           "colorHex": "#90EE90",
           "birthday": "09-28",
           "sns": {
-            "twitter": "shiyun928",
-            "instagram": "shiyun928",
-            "tiktok": "shiyun928"
-          }
+            "twitter": "https://x.com/shiyun_2525",
+            "instagram": "https://www.instagram.com/shiyun928/",
+            "tiktok": "https://www.tiktok.com/@shiyun928"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/knighta-shiyun"
         },
         {
           "uuid": "8A1E6D42-7B37-4F8A-9D20-5E9B8C72A002",
@@ -317,10 +339,11 @@
           "colorHex": "#FFFFFF",
           "birthday": "03-19",
           "sns": {
-            "twitter": "takeyakii",
-            "instagram": "takeyakisyou",
-            "tiktok": "takeyakisyo"
-          }
+            "twitter": "https://x.com/takeyakii",
+            "instagram": "https://www.instagram.com/takeyakisyou",
+            "tiktok": "https://www.tiktok.com/@takeyakisyo"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/タケヤキ翔"
         },
         {
           "uuid": "B7F4C3D8-5A64-4A3D-9F7B-2C18DE93A003",
@@ -330,10 +353,11 @@
           "colorHex": "#FF6B6B",
           "birthday": "03-07",
           "sns": {
-            "twitter": "Vau1113",
-            "instagram": "vau1113",
-            "tiktok": "vau1113"
-          }
+            "twitter": "https://x.com/Vau875",
+            "instagram": "https://www.instagram.com/vau1113",
+            "tiktok": "https://www.tiktok.com/@vau1113"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/knighta-vau"
         },
         {
           "uuid": "F3A9B2C7-1E86-4D5F-8A31-6C7E5D44A004",
@@ -343,12 +367,14 @@
           "colorHex": "#FF9ECF",
           "birthday": "07-09",
           "sns": {
-            "twitter": "teruto_nico",
-            "instagram": "teruto_nico",
-            "tiktok": "teruto_nico"
-          }
+            "twitter": "https://x.com/teruto_nico",
+            "instagram": "https://www.instagram.com/teruto_nico",
+            "tiktok": "https://www.tiktok.com/@teruto_nico"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/knighta-teruto"
         }
-      ]
+      ],
+      "profileURL": "https://www.stprinformalfansite.com/knightax"
     },
     {
       "uuid": "07926EA0-7B97-4E92-92A7-E0692DFF41EA",
@@ -371,10 +397,11 @@
           "colorHex": "#FFFFFF",
           "birthday": "12-24",
           "sns": {
-            "twitter": "nishiki1225",
-            "instagram": "nishiki_1225",
-            "tiktok": "nishiki1225"
-          }
+            "twitter": "https://x.com/nishiki1225",
+            "instagram": "https://www.instagram.com/nishiki_1225",
+            "tiktok": "https://www.tiktok.com/@nishiki1225"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/sneakerstep/にしき"
         },
         {
           "uuid": "B3A5F94C-6D6E-4A9D-9E73-7C48A5320002",
@@ -384,10 +411,11 @@
           "colorHex": "#FF6B6B",
           "birthday": "06-25",
           "sns": {
-            "twitter": "_Raokun_",
-            "instagram": "raokun_official",
-            "tiktok": "_raokun_"
-          }
+            "twitter": "https://x.com/_Raokun_",
+            "instagram": "https://www.instagram.com/raokun_official",
+            "tiktok": "https://www.tiktok.com/@_raokun_"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/sneakerstep/らお"
         },
         {
           "uuid": "D9A1C7BE-1A7D-4A06-8B89-2F1A4C930003",
@@ -397,10 +425,11 @@
           "colorHex": "#FFD54F",
           "birthday": "07-24",
           "sns": {
-            "twitter": "daiquiri_ch",
-            "instagram": "daiquiri0724",
-            "tiktok": "daiquirikun"
-          }
+            "twitter": "https://x.com/daiquiri_ch",
+            "instagram": "https://www.instagram.com/daiquiri0724",
+            "tiktok": "https://www.tiktok.com/@daiquirikun"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/sneakerstep/だいきり"
         },
         {
           "uuid": "8F41B6E9-9B8A-48E1-9F92-4A8627C40004",
@@ -410,10 +439,11 @@
           "colorHex": "#6FD3FF",
           "birthday": "06-21",
           "sns": {
-            "twitter": "tcbnwst",
-            "instagram": "tcbnwst",
-            "tiktok": "tcbnwst_"
-          }
+            "twitter": "https://x.com/tcbnwst",
+            "instagram": "https://www.instagram.com/tcbnwst",
+            "tiktok": "https://www.tiktok.com/@tcbnwst_"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/sneakerstep/たちばな"
         },
         {
           "uuid": "1E8A9C73-4D2B-46CF-9D53-6F81A2050005",
@@ -423,10 +453,11 @@
           "colorHex": "#6FD3FF",
           "birthday": "08-16",
           "sns": {
-            "twitter": "utut_2525",
-            "instagram": "utut_2525",
-            "tiktok": "utut_2525"
-          }
+            "twitter": "https://x.com/utut_2525",
+            "instagram": "https://www.instagram.com/utut_2525",
+            "tiktok": "https://www.tiktok.com/@utut_2525"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/sneakerstep/ゆたくん"
         },
         {
           "uuid": "C2F74D91-3A70-4D8D-B3C8-7A96D1E60006",
@@ -436,10 +467,11 @@
           "colorHex": "#FFF176",
           "birthday": "01-26",
           "sns": {
-            "twitter": "yanato_desu",
-            "instagram": "yanatogram",
-            "tiktok": "yanato_desu"
-          }
+            "twitter": "https://x.com/yanato_desu",
+            "instagram": "https://www.instagram.com/yanatogram",
+            "tiktok": "https://www.tiktok.com/@yanato_desu"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/sneakerstep/やなと"
         },
         {
           "uuid": "F5B823A7-8A11-4D2D-A548-9B02D3470007",
@@ -449,12 +481,14 @@
           "colorHex": "#4FC3F7",
           "birthday": "02-13",
           "sns": {
-            "twitter": "osusi0303",
-            "instagram": "daystagram03",
-            "tiktok": "osamusitik"
-          }
+            "twitter": "https://x.com/osusi0303",
+            "instagram": "https://www.instagram.com/daystagram03",
+            "tiktok": "https://www.tiktok.com/@osamusitik"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/sneakerstep/おさでい"
         }
-      ]
+      ],
+      "profileURL": "https://www.stprinformalfansite.com/sneakerstep"
     },
     {
       "uuid": "2CED86CA-C9E1-4D07-B81F-755B7CEFBD55",
@@ -477,10 +511,11 @@
           "colorHex": "#6FD3FF",
           "birthday": "11-14",
           "sns": {
-            "twitter": "Amai_nico",
-            "instagram": "amai.nico",
-            "tiktok": "soara_n"
-          }
+            "twitter": "https://x.com/Amai_nico",
+            "instagram": "https://www.instagram.com/amai.nico",
+            "tiktok": "https://www.tiktok.com/@soara_n"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/true-lip/そあら"
         },
         {
           "uuid": "5B7C2F18-4E2D-44C1-9E3A-8DAA5F021002",
@@ -490,10 +525,11 @@
           "colorHex": "#B57EDC",
           "birthday": "03-22",
           "sns": {
-            "twitter": "Yq4Ro_",
-            "instagram": "yashiroooo_t",
-            "tiktok": "tuki_y_illust"
-          }
+            "twitter": "https://x.com/Yq4Ro_",
+            "instagram": "https://www.instagram.com/yashiroooo_t",
+            "tiktok": "https://www.tiktok.com/@tuki_y_illust"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/true-lip/つきしろやしろ"
         },
         {
           "uuid": "7F84C1A9-0D63-4B8E-A31E-4B2D8D8C1003",
@@ -503,10 +539,11 @@
           "colorHex": "#FF9ECF",
           "birthday": "04-19",
           "sns": {
-            "twitter": "PARUO49N",
-            "instagram": "paruo__urusai",
-            "tiktok": null
-          }
+            "twitter": "https://x.com/PARUO49N",
+            "instagram": "https://www.instagram.com/paruo__urusai",
+            "tiktok": "https://www.tiktok.com/@soara_n"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/true-lip/パルオ"
         },
         {
           "uuid": "91D6E2B4-8D51-4F39-94B8-20F3FAD51004",
@@ -516,10 +553,11 @@
           "colorHex": "#FFB347",
           "birthday": "02-28",
           "sns": {
-            "twitter": "harima_ha",
-            "instagram": "harima_ha",
-            "tiktok": "harima_ha"
-          }
+            "twitter": "https://x.com/harima_ha",
+            "instagram": "https://www.instagram.com/harima_ha",
+            "tiktok": "https://www.tiktok.com/@harima_ha"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/true-lip/はりま"
         },
         {
           "uuid": "A4C5F1B8-3E71-45C7-8E6D-12E0B7AD1005",
@@ -529,10 +567,11 @@
           "colorHex": "#FFFFFF",
           "birthday": "01-26",
           "sns": {
-            "twitter": "MonoKuro_days",
-            "instagram": "monokuro_days",
-            "tiktok": "monokuro_kun"
-          }
+            "twitter": "https://x.com/MonoKuro_days",
+            "instagram": "https://www.instagram.com/monokuro_days",
+            "tiktok": "https://www.tiktok.com/@monokuro_kun"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/true-lip/ものくろ"
         },
         {
           "uuid": "C8E1A472-6A42-4D8F-9C10-5F4D0A6B1006",
@@ -542,10 +581,11 @@
           "colorHex": "#FFF176",
           "birthday": "03-27",
           "sns": {
-            "twitter": "Ene_Mahiro",
+            "twitter": "https://x.com/Ene_Mahiro",
             "instagram": null,
-            "tiktok": "mahiromaru_stprboys"
-          }
+            "tiktok": "https://www.tiktok.com/@mahiromaru_stprboys"
+          },
+          "profileURL": "https://www.stprinformalfansite.com/true-lip/複製-ものくろ"
         }
       ]
     }
