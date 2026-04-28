@@ -102,7 +102,8 @@
           "profileURL": "https://www.stprinformalfansite.com/stpr-jel"
         }
       ],
-      "profileURL": "https://www.stprinformalfansite.com/stpr"
+      "profileURL": "https://www.stprinformalfansite.com/stpr",
+      "timeTreeLabel": "すとぷり"
     },
     {
       "uuid": "7ECEE9B7-DCEB-4B6C-8AED-9FBFA364EA2C",
@@ -202,7 +203,8 @@
           "profileURL": "https://www.stprinformalfansite.com/明雷らいと"
         }
       ],
-      "profileURL": "https://www.stprinformalfansite.com/meteorites"
+      "profileURL": "https://www.stprinformalfansite.com/meteorites",
+      "timeTreeLabel": "めておら"
     },
     {
       "uuid": "B0954565-42C7-4AEC-BE69-D65BEFE5105E",
@@ -302,7 +304,8 @@
           "profileURL": "https://www.stprinformalfansite.com/kecha"
         }
       ],
-      "profileURL": "https://www.stprinformalfansite.com/amptak"
+      "profileURL": "https://www.stprinformalfansite.com/amptak",
+      "timeTreeLabel": "AMPTAK"
     },
     {
       "uuid": "5ADDC1E5-F80D-4220-B4AE-90B9DA1FD41E",
@@ -374,7 +377,8 @@
           "profileURL": "https://www.stprinformalfansite.com/knighta-teruto"
         }
       ],
-      "profileURL": "https://www.stprinformalfansite.com/knightax"
+      "profileURL": "https://www.stprinformalfansite.com/knightax",
+      "timeTreeLabel": "騎士X"
     },
     {
       "uuid": "07926EA0-7B97-4E92-92A7-E0692DFF41EA",
@@ -488,7 +492,8 @@
           "profileURL": "https://www.stprinformalfansite.com/sneakerstep/おさでい"
         }
       ],
-      "profileURL": "https://www.stprinformalfansite.com/sneakerstep"
+      "profileURL": "https://www.stprinformalfansite.com/sneakerstep",
+      "timeTreeLabel": "すにすて"
     },
     {
       "uuid": "2CED86CA-C9E1-4D07-B81F-755B7CEFBD55",
@@ -587,7 +592,8 @@
           },
           "profileURL": "https://www.stprinformalfansite.com/true-lip/複製-ものくろ"
         }
-      ]
+      ],
+      "timeTreeLabel": "とぅるりぷ"
     }
   ]
 }
