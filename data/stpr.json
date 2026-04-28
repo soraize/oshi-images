@@ -499,7 +499,7 @@
       "uuid": "2CED86CA-C9E1-4D07-B81F-755B7CEFBD55",
       "masterId": "stpr_truelip",
       "name": "とぅるりぷ - True&Lip",
-      "colorHex": null,
+      "colorHex": "#CC0000",
       "birthday": null,
       "sns": {
         "twitter": "https://x.com/TrueLip_info",
@@ -513,7 +513,7 @@
           "masterId": "stpr_truelip_soara",
           "name": "そあら",
           "isGraduated": false,
-          "colorHex": "#6FD3FF",
+          "colorHex": "#A7D3FA",
           "birthday": "11-14",
           "sns": {
             "twitter": "https://x.com/Amai_nico",
@@ -527,7 +527,7 @@
           "masterId": "stpr_truelip_yashiro",
           "name": "つきしろやしろ。",
           "isGraduated": false,
-          "colorHex": "#B57EDC",
+          "colorHex": "#775EC6",
           "birthday": "03-22",
           "sns": {
             "twitter": "https://x.com/Yq4Ro_",
@@ -541,7 +541,7 @@
           "masterId": "stpr_truelip_paruo",
           "name": "パルオ",
           "isGraduated": false,
-          "colorHex": "#FF9ECF",
+          "colorHex": "#FF7DA9",
           "birthday": "04-19",
           "sns": {
             "twitter": "https://x.com/PARUO49N",
@@ -555,7 +555,7 @@
           "masterId": "stpr_truelip_harima",
           "name": "はりま",
           "isGraduated": false,
-          "colorHex": "#FFB347",
+          "colorHex": "#FE6D2C",
           "birthday": "02-28",
           "sns": {
             "twitter": "https://x.com/harima_ha",
@@ -569,7 +569,7 @@
           "masterId": "stpr_truelip_monokuro",
           "name": "ものくろ",
           "isGraduated": false,
-          "colorHex": "#FFFFFF",
+          "colorHex": "#EDEEF0",
           "birthday": "01-26",
           "sns": {
             "twitter": "https://x.com/MonoKuro_days",
@@ -583,7 +583,7 @@
           "masterId": "stpr_truelip_mahiromaru",
           "name": "まひろまる。",
           "isGraduated": false,
-          "colorHex": "#FFF176",
+          "colorHex": "#FFE150",
           "birthday": "03-27",
           "sns": {
             "twitter": "https://x.com/Ene_Mahiro",
