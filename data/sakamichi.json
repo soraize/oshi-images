@@ -1,0 +1,1784 @@
+{
+  "agencyId": "sakamichi",
+  "agency": "坂道シリーズ",
+  "imageBaseURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/",
+  "imageExtension": "jpg",
+  "groups": [
+    {
+      "uuid": "09D9C4BE-F505-5CFA-8E50-CBF578976A5D",
+      "masterId": "sakamichi_nogizaka46",
+      "name": "乃木坂46",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/nogizaka46",
+        "instagram": "https://www.instagram.com/nogizaka46_official/",
+        "tiktok": "https://www.tiktok.com/@nogizaka46_official",
+        "youtube": "https://www.youtube.com/@nogizakahaishinchu"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "3CD2DE60-73AD-5D7D-B518-0016A996429F",
+          "masterId": "sakamichi_nogizaka46_kokone_atago",
+          "name": "愛宕心響",
+          "profileURL": "https://sp.nogizaka46.com/p/members/1037909583504343041",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Atago_Kokone",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF69B4",
+            "#005BBB"
+          ],
+          "birthday": "09-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D9113191-64A4-592C-801F-F7CD737E32B7",
+          "masterId": "sakamichi_nogizaka46_mao_ioki",
+          "name": "五百城茉央",
+          "profileURL": "https://sp.nogizaka46.com/p/members/760061602685781118",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ioki_Mao",
+          "isGraduated": false,
+          "colorHex": [
+            "#40E0D0",
+            "#005BBB"
+          ],
+          "birthday": "07-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F0D4190F-3FA7-5F39-8F71-819B8C4E725D",
+          "masterId": "sakamichi_nogizaka46_teresa_ikeda",
+          "name": "池田瑛紗",
+          "profileURL": "https://sp.nogizaka46.com/p/members/760061609879012397",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ikeda_Teresa",
+          "isGraduated": false,
+          "colorHex": [
+            "#00A651",
+            "#FFFFFF"
+          ],
+          "birthday": "05-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1768B684-3064-5A4B-A7E2-0BDEBCA9F1E7",
+          "masterId": "sakamichi_nogizaka46_miku_ichinose",
+          "name": "一ノ瀬美空",
+          "profileURL": "https://sp.nogizaka46.com/p/members/760061615558100049",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ichinose_Miku",
+          "isGraduated": false,
+          "colorHex": [
+            "#66CCFF",
+            "#66CCFF"
+          ],
+          "birthday": "05-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C53ABD35-E784-568E-AC18-78BAC2695308",
+          "masterId": "sakamichi_nogizaka46_riria_ito",
+          "name": "伊藤理々杏",
+          "profileURL": "https://sp.nogizaka46.com/p/members/760061621128135717",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ito_Riria",
+          "isGraduated": false,
+          "colorHex": [
+            "#7B3FBF",
+            "#FF0033"
+          ],
+          "birthday": "10-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DFCD5E77-1E84-5296-ACB5-E1A92D383E69",
+          "masterId": "sakamichi_nogizaka46_nagi_inoue",
+          "name": "井上和",
+          "profileURL": "https://sp.nogizaka46.com/p/members/760061628443001870",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Inoue_Nagi",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0033",
+            "#FFFFFF"
+          ],
+          "birthday": "02-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7E5B97DA-14E4-514D-9090-8627C815B2E8",
+          "masterId": "sakamichi_nogizaka46_renka_iwamoto",
+          "name": "岩本蓮加",
+          "profileURL": "https://sp.nogizaka46.com/p/members/760061634021426418",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Iwamoto_Renka",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0033",
+            "#FF69B4"
+          ],
+          "birthday": "02-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FA083EB6-4CE3-59F8-8621-85DFBF7EB351",
+          "masterId": "sakamichi_nogizaka46_minami_umezawa",
+          "name": "梅澤美波",
+          "profileURL": "https://sp.nogizaka46.com/p/members/760061640367408358",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Umezawa_Minami",
+          "isGraduated": false,
+          "colorHex": [
+            "#005BBB",
+            "#66CCFF"
+          ],
+          "birthday": "01-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8DC90C46-8BCC-55C2-9E9D-79692DBEB0D5",
+          "masterId": "sakamichi_nogizaka46_sakura_endo",
+          "name": "遠藤さくら",
+          "profileURL": "https://sp.nogizaka46.com/p/members/760061646159742047",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Endo_Sakura",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF69B4",
+            "#FFFFFF"
+          ],
+          "birthday": "10-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7B38F358-2A66-5DAD-833C-DF2C859DDB53",
+          "masterId": "sakamichi_nogizaka46_hinano_okoshi",
+          "name": "大越ひなの",
+          "profileURL": "https://sp.nogizaka46.com/p/members/1037910470578667521",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Okoshi_Hinano",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF",
+            "#FFE600"
+          ],
+          "birthday": "12-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "59F50987-302E-5B77-9612-A2101313D8D9",
+          "masterId": "sakamichi_nogizaka46_hina_okamoto",
+          "name": "岡本姫奈",
+          "profileURL": "https://sp.nogizaka46.com/p/members/760061651750749195",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Okamoto_Hina",
+          "isGraduated": false,
+          "colorHex": [
+            "#7B3FBF",
+            "#005BBB"
+          ],
+          "birthday": "12-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "10220EF7-FFCA-5FC5-8E56-0EB1E111755E",
+          "masterId": "sakamichi_nogizaka46_aya_ogawa",
+          "name": "小川彩",
+          "profileURL": "https://sp.nogizaka46.com/p/members/760061657014600864",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ogawa_Aya",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "birthday": "06-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3A388B46-30EC-597F-BD6D-1E05FA936478",
+          "masterId": "sakamichi_nogizaka46_iroha_okuda",
+          "name": "奥田いろは",
+          "profileURL": "https://sp.nogizaka46.com/p/members/760061663142479090",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Okuda_Iroha",
+          "isGraduated": false,
+          "colorHex": [
+            "#9ACD32",
+            "#FF69B4"
+          ],
+          "birthday": "08-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8BA4901A-8D99-5777-ABF8-809817812CB9",
+          "masterId": "sakamichi_nogizaka46_reina_ozu",
+          "name": "小津玲奈",
+          "profileURL": "https://sp.nogizaka46.com/p/members/1037911321879773184",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ozu_Reina",
+          "isGraduated": false,
+          "colorHex": [
+            "#7B3FBF",
+            "#40E0D0"
+          ],
+          "birthday": "04-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9C5EC339-A1F2-50AB-89A9-9BD0F8F49F21",
+          "masterId": "sakamichi_nogizaka46_akari_kaibe",
+          "name": "海邉朱莉",
+          "profileURL": "https://sp.nogizaka46.com/p/members/1037912276683718657",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kaibe_Akari",
+          "isGraduated": false,
+          "colorHex": [
+            "#005BBB",
+            "#FF0033"
+          ],
+          "birthday": "02-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B974ACB6-5D07-55F1-B888-AAEACBCAB480",
+          "masterId": "sakamichi_nogizaka46_haruka_kaki",
+          "name": "賀喜遥香",
+          "profileURL": "https://sp.nogizaka46.com/p/members/760061669056447522",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kaki_Haruka",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF8C00",
+            "#00A651"
+          ],
+          "birthday": "08-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "555AF5D6-8D64-5B73-8CC2-FC0A23A54FF3",
+          "masterId": "sakamichi_nogizaka46_saya_kanagawa",
+          "name": "金川紗耶",
+          "profileURL": "https://sp.nogizaka46.com/p/members/760061680209101919",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kanagawa_Saya",
+          "isGraduated": false,
+          "colorHex": [
+            "#66CCFF",
+            "#FF0033"
+          ],
+          "birthday": "10-31",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "45F87E17-D37F-55D5-9C6A-B1FED6DFB7E6",
+          "masterId": "sakamichi_nogizaka46_sakura_kawasaki",
+          "name": "川﨑桜",
+          "profileURL": "https://sp.nogizaka46.com/p/members/760061685426816163",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kawasaki_Sakura",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF69B4",
+            "#00A651"
+          ],
+          "birthday": "04-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4A607BD0-342E-57CC-80DB-0481D8EB944C",
+          "masterId": "sakamichi_nogizaka46_hina_kawabata",
+          "name": "川端晃菜",
+          "profileURL": "https://sp.nogizaka46.com/p/members/1037913176668110848",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kawabata_Hina",
+          "isGraduated": false,
+          "colorHex": [
+            "#00A651",
+            "#66CCFF"
+          ],
+          "birthday": "01-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "97C2AFE4-4F2F-5683-B3F3-E9D88FBBDC57",
+          "masterId": "sakamichi_nogizaka46_haruka_kuromi",
+          "name": "黒見明香",
+          "profileURL": "https://sp.nogizaka46.com/p/members/760061702812206094",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kuromi_Haruka",
+          "isGraduated": false,
+          "colorHex": [
+            "#7B3FBF",
+            "#00A651"
+          ],
+          "birthday": "01-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F450BB47-45AF-5446-9113-03C23445C0A6",
+          "masterId": "sakamichi_nogizaka46_rika_sato",
+          "name": "佐藤璃果",
+          "profileURL": "https://sp.nogizaka46.com/p/members/760061725457253606",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sato_Rika",
+          "isGraduated": false,
+          "colorHex": [
+            "#F4A7B9",
+            "#40E0D0"
+          ],
+          "birthday": "08-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0F21801F-4359-5307-A0B0-9C1BF492B5A1",
+          "masterId": "sakamichi_nogizaka46_yuna_shibata",
+          "name": "柴田柚菜",
+          "profileURL": "https://sp.nogizaka46.com/p/members/760061730775630893",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Shibata_Yuna",
+          "isGraduated": false,
+          "colorHex": [
+            "#005BBB",
+            "#9ACD32"
+          ],
+          "birthday": "03-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2248605C-3A42-5E50-B66D-9F4ED3EFC90B",
+          "masterId": "sakamichi_nogizaka46_satsuki_sugawara",
+          "name": "菅原咲月",
+          "profileURL": "https://sp.nogizaka46.com/p/members/760061736446330019",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sugawara_Satsuki",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF69B4",
+            "#66CCFF"
+          ],
+          "birthday": "10-31",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "54BED3AD-15F1-5A60-8363-2BEEBD8CB1A5",
+          "masterId": "sakamichi_nogizaka46_yuuna_suzuki",
+          "name": "鈴木佑捺",
+          "profileURL": "https://sp.nogizaka46.com/p/members/1037914280344682498",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF",
+            "#66CCFF"
+          ],
+          "birthday": "05-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F86E7DAB-112C-53DF-A1F1-648F7B623575",
+          "masterId": "sakamichi_nogizaka46_mitsuki_setoguchi",
+          "name": "瀬戸口心月",
+          "profileURL": "https://sp.nogizaka46.com/p/members/1037915214118387714",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Setoguchi_Mitsuki",
+          "isGraduated": false,
+          "colorHex": [
+            "#005BBB",
+            "#FFE600"
+          ],
+          "birthday": "07-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "67D73788-4EF9-59C7-9DDA-62C9BDF43F12",
+          "masterId": "sakamichi_nogizaka46_mayu_tamura",
+          "name": "田村真佑",
+          "profileURL": "https://sp.nogizaka46.com/p/members/760061753995297839",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Tamura_Mayu",
+          "isGraduated": false,
+          "colorHex": [
+            "#7B3FBF",
+            "#66CCFF"
+          ],
+          "birthday": "01-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F43442D9-598E-5299-8B24-8DD22341AED0",
+          "masterId": "sakamichi_nogizaka46_ayame_tsutsui",
+          "name": "筒井あやめ",
+          "profileURL": "https://sp.nogizaka46.com/p/members/760061759959598224",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Tsutsui_Ayame",
+          "isGraduated": false,
+          "colorHex": [
+            "#7B3FBF",
+            "#7B3FBF"
+          ],
+          "birthday": "06-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "57023414-3E0A-5DB8-9D60-4390FFE28A43",
+          "masterId": "sakamichi_nogizaka46_nao_tomisato",
+          "name": "冨里奈央",
+          "profileURL": "https://sp.nogizaka46.com/p/members/760061765156340831",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Tomisato_Nao",
+          "isGraduated": false,
+          "colorHex": [
+            "#40E0D0",
+            "#40E0D0"
+          ],
+          "birthday": "09-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9105F41B-E8CA-552E-B545-41DB7F52C66F",
+          "masterId": "sakamichi_nogizaka46_rio_nagashima",
+          "name": "長嶋凛桜",
+          "profileURL": "https://sp.nogizaka46.com/p/members/1037916054350725121",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Nagashima_Rio",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF69B4",
+            "#FF8C00"
+          ],
+          "birthday": "05-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1A362FE6-7B66-5036-8500-A04688732113",
+          "masterId": "sakamichi_nogizaka46_aruno_nakanishi",
+          "name": "中西アルノ",
+          "profileURL": "https://sp.nogizaka46.com/p/members/760061770378249446",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Nakanishi_Aruno",
+          "isGraduated": false,
+          "colorHex": [
+            "#66CCFF",
+            "#40E0D0"
+          ],
+          "birthday": "03-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "478F2960-1CEF-5B6D-9BDB-96EA092F11D8",
+          "masterId": "sakamichi_nogizaka46_runa_hayashi",
+          "name": "林瑠奈",
+          "profileURL": "https://sp.nogizaka46.com/p/members/760061789093233698",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Hayashi_Runa",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF69B4",
+            "#FF69B4"
+          ],
+          "birthday": "10-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "51B8A5AF-2635-5C63-8215-26B7AEE992BD",
+          "masterId": "sakamichi_nogizaka46_mirine_masuda",
+          "name": "増田三莉音",
+          "profileURL": "https://sp.nogizaka46.com/p/members/1037916759815880704",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Masuda_Mirine",
+          "isGraduated": false,
+          "colorHex": [
+            "#005BBB",
+            "#005BBB"
+          ],
+          "birthday": "11-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "184AE249-77AF-5BA4-9CF1-7F440C21ED21",
+          "masterId": "sakamichi_nogizaka46_urumi_morihira",
+          "name": "森平麗心",
+          "profileURL": "https://sp.nogizaka46.com/p/members/1037919195091697664",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Morihira_Urumi",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFE600",
+            "#FFE600"
+          ],
+          "birthday": "10-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B6B317BB-4CBF-5F8C-80BD-A6858B2BBC57",
+          "masterId": "sakamichi_nogizaka46_moeka_yada",
+          "name": "矢田萌華",
+          "profileURL": "https://sp.nogizaka46.com/p/members/1037920100163780609",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yada_Moeka",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF",
+            "#7B3FBF"
+          ],
+          "birthday": "01-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CAD61AB6-ADBB-514B-9998-3A8CBBC62EBE",
+          "masterId": "sakamichi_nogizaka46_nao_yumiki",
+          "name": "弓木奈於",
+          "profileURL": "https://sp.nogizaka46.com/p/members/760061816746279973",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yumiki_Nao",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0033",
+            "#9ACD32"
+          ],
+          "birthday": "02-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C66F66DE-7F68-5E3E-9F19-4EC2DFCCA3D9",
+          "masterId": "sakamichi_nogizaka46_ayano_christie_yoshida",
+          "name": "吉田綾乃クリスティー",
+          "profileURL": "https://sp.nogizaka46.com/p/members/760061822416978955",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yoshida_Ayano_Christie",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF69B4",
+            "#7B3FBF"
+          ],
+          "birthday": "09-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ],
+      "profileURL": "https://sp.nogizaka46.com/p/members"
+    },
+    {
+      "uuid": "0C06838F-80C7-533F-8AF9-5E44D33B7BEC",
+      "masterId": "sakamichi_sakurazaka46",
+      "name": "櫻坂46",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/sakurazaka46",
+        "instagram": "https://www.instagram.com/sakurazaka46jp/",
+        "tiktok": "https://www.tiktok.com/@sakurazaka46.officialtk",
+        "youtube": "https://www.youtube.com/@sakurazaka46SMEJ"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "EA1D5E9F-23FC-592A-8DDD-8E4810987054",
+          "masterId": "sakamichi_sakurazaka46_59",
+          "name": "石森 璃花",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/59?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ishimori_Rika",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF69B4",
+            "#00A651"
+          ],
+          "birthday": "01-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BCA8D487-EA71-53AC-BC23-F95AFCC8D2CD",
+          "masterId": "sakamichi_sakurazaka46_53",
+          "name": "遠藤 光莉",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/53?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Endo_Hikari",
+          "isGraduated": false,
+          "colorHex": [
+            "#7B3FBF",
+            "#7B3FBF"
+          ],
+          "birthday": "04-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9F55E807-91AF-5536-869F-804FF0E188CE",
+          "masterId": "sakamichi_sakurazaka46_60",
+          "name": "遠藤 理子",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/60?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Endo_Riko",
+          "isGraduated": false,
+          "colorHex": [
+            "#F7C6D9",
+            "#8F5BD6"
+          ],
+          "birthday": "01-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1AF4ECEE-F5D0-5383-9768-C09FB8C5B53F",
+          "masterId": "sakamichi_sakurazaka46_54",
+          "name": "大園 玲",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/54?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ozono_Rei",
+          "isGraduated": false,
+          "colorHex": [
+            "#8F5BD6",
+            "#8F5BD6"
+          ],
+          "birthday": "04-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "12C9BD3C-C60E-53D2-B158-4487286D0662",
+          "masterId": "sakamichi_sakurazaka46_55",
+          "name": "大沼 晶保",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/55?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Onuma_Akiho",
+          "isGraduated": false,
+          "colorHex": [
+            "#A7D8F0",
+            "#FFE600"
+          ],
+          "birthday": "10-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "19F448A2-2210-5256-ACB5-62A725DAC77D",
+          "masterId": "sakamichi_sakurazaka46_61",
+          "name": "小田倉 麗奈",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/61?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Odakura_Reina",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF5DA2",
+            "#FFFFFF"
+          ],
+          "birthday": "07-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BDB78295-6B9D-5DB1-9E4E-017F2DB222D9",
+          "masterId": "sakamichi_sakurazaka46_06",
+          "name": "小池 美波",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/06?ima=0000",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C48EBA30-CF86-5805-959A-E2327DC1310B",
+          "masterId": "sakamichi_sakurazaka46_56",
+          "name": "幸阪 茉里乃",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/56?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kousaka_Marino",
+          "isGraduated": false,
+          "colorHex": [
+            "#C8E6C9",
+            "#F7C6D9"
+          ],
+          "birthday": "12-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0E1956B2-1B87-5989-A3F7-ED9F531651E9",
+          "masterId": "sakamichi_sakurazaka46_62",
+          "name": "小島 凪紗",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/62?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kojima_Nagisa",
+          "isGraduated": false,
+          "colorHex": [
+            "#A7D8F0",
+            "#FF8C00"
+          ],
+          "birthday": "07-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A8E1C794-04EB-58E1-865E-0A9EBABBE476",
+          "masterId": "sakamichi_sakurazaka46_45",
+          "name": "武元 唯衣",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/45?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Takemoto_Yui",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF5DA2",
+            "#005BBB"
+          ],
+          "birthday": "03-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3B46E252-3D55-5F50-BEB9-35188684E254",
+          "masterId": "sakamichi_sakurazaka46_63",
+          "name": "谷口 愛季",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/63?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Taniguchi_Airi_(Sakurazaka46)",
+          "isGraduated": false,
+          "colorHex": [
+            "#7B3FBF",
+            "#FF0033"
+          ],
+          "birthday": "04-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "10D80630-ECA1-5969-B7B5-A382E1F17D94",
+          "masterId": "sakamichi_sakurazaka46_46",
+          "name": "田村 保乃",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/46?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Tamura_Hono",
+          "isGraduated": false,
+          "colorHex": [
+            "#A7D8F0",
+            "#A7D8F0"
+          ],
+          "birthday": "10-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0DBBF16E-3E2E-5EEB-A38B-C0AC356E7248",
+          "masterId": "sakamichi_sakurazaka46_64",
+          "name": "中嶋 優月",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/64?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Nakashima_Yuzuki",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF69B4",
+            "#FF69B4"
+          ],
+          "birthday": "02-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C75D4BA8-03D2-5597-920C-D92A628116AA",
+          "masterId": "sakamichi_sakurazaka46_47",
+          "name": "藤吉 夏鈴",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/47?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Fujiyoshi_Karin",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF",
+            "#8F5BD6"
+          ],
+          "birthday": "08-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "198473BD-2B30-576E-8AB9-A61C81801B2D",
+          "masterId": "sakamichi_sakurazaka46_57",
+          "name": "増本 綺良",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/57?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Masumoto_Kira",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF8C00",
+            "#FF8C00"
+          ],
+          "birthday": "01-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "78AD58A3-DF65-50B0-9045-5C07BC88BDC5",
+          "masterId": "sakamichi_sakurazaka46_48",
+          "name": "松田 里奈",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/48?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Matsuda_Rina",
+          "isGraduated": false,
+          "colorHex": [
+            "#00A651",
+            "#FFE600"
+          ],
+          "birthday": "10-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "38318CB3-7216-540B-87A7-5E8EBD65DA0A",
+          "masterId": "sakamichi_sakurazaka46_65",
+          "name": "的野 美青",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/65?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Matono_Mio",
+          "isGraduated": false,
+          "colorHex": [
+            "#005BBB",
+            "#A7D8F0"
+          ],
+          "birthday": "11-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DA9404EE-2463-5C98-AAFA-207A3E94F511",
+          "masterId": "sakamichi_sakurazaka46_66",
+          "name": "向井 純葉",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/66?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Mukai_Itoha",
+          "isGraduated": false,
+          "colorHex": [
+            "#A7D8F0",
+            "#00B894"
+          ],
+          "birthday": "05-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BD91B49B-E68B-5A79-B68E-A44B2571CEC0",
+          "masterId": "sakamichi_sakurazaka46_67",
+          "name": "村井 優",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/67?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Murai_Yu",
+          "isGraduated": false,
+          "colorHex": [
+            "#7B3FBF",
+            "#005BBB"
+          ],
+          "birthday": "08-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "79AE58DC-CACA-5533-84E4-7E81229D6E1F",
+          "masterId": "sakamichi_sakurazaka46_68",
+          "name": "村山 美羽",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/68?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Murayama_Miu",
+          "isGraduated": false,
+          "colorHex": [
+            "#8F5BD6",
+            "#7B3FBF"
+          ],
+          "birthday": "02-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FEA8246D-E087-5878-B095-59F9418EB3E0",
+          "masterId": "sakamichi_sakurazaka46_50",
+          "name": "森田 ひかる",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/50?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Morita_Hikaru",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0033",
+            "#005BBB"
+          ],
+          "birthday": "07-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8FAA216C-27D5-55DF-B6C9-FD1623A113F0",
+          "masterId": "sakamichi_sakurazaka46_58",
+          "name": "守屋 麗奈",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/58?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Moriya_Rena",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFE600",
+            "#FF69B4"
+          ],
+          "birthday": "01-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FD49C753-F2CD-5B0B-A295-5CC3023B5DCA",
+          "masterId": "sakamichi_sakurazaka46_51",
+          "name": "山﨑 天",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/51?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yamasaki_Ten",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF",
+            "#00A651"
+          ],
+          "birthday": "09-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4E2D49B6-51AD-5E13-930D-ABE8B00919DA",
+          "masterId": "sakamichi_sakurazaka46_69",
+          "name": "山下 瞳月",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/69?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yamashita_Shizuki",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0033",
+            "#A7D8F0"
+          ],
+          "birthday": "01-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5A54F2D8-D6CC-5FDD-BBBA-014FE828AD0A",
+          "masterId": "sakamichi_sakurazaka46_70",
+          "name": "浅井 恋乃未",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/70?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Asai_Konomi",
+          "isGraduated": false,
+          "colorHex": [
+            "#00B894",
+            "#FF0033"
+          ],
+          "birthday": "12-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "52EAE46C-D933-59DF-A0F8-42E07B306CD9",
+          "masterId": "sakamichi_sakurazaka46_71",
+          "name": "稲熊 ひな",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/71?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Inaguma_Hina",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF8C00",
+            "#00B894"
+          ],
+          "birthday": "03-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C47560CF-D35F-55E9-B391-25EECD1D919E",
+          "masterId": "sakamichi_sakurazaka46_72",
+          "name": "勝又 春",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/72?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Katsumata_Haru",
+          "isGraduated": false,
+          "colorHex": [
+            "#F7C6D9",
+            "#FF0033"
+          ],
+          "birthday": "01-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "12F3585C-EA82-5BA8-935F-A1E568DAB30F",
+          "masterId": "sakamichi_sakurazaka46_73",
+          "name": "佐藤 愛桜",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/73?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sato_Neo",
+          "isGraduated": false,
+          "colorHex": [
+            "#F7C6D9",
+            "#A7D8F0"
+          ],
+          "birthday": "12-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2863E9C7-84E6-52B6-86EB-6999D96D6437",
+          "masterId": "sakamichi_sakurazaka46_74",
+          "name": "中川 智尋",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/74?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Nakagawa_Chihiro",
+          "isGraduated": false,
+          "colorHex": [
+            "#8F5BD6",
+            "#FFE600"
+          ],
+          "birthday": "09-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "66FD241B-3380-551F-9699-9152224DD46C",
+          "masterId": "sakamichi_sakurazaka46_75",
+          "name": "松本 和子",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/75?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Matsumoto_Wako",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF",
+            "#00B894"
+          ],
+          "birthday": "02-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1C820C5A-C2C4-5D84-A5FC-D89535763608",
+          "masterId": "sakamichi_sakurazaka46_76",
+          "name": "目黒 陽色",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/76?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Meguro_Hiiro",
+          "isGraduated": false,
+          "colorHex": [
+            "#F7C6D9",
+            "#FF5DA2"
+          ],
+          "birthday": "01-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4F3D2E84-F1BA-5BAE-A19E-945BA413B29A",
+          "masterId": "sakamichi_sakurazaka46_77",
+          "name": "山川 宇衣",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/77?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yamakawa_Ui",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF",
+            "#A7D8F0"
+          ],
+          "birthday": "09-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A4BBA1D2-56BC-5948-A5DD-BDC768BB6113",
+          "masterId": "sakamichi_sakurazaka46_78",
+          "name": "山田 桃実",
+          "profileURL": "https://sakurazaka46.com/s/s46/artist/78?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yamada_Momomi",
+          "isGraduated": false,
+          "colorHex": [
+            "#A7D8F0",
+            "#8F5BD6"
+          ],
+          "birthday": "07-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ],
+      "profileURL": "https://sakurazaka46.com/s/s46/search/artist?ima=0000"
+    },
+    {
+      "uuid": "BD1A3584-A6F4-57C7-8135-F04DCFB1CF42",
+      "masterId": "sakamichi_hinatazaka46",
+      "name": "日向坂46",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/hinatazaka46",
+        "instagram": "https://www.instagram.com/hinatazaka46/",
+        "tiktok": "https://www.tiktok.com/@hinatazakanews",
+        "youtube": "https://www.youtube.com/@hinatazakachannel"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "23E3D983-388B-51E8-AB6E-22C10574BDC6",
+          "masterId": "sakamichi_hinatazaka46_25",
+          "name": "石塚 瑶季",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/25?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ishizuka_Tamaki",
+          "isGraduated": false,
+          "colorHex": [
+            "#F7C6D9",
+            "#FF8C00"
+          ],
+          "birthday": "08-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8B070117-9895-58B4-AED6-9E02722FAA27",
+          "masterId": "sakamichi_hinatazaka46_12",
+          "name": "金村 美玖",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/12?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kanemura_Miku",
+          "isGraduated": false,
+          "colorHex": [
+            "#A7D8F0",
+            "#FFE600"
+          ],
+          "birthday": "09-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "00939A67-9C35-5AB1-A8A7-35144BE5F52A",
+          "masterId": "sakamichi_hinatazaka46_21",
+          "name": "上村 ひなの",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/21?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kamimura_Hinano",
+          "isGraduated": false,
+          "colorHex": [
+            "#00B894",
+            "#FF0033"
+          ],
+          "birthday": "04-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "62D4CEC6-076D-55BE-A51C-248204564E89",
+          "masterId": "sakamichi_hinatazaka46_14",
+          "name": "小坂 菜緒",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/14?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kosaka_Nao",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF",
+            "#8F5BD6"
+          ],
+          "birthday": "09-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "37E66855-6E65-5574-9F44-B3FDB5AF003D",
+          "masterId": "sakamichi_hinatazaka46_27",
+          "name": "小西 夏菜実",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/27?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Konishi_Nanami",
+          "isGraduated": false,
+          "colorHex": [
+            "#7B3FBF",
+            "#005BBB"
+          ],
+          "birthday": "10-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "07EA550B-60B2-59A4-8277-4D823C8BF5FC",
+          "masterId": "sakamichi_hinatazaka46_28",
+          "name": "清水 理央",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/28?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Shimizu_Rio_(Hinatazaka46)",
+          "isGraduated": false,
+          "colorHex": [
+            "#A7D8F0",
+            "#FF69B4"
+          ],
+          "birthday": "01-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "753196F7-FB7F-5025-869B-35B8A4AE6646",
+          "masterId": "sakamichi_hinatazaka46_29",
+          "name": "正源司 陽子",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/29?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Shogenji_Yoko",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF8C00",
+            "#FF0033"
+          ],
+          "birthday": "02-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1C4BDDE9-FB27-59A0-A4AA-9099325B7627",
+          "masterId": "sakamichi_hinatazaka46_22",
+          "name": "髙橋 未来虹",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/22?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Takahashi_Mikuni",
+          "isGraduated": false,
+          "colorHex": [
+            "#00A651",
+            "#7B3FBF"
+          ],
+          "birthday": "09-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C86C56CB-5547-51A1-B973-2CDC0DD50BDF",
+          "masterId": "sakamichi_hinatazaka46_30",
+          "name": "竹内 希来里",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/30?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Takeuchi_Kirari",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFE600",
+            "#FF0033"
+          ],
+          "birthday": "02-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5770810B-5E39-5771-BC3B-D10A2C549983",
+          "masterId": "sakamichi_hinatazaka46_31",
+          "name": "平尾 帆夏",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/31?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Hirao_Honoka",
+          "isGraduated": false,
+          "colorHex": [
+            "#A7D8F0",
+            "#FF8C00"
+          ],
+          "birthday": "07-31",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BC31B4B6-8D12-5DD8-A2A3-CE03C8D46E8B",
+          "masterId": "sakamichi_hinatazaka46_32",
+          "name": "平岡 海月",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/32?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Hiraoka_Mitsuki",
+          "isGraduated": false,
+          "colorHex": [
+            "#005BBB",
+            "#FFE600"
+          ],
+          "birthday": "04-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5DBF3E6C-423C-5FF2-AD82-799481A162E6",
+          "masterId": "sakamichi_hinatazaka46_33",
+          "name": "藤嶌 果歩",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/33?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Fujishima_Kaho",
+          "isGraduated": false,
+          "colorHex": [
+            "#F7C6D9",
+            "#005BBB"
+          ],
+          "birthday": "08-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E3ED1814-A36C-5A7A-81B4-8BEFB62CDD8E",
+          "masterId": "sakamichi_hinatazaka46_34",
+          "name": "宮地 すみれ",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/34?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Miyachi_Sumire",
+          "isGraduated": false,
+          "colorHex": [
+            "#8F5BD6",
+            "#FF0033"
+          ],
+          "birthday": "12-31",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C57640F3-3678-54A1-B5F3-307C9092CBCA",
+          "masterId": "sakamichi_hinatazaka46_23",
+          "name": "森本 茉莉",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/23?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Morimoto_Marie",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF8C00",
+            "#005BBB"
+          ],
+          "birthday": "02-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "289BE9FC-CDDC-5CCA-B17C-E3D842F697F0",
+          "masterId": "sakamichi_hinatazaka46_24",
+          "name": "山口 陽世",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/24?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yamaguchi_Haruyo",
+          "isGraduated": false,
+          "colorHex": [
+            "#C8E6C9",
+            "#FFE600"
+          ],
+          "birthday": "02-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F3966216-D621-5EE6-B037-8F11AEBCB8BC",
+          "masterId": "sakamichi_hinatazaka46_35",
+          "name": "山下 葉留花",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/35?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yamashita_Haruka",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF",
+            "#00B894"
+          ],
+          "birthday": "05-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2A22F900-ED9B-5979-918C-5D717726FEC6",
+          "masterId": "sakamichi_hinatazaka46_36",
+          "name": "渡辺 莉奈",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/36?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Watanabe_Rina",
+          "isGraduated": false,
+          "colorHex": [
+            "#005BBB",
+            "#FFFFFF"
+          ],
+          "birthday": "02-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6B1E8F35-555C-5FA7-A344-C72CD2FF463F",
+          "masterId": "sakamichi_hinatazaka46_37",
+          "name": "大田 美月",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/37?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ota_Mizuki",
+          "isGraduated": false,
+          "colorHex": [
+            "#F7C6D9",
+            "#FF69B4"
+          ],
+          "birthday": "12-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "25CE6B85-F532-5268-B1BA-97DE6478E7B2",
+          "masterId": "sakamichi_hinatazaka46_38",
+          "name": "大野 愛実",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/38?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ono_Manami",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0033",
+            "#FF0033"
+          ],
+          "birthday": "05-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A93A5453-1EF3-57BA-84E0-2ACC2B3CB4FE",
+          "masterId": "sakamichi_hinatazaka46_39",
+          "name": "片山 紗希",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/39?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Katayama_Saki",
+          "isGraduated": false,
+          "colorHex": [
+            "#A7D8F0",
+            "#A7D8F0"
+          ],
+          "birthday": "12-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "126CEF44-19EC-57E2-956E-3663EAF2A941",
+          "masterId": "sakamichi_hinatazaka46_40",
+          "name": "蔵盛 妃那乃",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/40?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kuramori_Hinano",
+          "isGraduated": false,
+          "colorHex": [
+            "#F7C6D9",
+            "#FF0033"
+          ],
+          "birthday": "01-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D2A093F8-AB42-5667-AB29-DF27176100EA",
+          "masterId": "sakamichi_hinatazaka46_41",
+          "name": "坂井 新奈",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/41?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sakai_Nina",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "birthday": "03-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C90AFFE8-05F8-5529-A5BB-860CE31CBA97",
+          "masterId": "sakamichi_hinatazaka46_42",
+          "name": "佐藤 優羽",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/42?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sato_Yu",
+          "isGraduated": false,
+          "colorHex": [
+            "#00B894",
+            "#00B894"
+          ],
+          "birthday": "09-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9BAF6C48-532B-5D2F-9395-5BABEF815FB6",
+          "masterId": "sakamichi_hinatazaka46_43",
+          "name": "下田 衣珠季",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/43?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Shimoda_Izuki",
+          "isGraduated": false,
+          "colorHex": [
+            "#A7D8F0",
+            "#00B894"
+          ],
+          "birthday": "12-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6512C1B6-5926-56A2-999D-0FF8D9E56512",
+          "masterId": "sakamichi_hinatazaka46_44",
+          "name": "高井 俐香",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/44?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Takai_Rika",
+          "isGraduated": false,
+          "colorHex": [
+            "#7B3FBF",
+            "#FFE600"
+          ],
+          "birthday": "08-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "789922EA-73E8-58D7-8AEA-D63441456CA7",
+          "masterId": "sakamichi_hinatazaka46_45",
+          "name": "鶴崎 仁香",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/45?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Tsurusaki_Niko",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFE600",
+            "#FF8C00"
+          ],
+          "birthday": "03-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AF866B67-2ECF-53F8-97BB-577C906CEC04",
+          "masterId": "sakamichi_hinatazaka46_46",
+          "name": "松尾 桜",
+          "profileURL": "https://www.hinatazaka46.com/s/official/artist/46?ima=0000",
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Matsuo_Sakura",
+          "isGraduated": false,
+          "colorHex": [
+            "#F7C6D9",
+            "#FFFFFF"
+          ],
+          "birthday": "06-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ],
+      "profileURL": "https://www.hinatazaka46.com/s/official/search/artist?ima=0000"
+    }
+  ]
+}
