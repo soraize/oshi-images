@@ -28,7 +28,9 @@
           "name": "晴後あめ",
           "profileURL": "https://jpop.fandom.com/wiki/Harenochi_Ame",
           "isGraduated": false,
-          "colorHex": "#4167F7",
+          "colorHex": [
+            "#4167F7"
+          ],
           "birthday": "10-06",
           "sns": {
             "twitter": "https://x.com/ame_ponkotsu",
@@ -42,7 +44,9 @@
           "name": "夕葉里めろん",
           "profileURL": "https://jpop.fandom.com/wiki/Yubari_Meron",
           "isGraduated": false,
-          "colorHex": "#42FD4A",
+          "colorHex": [
+            "#42FD4A"
+          ],
           "birthday": "01-07",
           "sns": {
             "twitter": "https://x.com/meron_ponkotsu",
@@ -56,7 +60,9 @@
           "name": "秋田こまち",
           "profileURL": "https://jpop.fandom.com/wiki/Akita_Komachi",
           "isGraduated": false,
-          "colorHex": "#FFF952",
+          "colorHex": [
+            "#FFF952"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://x.com/koma_ponkotsu",
@@ -70,7 +76,9 @@
           "name": "一蘭",
           "profileURL": "https://jpop.fandom.com/wiki/Ninomae_Ran",
           "isGraduated": false,
-          "colorHex": "#ED051E",
+          "colorHex": [
+            "#ED051E"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://x.com/ran_ponkotsu",
@@ -84,7 +92,9 @@
           "name": "甘杉あぽろ",
           "profileURL": "https://jpop.fandom.com/wiki/Amasugi_Apollo",
           "isGraduated": false,
-          "colorHex": "#FDAFC5",
+          "colorHex": [
+            "#FDAFC5"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://x.com/aporo_ponkotsu",
@@ -98,7 +108,9 @@
           "name": "海苔巻うに",
           "profileURL": "https://jpop.fandom.com/wiki/Norimaki_Uni",
           "isGraduated": false,
-          "colorHex": "#8E3EF6",
+          "colorHex": [
+            "#8E3EF6"
+          ],
           "birthday": "05-17",
           "sns": {
             "twitter": "https://x.com/uni__ponkotsu",
@@ -112,7 +124,9 @@
           "name": "ショー☆タイム",
           "profileURL": "https://jpop.fandom.com/wiki/Show%E2%98%86Time",
           "isGraduated": false,
-          "colorHex": "#FFFFFF",
+          "colorHex": [
+            "#FFFFFF"
+          ],
           "birthday": "03-14",
           "sns": {
             "twitter": "https://x.com/time_ponkotsu",
@@ -126,7 +140,9 @@
           "name": "チャーリン",
           "profileURL": "https://jpop.fandom.com/wiki/Charlin",
           "isGraduated": false,
-          "colorHex": "#81511C",
+          "colorHex": [
+            "#81511C"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://x.com/charin_ponkotsu",
@@ -159,7 +175,9 @@
           "name": "のもあちゃちゃ",
           "profileURL": "https://jpop.fandom.com/wiki/No_More_Chacha",
           "isGraduated": false,
-          "colorHex": "#CE0000",
+          "colorHex": [
+            "#CE0000"
+          ],
           "birthday": "10-07",
           "sns": {
             "twitter": "https://x.com/Chacha_TENRIN",
@@ -173,7 +191,9 @@
           "name": "白洲あやん",
           "profileURL": "https://jpop.fandom.com/wiki/Shirasu_Ayan",
           "isGraduated": false,
-          "colorHex": "#FFFFFF",
+          "colorHex": [
+            "#FFFFFF"
+          ],
           "birthday": "03-13",
           "sns": {
             "twitter": "https://x.com/Ayan_TENRIN",
@@ -187,7 +207,9 @@
           "name": "七瀬にこ",
           "profileURL": "https://jpop.fandom.com/wiki/Nanase_Nico",
           "isGraduated": false,
-          "colorHex": "#AD46E2",
+          "colorHex": [
+            "#AD46E2"
+          ],
           "birthday": "02-08",
           "sns": {
             "twitter": "https://x.com/Nico_TENRIN",
@@ -201,7 +223,9 @@
           "name": "蓮花うらら",
           "profileURL": "https://jpop.fandom.com/wiki/Renge_Urara",
           "isGraduated": false,
-          "colorHex": "#DB00AB",
+          "colorHex": [
+            "#DB00AB"
+          ],
           "birthday": "12-24",
           "sns": {
             "twitter": "https://x.com/Lenge_TENRIN",
@@ -215,7 +239,9 @@
           "name": "霞あげは",
           "profileURL": "https://jpop.fandom.com/wiki/Kasumi_Ageha",
           "isGraduated": false,
-          "colorHex": "#3D86DC",
+          "colorHex": [
+            "#3D86DC"
+          ],
           "birthday": "08-23",
           "sns": {
             "twitter": "https://x.com/ageha_TENRIN",
@@ -248,7 +274,9 @@
           "name": "心花りり",
           "profileURL": "https://jpop.fandom.com/wiki/Konoka_Riri",
           "isGraduated": false,
-          "colorHex": "#DD4F4F",
+          "colorHex": [
+            "#DD4F4F"
+          ],
           "birthday": "05-19",
           "sns": {
             "twitter": "https://x.com/iLiFE_riri",
@@ -262,7 +290,9 @@
           "name": "あいす",
           "profileURL": "https://jpop.fandom.com/wiki/Aisu",
           "isGraduated": false,
-          "colorHex": "#FFFFFF",
+          "colorHex": [
+            "#FFFFFF"
+          ],
           "birthday": "01-23",
           "sns": {
             "twitter": "https://x.com/ice_icol",
@@ -276,7 +306,9 @@
           "name": "福丸うさ",
           "profileURL": "https://jpop.fandom.com/wiki/Fukumaru_Usa",
           "isGraduated": false,
-          "colorHex": "#FFE88E",
+          "colorHex": [
+            "#FFE88E"
+          ],
           "birthday": "01-26",
           "sns": {
             "twitter": "https://x.com/iLiFE_fukumaru",
@@ -290,7 +322,9 @@
           "name": "若葉のあ",
           "profileURL": "https://jpop.fandom.com/wiki/Wakaba_Noa",
           "isGraduated": false,
-          "colorHex": "#97FC6D",
+          "colorHex": [
+            "#97FC6D"
+          ],
           "birthday": "07-07",
           "sns": {
             "twitter": "https://x.com/iLiFE_wakaba",
@@ -304,7 +338,9 @@
           "name": "空詩かれん",
           "profileURL": "https://jpop.fandom.com/wiki/Sonata_Karen",
           "isGraduated": false,
-          "colorHex": "#7073E6",
+          "colorHex": [
+            "#7073E6"
+          ],
           "birthday": "07-10",
           "sns": {
             "twitter": "https://x.com/iLiFE_karen",
@@ -318,7 +354,9 @@
           "name": "虹羽みに",
           "profileURL": "https://jpop.fandom.com/wiki/Kohane_Mini",
           "isGraduated": false,
-          "colorHex": "#76EAFF",
+          "colorHex": [
+            "#76EAFF"
+          ],
           "birthday": "03-02",
           "sns": {
             "twitter": "https://x.com/iLiFE_Mini",
@@ -332,7 +370,9 @@
           "name": "純嶺みき",
           "profileURL": "https://jpop.fandom.com/wiki/Sumire_Miki",
           "isGraduated": false,
-          "colorHex": "#984FE6",
+          "colorHex": [
+            "#984FE6"
+          ],
           "birthday": "04-12",
           "sns": {
             "twitter": "https://x.com/iLiFE_sumire",
@@ -346,7 +386,9 @@
           "name": "小熊まむ",
           "profileURL": "https://jpop.fandom.com/wiki/Koguma_Mamu",
           "isGraduated": false,
-          "colorHex": "#FF9E2E",
+          "colorHex": [
+            "#FF9E2E"
+          ],
           "birthday": "11-23",
           "sns": {
             "twitter": "https://x.com/iLiFE_koguma",
@@ -360,7 +402,9 @@
           "name": "恋星はるか",
           "profileURL": "https://jpop.fandom.com/wiki/Konose_Haruka",
           "isGraduated": false,
-          "colorHex": "#FCA6DC",
+          "colorHex": [
+            "#FCA6DC"
+          ],
           "birthday": "10-07",
           "sns": {
             "twitter": "https://x.com/Haru_nonfic",
@@ -393,7 +437,9 @@
           "name": "みぽたぽた",
           "profileURL": "https://jpop.fandom.com/wiki/Kusumoto_Miho",
           "isGraduated": false,
-          "colorHex": "#77D8EE",
+          "colorHex": [
+            "#77D8EE"
+          ],
           "birthday": "05-11",
           "sns": {
             "twitter": "https://x.com/mipo_yoruami",
@@ -407,7 +453,9 @@
           "name": "白空こあい",
           "profileURL": "https://jpop.fandom.com/wiki/Hakuu_Coai",
           "isGraduated": false,
-          "colorHex": "#F0F5FF",
+          "colorHex": [
+            "#F0F5FF"
+          ],
           "birthday": "10-23",
           "sns": {
             "twitter": "https://x.com/coai_yoruami",
@@ -421,7 +469,9 @@
           "name": "ふてこ",
           "profileURL": "https://jpop.fandom.com/wiki/Futeko",
           "isGraduated": false,
-          "colorHex": "#B171E7",
+          "colorHex": [
+            "#B171E7"
+          ],
           "birthday": "06-20",
           "sns": {
             "twitter": "https://x.com/futeko_yoruami",
@@ -435,7 +485,9 @@
           "name": "炎谷莉奈",
           "profileURL": "https://jpop.fandom.com/wiki/Kobayashi_Rina",
           "isGraduated": false,
-          "colorHex": "#EE444D",
+          "colorHex": [
+            "#EE444D"
+          ],
           "birthday": "04-20",
           "sns": {
             "twitter": "https://x.com/rina_yoruami",
@@ -449,7 +501,9 @@
           "name": "水萌しゅる",
           "profileURL": "https://jpop.fandom.com/wiki/Minamo_Shuru",
           "isGraduated": false,
-          "colorHex": "#FF9EDB",
+          "colorHex": [
+            "#FF9EDB"
+          ],
           "birthday": "09-21",
           "sns": {
             "twitter": "https://x.com/shuru_yoruami",
@@ -463,7 +517,9 @@
           "name": "琴音ふりる",
           "profileURL": "https://jpop.fandom.com/wiki/Kotone_Furiru",
           "isGraduated": false,
-          "colorHex": "#FDE777",
+          "colorHex": [
+            "#FDE777"
+          ],
           "birthday": "02-08",
           "sns": {
             "twitter": "https://x.com/furiru_yoruami",
@@ -496,7 +552,9 @@
           "name": "恋星はるか",
           "profileURL": "https://jpop.fandom.com/wiki/Konose_Haruka",
           "isGraduated": false,
-          "colorHex": "#FBA6DC",
+          "colorHex": [
+            "#FBA6DC"
+          ],
           "birthday": "10-07",
           "sns": {
             "twitter": "https://x.com/Haru_nonfic",
@@ -510,7 +568,9 @@
           "name": "水瀬ぴあの",
           "profileURL": "https://jpop.fandom.com/wiki/Minase_Piano",
           "isGraduated": false,
-          "colorHex": "#7AD7E8",
+          "colorHex": [
+            "#7AD7E8"
+          ],
           "birthday": "08-10",
           "sns": {
             "twitter": "https://x.com/Piano_nonfic",
@@ -524,7 +584,9 @@
           "name": "永月十華",
           "profileURL": "https://jpop.fandom.com/wiki/Nagatsuki_Touka",
           "isGraduated": false,
-          "colorHex": "#F5FF38",
+          "colorHex": [
+            "#F5FF38"
+          ],
           "birthday": "10-01",
           "sns": {
             "twitter": "https://x.com/Touka_nonfic",
@@ -538,7 +600,9 @@
           "name": "海まりん",
           "profileURL": "https://jpop.fandom.com/wiki/Aqua_Marin",
           "isGraduated": false,
-          "colorHex": "#2EE8BB",
+          "colorHex": [
+            "#2EE8BB"
+          ],
           "birthday": "12-29",
           "sns": {
             "twitter": "https://x.com/Marin_nonfic",
@@ -552,7 +616,9 @@
           "name": "こるね",
           "profileURL": "https://jpop.fandom.com/wiki/Colne",
           "isGraduated": false,
-          "colorHex": "#E5434B",
+          "colorHex": [
+            "#E5434B"
+          ],
           "birthday": "04-23",
           "sns": {
             "twitter": "https://x.com/colne_icol",
@@ -566,7 +632,9 @@
           "name": "澪織にいな",
           "profileURL": "https://jpop.fandom.com/wiki/Miori_Niina",
           "isGraduated": false,
-          "colorHex": "#5883C6",
+          "colorHex": [
+            "#5883C6"
+          ],
           "birthday": "03-02",
           "sns": {
             "twitter": "https://x.com/niina_nonfic",
@@ -580,7 +648,9 @@
           "name": "香月あむ",
           "profileURL": "https://jpop.fandom.com/wiki/Kouzuki_Amu",
           "isGraduated": false,
-          "colorHex": "#B779AC",
+          "colorHex": [
+            "#B779AC"
+          ],
           "birthday": "01-30",
           "sns": {
             "twitter": null,
@@ -641,7 +711,9 @@
           "name": "夢羽るる",
           "profileURL": "https://jpop.fandom.com/wiki/Yumeha_Ruru",
           "isGraduated": false,
-          "colorHex": "#FFFB94",
+          "colorHex": [
+            "#FFFB94"
+          ],
           "birthday": "06-25",
           "sns": {
             "twitter": "https://x.com/ruru_calres",
@@ -655,7 +727,9 @@
           "name": "来夢ねお",
           "profileURL": "https://jpop.fandom.com/wiki/Lime_Neo",
           "isGraduated": false,
-          "colorHex": "#465FC3",
+          "colorHex": [
+            "#465FC3"
+          ],
           "birthday": "11-17",
           "sns": {
             "twitter": "https://x.com/neo_calres",
@@ -669,7 +743,9 @@
           "name": "杏仁みる",
           "profileURL": "https://jpop.fandom.com/wiki/Annin_Miru",
           "isGraduated": false,
-          "colorHex": "#FFFFFF",
+          "colorHex": [
+            "#FFFFFF"
+          ],
           "birthday": "09-13",
           "sns": {
             "twitter": "https://x.com/anninmirucalres",
@@ -683,7 +759,9 @@
           "name": "九条あすな",
           "profileURL": "https://jpop.fandom.com/wiki/Kujo_Asuna",
           "isGraduated": false,
-          "colorHex": "#FF384C",
+          "colorHex": [
+            "#FF384C"
+          ],
           "birthday": "02-28",
           "sns": {
             "twitter": "https://x.com/asuna_calres",
@@ -697,7 +775,9 @@
           "name": "明日実まあや",
           "profileURL": "https://jpop.fandom.com/wiki/Asumi_Maaya",
           "isGraduated": false,
-          "colorHex": "#F49F3F",
+          "colorHex": [
+            "#F49F3F"
+          ],
           "birthday": "12-01",
           "sns": {
             "twitter": "https://x.com/maaya_calres",
@@ -730,7 +810,9 @@
           "name": "蒼井叶",
           "profileURL": "https://jpop.fandom.com/wiki/Aoi_Kanau",
           "isGraduated": false,
-          "colorHex": "#398FCB",
+          "colorHex": [
+            "#398FCB"
+          ],
           "birthday": "11-09",
           "sns": {
             "twitter": "https://x.com/kanau_Ill",
@@ -744,7 +826,9 @@
           "name": "白雪姫乃",
           "profileURL": "https://jpop.fandom.com/wiki/Shirayuki_Himeno",
           "isGraduated": false,
-          "colorHex": "#FFFFFF",
+          "colorHex": [
+            "#FFFFFF"
+          ],
           "birthday": "04-25",
           "sns": {
             "twitter": "https://x.com/hime_Ill",
@@ -758,7 +842,9 @@
           "name": "紫ノ色",
           "profileURL": "https://jpop.fandom.com/wiki/Shikino_Shiki",
           "isGraduated": false,
-          "colorHex": "#6A5CA6",
+          "colorHex": [
+            "#6A5CA6"
+          ],
           "birthday": "04-06",
           "sns": {
             "twitter": "https://x.com/shiki_Ill",
@@ -772,7 +858,9 @@
           "name": "森緑藻",
           "profileURL": "https://jpop.fandom.com/wiki/Mori_Marimo",
           "isGraduated": false,
-          "colorHex": "#007666",
+          "colorHex": [
+            "#007666"
+          ],
           "birthday": "11-14",
           "sns": {
             "twitter": "https://x.com/mori_Ill",
@@ -805,7 +893,9 @@
           "name": "あいす",
           "profileURL": "https://jpop.fandom.com/wiki/Aisu",
           "isGraduated": false,
-          "colorHex": "#3E82CC",
+          "colorHex": [
+            "#3E82CC"
+          ],
           "birthday": "01-23",
           "sns": {
             "twitter": "https://x.com/ice_icol",
@@ -819,7 +909,9 @@
           "name": "こるね",
           "profileURL": "https://jpop.fandom.com/wiki/Colne",
           "isGraduated": false,
-          "colorHex": "#E5434B",
+          "colorHex": [
+            "#E5434B"
+          ],
           "birthday": "04-23",
           "sns": {
             "twitter": "https://x.com/colne_icol",
@@ -852,7 +944,9 @@
           "name": "小熊まな香",
           "profileURL": "https://jpop.fandom.com/wiki/Yuuki_Ai",
           "isGraduated": false,
-          "colorHex": "#A3E0FF",
+          "colorHex": [
+            "#A3E0FF"
+          ],
           "birthday": "11-02",
           "sns": {
             "twitter": "https://x.com/manaka_parasai",
@@ -866,7 +960,9 @@
           "name": "小坂みおん",
           "profileURL": "https://jpop.fandom.com/wiki/Kosaka_Mion",
           "isGraduated": false,
-          "colorHex": "#C193F4",
+          "colorHex": [
+            "#C193F4"
+          ],
           "birthday": "01-09",
           "sns": {
             "twitter": "https://x.com/mion_parasai",
@@ -880,7 +976,9 @@
           "name": "葉月みつは",
           "profileURL": "https://jpop.fandom.com/wiki/Hazuki_Mitsuha",
           "isGraduated": false,
-          "colorHex": "#8CD9BB",
+          "colorHex": [
+            "#8CD9BB"
+          ],
           "birthday": "03-28",
           "sns": {
             "twitter": "https://x.com/mitsuha_parasai",
@@ -894,7 +992,9 @@
           "name": "彩音ゆの",
           "profileURL": "https://jpop.fandom.com/wiki/Asuma_Yuno",
           "isGraduated": false,
-          "colorHex": "#FFFFFF",
+          "colorHex": [
+            "#FFFFFF"
+          ],
           "birthday": "09-05",
           "sns": {
             "twitter": "https://x.com/yuno_parasai",
@@ -908,7 +1008,9 @@
           "name": "宮奈もこ",
           "profileURL": "https://jpop.fandom.com/wiki/Miyana_Moco",
           "isGraduated": false,
-          "colorHex": "#FE5F69",
+          "colorHex": [
+            "#FE5F69"
+          ],
           "birthday": "04-01",
           "sns": {
             "twitter": "https://x.com/moco_parasai",
@@ -922,7 +1024,9 @@
           "name": "宇佐美あこ",
           "profileURL": "https://jpop.fandom.com/wiki/Usami_Ako",
           "isGraduated": false,
-          "colorHex": "#FEA5E9",
+          "colorHex": [
+            "#FEA5E9"
+          ],
           "birthday": "02-20",
           "sns": {
             "twitter": "https://x.com/mitsuha_parasai",
@@ -955,7 +1059,9 @@
           "name": "蒼井叶",
           "profileURL": "https://jpop.fandom.com/wiki/Aoi_Kanau",
           "isGraduated": false,
-          "colorHex": "#398FCB",
+          "colorHex": [
+            "#398FCB"
+          ],
           "birthday": "11-09",
           "sns": {
             "twitter": "https://x.com/kanau_Ill",
@@ -969,7 +1075,9 @@
           "name": "白雪姫乃",
           "profileURL": "https://jpop.fandom.com/wiki/Shirayuki_Himeno",
           "isGraduated": false,
-          "colorHex": "#FFFFFF",
+          "colorHex": [
+            "#FFFFFF"
+          ],
           "birthday": "09-20",
           "sns": {
             "twitter": "https://x.com/hime_Ill",
@@ -983,7 +1091,9 @@
           "name": "白空こあい",
           "profileURL": "https://jpop.fandom.com/wiki/Hakuu_Coai",
           "isGraduated": false,
-          "colorHex": "#FADCE9",
+          "colorHex": [
+            "#FADCE9"
+          ],
           "birthday": "10-23",
           "sns": {
             "twitter": "https://x.com/coai_yoruami",
@@ -997,7 +1107,9 @@
           "name": "恋星はるか",
           "profileURL": "https://jpop.fandom.com/wiki/Konose_Haruka",
           "isGraduated": false,
-          "colorHex": "#FCA6DC",
+          "colorHex": [
+            "#FCA6DC"
+          ],
           "birthday": "10-07",
           "sns": {
             "twitter": "https://x.com/Haru_nonfic",
@@ -1011,7 +1123,9 @@
           "name": "心花りり",
           "profileURL": "https://jpop.fandom.com/wiki/Konoka_Riri",
           "isGraduated": false,
-          "colorHex": "#DD4F4F",
+          "colorHex": [
+            "#DD4F4F"
+          ],
           "birthday": "05-19",
           "sns": {
             "twitter": "https://x.com/iLiFE_riri",
@@ -1044,7 +1158,9 @@
           "name": "夜宵やむ",
           "profileURL": "https://jpop.fandom.com/wiki/Yayoi_Yamu",
           "isGraduated": false,
-          "colorHex": "#A162FF",
+          "colorHex": [
+            "#A162FF"
+          ],
           "birthday": "12-22",
           "sns": {
             "twitter": "https://x.com/yamu_adamth",
@@ -1058,7 +1174,9 @@
           "name": "三木零",
           "profileURL": "https://jpop.fandom.com/wiki/Miki_Ray",
           "isGraduated": false,
-          "colorHex": "#1674FB",
+          "colorHex": [
+            "#1674FB"
+          ],
           "birthday": "10-30",
           "sns": {
             "twitter": "https://x.com/ray_adamth",
@@ -1072,7 +1190,9 @@
           "name": "都ユナ",
           "profileURL": "https://jpop.fandom.com/wiki/Miyako_Yuna",
           "isGraduated": false,
-          "colorHex": "#FFFFFF",
+          "colorHex": [
+            "#FFFFFF"
+          ],
           "birthday": "11-19",
           "sns": {
             "twitter": "https://x.com/yuna_adamth",
@@ -1086,7 +1206,9 @@
           "name": "響羽リズ",
           "profileURL": "https://jpop.fandom.com/wiki/Otoha_Rizu",
           "isGraduated": false,
-          "colorHex": "#D30E19",
+          "colorHex": [
+            "#D30E19"
+          ],
           "birthday": "09-26",
           "sns": {
             "twitter": "https://x.com/rizu_adamth",
@@ -1119,7 +1241,9 @@
           "name": "高坂りん",
           "profileURL": "https://jpop.fandom.com/wiki/Kousaka_Rin",
           "isGraduated": false,
-          "colorHex": "#FBA35D",
+          "colorHex": [
+            "#FBA35D"
+          ],
           "birthday": "11-01",
           "sns": {
             "twitter": "https://x.com/rin_zuttomo",
@@ -1133,7 +1257,9 @@
           "name": "四宮える",
           "profileURL": "https://jpop.fandom.com/wiki/Shinomiya_Elu",
           "isGraduated": false,
-          "colorHex": "#D83131",
+          "colorHex": [
+            "#D83131"
+          ],
           "birthday": "09-23",
           "sns": {
             "twitter": "https://x.com/Elu_zuttomo",
@@ -1147,7 +1273,9 @@
           "name": "真空せいら",
           "profileURL": "https://jpop.fandom.com/wiki/Masora_Seira",
           "isGraduated": false,
-          "colorHex": "#A796E8",
+          "colorHex": [
+            "#A796E8"
+          ],
           "birthday": "01-13",
           "sns": {
             "twitter": "https://x.com/seira_zuttomo",
@@ -1161,7 +1289,9 @@
           "name": "椎名すず",
           "profileURL": "https://jpop.fandom.com/wiki/Shiina_Suzu",
           "isGraduated": false,
-          "colorHex": "#FFFFFF",
+          "colorHex": [
+            "#FFFFFF"
+          ],
           "birthday": "07-20",
           "sns": {
             "twitter": "https://x.com/suzu_zuttomo",
@@ -1175,7 +1305,9 @@
           "name": "望月みら",
           "profileURL": "https://jpop.fandom.com/wiki/Mochizuki_Mira",
           "isGraduated": false,
-          "colorHex": "#FF8DE9",
+          "colorHex": [
+            "#FF8DE9"
+          ],
           "birthday": "10-04",
           "sns": {
             "twitter": "https://x.com/mira_zuttomo",
@@ -1189,7 +1321,9 @@
           "name": "佐倉あん",
           "profileURL": "https://jpop.fandom.com/wiki/Sakura_An",
           "isGraduated": false,
-          "colorHex": "#95E5A3",
+          "colorHex": [
+            "#95E5A3"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://x.com/an_zuttomo",
@@ -1203,7 +1337,9 @@
           "name": "青羽わか",
           "profileURL": "https://jpop.fandom.com/wiki/Aoba_Waka",
           "isGraduated": false,
-          "colorHex": "#5B86EC",
+          "colorHex": [
+            "#5B86EC"
+          ],
           "birthday": "03-14",
           "sns": {
             "twitter": "https://x.com/waka_zuttomo",
@@ -1236,7 +1372,9 @@
           "name": "神黎ミア",
           "profileURL": "https://jpop.fandom.com/wiki/Kanrei_Mia",
           "isGraduated": false,
-          "colorHex": "#FFFFFF",
+          "colorHex": [
+            "#FFFFFF"
+          ],
           "birthday": "05-27",
           "sns": {
             "twitter": "https://x.com/Mia_ladybaby",
@@ -1250,7 +1388,9 @@
           "name": "來崎せな",
           "profileURL": "https://jpop.fandom.com/wiki/Kurusaki_Sena",
           "isGraduated": false,
-          "colorHex": "#17BD32",
+          "colorHex": [
+            "#17BD32"
+          ],
           "birthday": "08-31",
           "sns": {
             "twitter": "https://x.com/Sena_ladybaby",
@@ -1264,7 +1404,9 @@
           "name": "月街えい",
           "profileURL": "https://jpop.fandom.com/wiki/Tsukimachi_Ei",
           "isGraduated": false,
-          "colorHex": "#B57EDC",
+          "colorHex": [
+            "#B57EDC"
+          ],
           "birthday": "09-03",
           "sns": {
             "twitter": "https://x.com/Ei_ladybaby",
@@ -1278,7 +1420,9 @@
           "name": "越智きの︎",
           "profileURL": "https://jpop.fandom.com/wiki/Ochi_Kino",
           "isGraduated": false,
-          "colorHex": "#FFF952",
+          "colorHex": [
+            "#FFF952"
+          ],
           "birthday": "08-17",
           "sns": {
             "twitter": "https://x.com/Kino_ladybaby",
@@ -1311,7 +1455,9 @@
           "name": "葵ふう",
           "profileURL": "https://jpop.fandom.com/wiki/Aoi_Fuu_(Akishibu_project)",
           "isGraduated": false,
-          "colorHex": "#2B60DE",
+          "colorHex": [
+            "#2B60DE"
+          ],
           "birthday": "11-18",
           "sns": {
             "twitter": "https://x.com/aksb_fu",
@@ -1325,7 +1471,9 @@
           "name": "如月なな",
           "profileURL": "https://jpop.fandom.com/wiki/Kisaragi_Nana",
           "isGraduated": false,
-          "colorHex": "#FF787C",
+          "colorHex": [
+            "#FF787C"
+          ],
           "birthday": "02-17",
           "sns": {
             "twitter": "https://x.com/aksb_nana",
@@ -1339,7 +1487,9 @@
           "name": "清見るん",
           "profileURL": "https://jpop.fandom.com/wiki/Kiyomi_Run",
           "isGraduated": false,
-          "colorHex": "#F87217",
+          "colorHex": [
+            "#F87217"
+          ],
           "birthday": "01-08",
           "sns": {
             "twitter": "https://x.com/aksb_lun",
@@ -1353,7 +1503,9 @@
           "name": "茉井良菜",
           "profileURL": "https://jpop.fandom.com/wiki/Matsui_Rana",
           "isGraduated": false,
-          "colorHex": "#8CD9BB",
+          "colorHex": [
+            "#8CD9BB"
+          ],
           "birthday": "01-13",
           "sns": {
             "twitter": "https://x.com/aksb_rana",
@@ -1367,7 +1519,9 @@
           "name": "水琴まなみ",
           "profileURL": "https://jpop.fandom.com/wiki/Mikoto_Manami",
           "isGraduated": false,
-          "colorHex": "#82CAFF",
+          "colorHex": [
+            "#82CAFF"
+          ],
           "birthday": "08-17",
           "sns": {
             "twitter": "https://x.com/aksb_manami",
@@ -1381,7 +1535,9 @@
           "name": "天川ほたる",
           "profileURL": "https://jpop.fandom.com/wiki/Amakawa_Hotaru",
           "isGraduated": false,
-          "colorHex": "#CA9BF7",
+          "colorHex": [
+            "#CA9BF7"
+          ],
           "birthday": "10-27",
           "sns": {
             "twitter": "https://x.com/aksb_hotaru",
@@ -1395,7 +1551,9 @@
           "name": "夢咲ありさ",
           "profileURL": "https://jpop.fandom.com/wiki/Yumesaki_Arisa",
           "isGraduated": false,
-          "colorHex": "#FFB1CE",
+          "colorHex": [
+            "#FFB1CE"
+          ],
           "birthday": "04-01",
           "sns": {
             "twitter": "https://x.com/aksb_arisa",
@@ -1428,7 +1586,9 @@
           "name": "はまちひよ",
           "profileURL": "https://jpop.fandom.com/wiki/Hamachi_Hiyo",
           "isGraduated": false,
-          "colorHex": "#79C7FD",
+          "colorHex": [
+            "#79C7FD"
+          ],
           "birthday": "08-11",
           "sns": {
             "twitter": "https://x.com/hiyo_chula",
@@ -1442,7 +1602,9 @@
           "name": "飴色りんご",
           "profileURL": "https://jpop.fandom.com/wiki/Ameiro_Ringo",
           "isGraduated": false,
-          "colorHex": "#F6041A",
+          "colorHex": [
+            "#F6041A"
+          ],
           "birthday": "12-29",
           "sns": {
             "twitter": "https://x.com/_com_risa",
@@ -1456,7 +1618,9 @@
           "name": "明鏡みらの",
           "profileURL": "https://jpop.fandom.com/wiki/Kagami_Mirano",
           "isGraduated": false,
-          "colorHex": "#58CE91",
+          "colorHex": [
+            "#58CE91"
+          ],
           "birthday": "06-08",
           "sns": {
             "twitter": "https://x.com/mirano__chuLa",
@@ -1470,7 +1634,9 @@
           "name": "陽咲みお",
           "profileURL": "https://jpop.fandom.com/wiki/Hisaki_Mio",
           "isGraduated": false,
-          "colorHex": "#FFA500",
+          "colorHex": [
+            "#FFA500"
+          ],
           "birthday": "06-05",
           "sns": {
             "twitter": "https://x.com/mio_chuLa",
@@ -1484,7 +1650,9 @@
           "name": "紫藤らら",
           "profileURL": "https://jpop.fandom.com/wiki/Tsurara_Rara",
           "isGraduated": false,
-          "colorHex": "#8014B8",
+          "colorHex": [
+            "#8014B8"
+          ],
           "birthday": "02-12",
           "sns": {
             "twitter": "https://x.com/rara_chuLa",
@@ -1498,7 +1666,9 @@
           "name": "茉野ゆに",
           "profileURL": "https://jpop.fandom.com/wiki/Mano_Yuni",
           "isGraduated": false,
-          "colorHex": "#F4A1C5",
+          "colorHex": [
+            "#F4A1C5"
+          ],
           "birthday": "06-24",
           "sns": {
             "twitter": "https://x.com/yuni_chuLa",
@@ -1512,7 +1682,9 @@
           "name": "世野つばさ",
           "profileURL": "https://jpop.fandom.com/wiki/Seno_Tsubasa",
           "isGraduated": false,
-          "colorHex": "#025ED4",
+          "colorHex": [
+            "#025ED4"
+          ],
           "birthday": "10-03",
           "sns": {
             "twitter": "https://x.com/tsubasa_chuLa",
@@ -1545,7 +1717,9 @@
           "name": "水野めい",
           "profileURL": "https://jpop.fandom.com/wiki/Mizuno_Mei",
           "isGraduated": false,
-          "colorHex": "#FFFFFF",
+          "colorHex": [
+            "#FFFFFF"
+          ],
           "birthday": "03-15",
           "sns": {
             "twitter": "https://x.com/para_mei",
@@ -1559,7 +1733,9 @@
           "name": "来栖ゆる",
           "profileURL": "https://jpop.fandom.com/wiki/Kurusu_Yuru",
           "isGraduated": false,
-          "colorHex": "#6CECDC",
+          "colorHex": [
+            "#6CECDC"
+          ],
           "birthday": "11-23",
           "sns": {
             "twitter": "https://x.com/para_yuru",
@@ -1573,7 +1749,9 @@
           "name": "新木るの",
           "profileURL": "https://jpop.fandom.com/wiki/Araki_Runo",
           "isGraduated": false,
-          "colorHex": "#E9476E",
+          "colorHex": [
+            "#E9476E"
+          ],
           "birthday": "10-16",
           "sns": {
             "twitter": "https://x.com/para_runo",
@@ -1587,7 +1765,9 @@
           "name": "灯田にじ",
           "profileURL": "https://jpop.fandom.com/wiki/Akarida_Niji",
           "isGraduated": false,
-          "colorHex": "#3198F6",
+          "colorHex": [
+            "#3198F6"
+          ],
           "birthday": "01-09",
           "sns": {
             "twitter": "https://x.com/para_niji",
@@ -1601,7 +1781,9 @@
           "name": "浜辺しずく",
           "profileURL": "https://jpop.fandom.com/wiki/Hamabe_Shizuku",
           "isGraduated": false,
-          "colorHex": "#9C8DE2",
+          "colorHex": [
+            "#9C8DE2"
+          ],
           "birthday": "08-30",
           "sns": {
             "twitter": "https://x.com/para_sizuku",
@@ -1615,7 +1797,9 @@
           "name": "楪みかん",
           "profileURL": "https://jpop.fandom.com/wiki/Yuzuriha_Mikan",
           "isGraduated": false,
-          "colorHex": "#FFA500",
+          "colorHex": [
+            "#FFA500"
+          ],
           "birthday": "12-16",
           "sns": {
             "twitter": "https://x.com/para_yuzuriha",
@@ -1629,7 +1813,9 @@
           "name": "雛月ひな",
           "profileURL": "https://jpop.fandom.com/wiki/Hinazuki_Hina",
           "isGraduated": false,
-          "colorHex": "#FFF176",
+          "colorHex": [
+            "#FFF176"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://x.com/para_hinazuki",
@@ -1643,7 +1829,9 @@
           "name": "桜空ちゅいん",
           "profileURL": "https://jpop.fandom.com/wiki/Ouzora_Chuin",
           "isGraduated": false,
-          "colorHex": "#FF99CB",
+          "colorHex": [
+            "#FF99CB"
+          ],
           "birthday": "04-25",
           "sns": {
             "twitter": "https://x.com/para_chuin",
@@ -1676,7 +1864,9 @@
           "name": "百宮みも",
           "profileURL": "https://jpop.fandom.com/wiki/Momomiya_Mimo",
           "isGraduated": false,
-          "colorHex": "#FFA8CE",
+          "colorHex": [
+            "#FFA8CE"
+          ],
           "birthday": "11-30",
           "sns": {
             "twitter": "https://x.com/dreco_mimo",
@@ -1690,7 +1880,9 @@
           "name": "飛茉りのあ",
           "profileURL": "https://jpop.fandom.com/wiki/Asuma_Rinoa",
           "isGraduated": false,
-          "colorHex": "#C785F7",
+          "colorHex": [
+            "#C785F7"
+          ],
           "birthday": "04-15",
           "sns": {
             "twitter": "https://x.com/dreco_rinoa",
@@ -1704,7 +1896,9 @@
           "name": "小鈴もゆ",
           "profileURL": "https://jpop.fandom.com/wiki/Kosuzu_Moyu",
           "isGraduated": false,
-          "colorHex": "#B5D5FE",
+          "colorHex": [
+            "#B5D5FE"
+          ],
           "birthday": "08-08",
           "sns": {
             "twitter": "https://x.com/dreco_moyu",
@@ -1718,7 +1912,9 @@
           "name": "御伽りるむ",
           "profileURL": "https://jpop.fandom.com/wiki/Otogi_Rilum",
           "isGraduated": false,
-          "colorHex": "#FE5F69",
+          "colorHex": [
+            "#FE5F69"
+          ],
           "birthday": "09-24",
           "sns": {
             "twitter": "https://x.com/dreco_rilum",
@@ -1732,7 +1928,9 @@
           "name": "朝日まる",
           "profileURL": "https://jpop.fandom.com/wiki/Asahi_Maru",
           "isGraduated": false,
-          "colorHex": "#FFDB69",
+          "colorHex": [
+            "#FFDB69"
+          ],
           "birthday": "11-08",
           "sns": {
             "twitter": "https://x.com/maru_heroines",
@@ -1765,7 +1963,9 @@
           "name": "好実れん",
           "profileURL": "https://jpop.fandom.com/wiki/Konomi_Ren",
           "isGraduated": false,
-          "colorHex": "#FF69A8",
+          "colorHex": [
+            "#FF69A8"
+          ],
           "birthday": "09-29",
           "sns": {
             "twitter": "https://x.com/MEGAFON_ren",
@@ -1779,7 +1979,9 @@
           "name": "小晴のか",
           "profileURL": "https://jpop.fandom.com/wiki/Koharu_Noka",
           "isGraduated": false,
-          "colorHex": "#FE953A",
+          "colorHex": [
+            "#FE953A"
+          ],
           "birthday": "10-02",
           "sns": {
             "twitter": "https://x.com/MEGAFON_noka",
@@ -1793,7 +1995,9 @@
           "name": "星野あみ",
           "profileURL": "https://jpop.fandom.com/wiki/Hoshino_Ami_(MEGAFON)",
           "isGraduated": false,
-          "colorHex": "#FC3A3A",
+          "colorHex": [
+            "#FC3A3A"
+          ],
           "birthday": "11-27",
           "sns": {
             "twitter": "https://x.com/MEGAFON_ami",
@@ -1807,7 +2011,9 @@
           "name": "明音いろは",
           "profileURL": "https://jpop.fandom.com/wiki/Ramune_Iroha",
           "isGraduated": false,
-          "colorHex": "#2A53EA",
+          "colorHex": [
+            "#2A53EA"
+          ],
           "birthday": "05-17",
           "sns": {
             "twitter": "https://x.com/MEGAFON_iroha",
@@ -1821,7 +2027,9 @@
           "name": "羽雲ろこ",
           "profileURL": "https://jpop.fandom.com/wiki/Wakumo_Roko",
           "isGraduated": false,
-          "colorHex": "#37B5EF",
+          "colorHex": [
+            "#37B5EF"
+          ],
           "birthday": "06-27",
           "sns": {
             "twitter": "https://x.com/MEGAFON_roko",
@@ -1835,7 +2043,9 @@
           "name": "日陽きい",
           "profileURL": "https://jpop.fandom.com/wiki/Himari_Kii",
           "isGraduated": false,
-          "colorHex": "#FCE53A",
+          "colorHex": [
+            "#FCE53A"
+          ],
           "birthday": "02-26",
           "sns": {
             "twitter": "https://x.com/MEGAFON_kii",
@@ -1849,7 +2059,9 @@
           "name": "宮代ゆき",
           "profileURL": "https://jpop.fandom.com/wiki/Miyashiro_Yuki",
           "isGraduated": false,
-          "colorHex": "#FFFFFF",
+          "colorHex": [
+            "#FFFFFF"
+          ],
           "birthday": "01-24",
           "sns": {
             "twitter": "https://x.com/MEGAFON_yuki",
@@ -1882,7 +2094,9 @@
           "name": "宇野ゆり",
           "profileURL": "https://jpop.fandom.com/wiki/Uno_Yuri",
           "isGraduated": false,
-          "colorHex": "#F24340",
+          "colorHex": [
+            "#F24340"
+          ],
           "birthday": "02-22",
           "sns": {
             "twitter": "https://x.com/iON_yuri_",
@@ -1896,7 +2110,9 @@
           "name": "花丸ぺこ",
           "profileURL": "https://jpop.fandom.com/wiki/Hanamaru_Peco",
           "isGraduated": false,
-          "colorHex": "#FAA552",
+          "colorHex": [
+            "#FAA552"
+          ],
           "birthday": "06-18",
           "sns": {
             "twitter": "https://x.com/iON_peco_",
@@ -1910,7 +2126,9 @@
           "name": "儚寧この",
           "profileURL": "https://jpop.fandom.com/wiki/Hakane_Kono",
           "isGraduated": false,
-          "colorHex": "#01E09D",
+          "colorHex": [
+            "#01E09D"
+          ],
           "birthday": "01-06",
           "sns": {
             "twitter": "https://x.com/iON_kono_",
@@ -1924,7 +2142,9 @@
           "name": "栗栖むぎ",
           "profileURL": "https://jpop.fandom.com/wiki/Kurisu_Mugi",
           "isGraduated": false,
-          "colorHex": "#F4D45B",
+          "colorHex": [
+            "#F4D45B"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://x.com/iON_mugi",
@@ -1938,7 +2158,9 @@
           "name": "伽久耶くらら",
           "profileURL": "https://jpop.fandom.com/wiki/Kaguya_Kurara",
           "isGraduated": false,
-          "colorHex": "#C25EE2",
+          "colorHex": [
+            "#C25EE2"
+          ],
           "birthday": "01-07",
           "sns": {
             "twitter": "https://x.com/iON_kurara_",
@@ -1952,7 +2174,9 @@
           "name": "鈴都りせ",
           "profileURL": "https://jpop.fandom.com/wiki/Suzumiya_Rise",
           "isGraduated": false,
-          "colorHex": "#6888E7",
+          "colorHex": [
+            "#6888E7"
+          ],
           "birthday": "09-12",
           "sns": {
             "twitter": "https://x.com/ion_rise_",
@@ -1966,7 +2190,9 @@
           "name": "名雲めんま",
           "profileURL": "https://jpop.fandom.com/wiki/Nakumo_Menma",
           "isGraduated": false,
-          "colorHex": "#3DC6FD",
+          "colorHex": [
+            "#3DC6FD"
+          ],
           "birthday": "07-11",
           "sns": {
             "twitter": "https://x.com/iON_menma_",
@@ -1980,7 +2206,9 @@
           "name": "透明くりあ",
           "profileURL": "https://jpop.fandom.com/wiki/Tomari_Kuria",
           "isGraduated": false,
-          "colorHex": "#F6F8F7",
+          "colorHex": [
+            "#F6F8F7"
+          ],
           "birthday": "10-10",
           "sns": {
             "twitter": "https://x.com/iON__kuria_",
@@ -1994,7 +2222,9 @@
           "name": "大須かのん",
           "profileURL": "https://jpop.fandom.com/wiki/Osu_Kanon",
           "isGraduated": false,
-          "colorHex": "#FFA2D7",
+          "colorHex": [
+            "#FFA2D7"
+          ],
           "birthday": "03-27",
           "sns": {
             "twitter": "https://x.com/tenran_kanon",
@@ -2008,7 +2238,9 @@
           "name": "苺川えくぼ",
           "profileURL": "https://jpop.fandom.com/wiki/Maisen_Ekubo",
           "isGraduated": false,
-          "colorHex": "#FF6BC3",
+          "colorHex": [
+            "#FF6BC3"
+          ],
           "birthday": "04-24",
           "sns": {
             "twitter": "https://x.com/ekubo_nanakoro",
@@ -2041,7 +2273,9 @@
           "name": "篠原さくら",
           "profileURL": "https://jpop.fandom.com/wiki/Shinohara_Sakura",
           "isGraduated": false,
-          "colorHex": "#F3B6D5",
+          "colorHex": [
+            "#F3B6D5"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://x.com/Pastel_sakuraa_",
@@ -2055,7 +2289,9 @@
           "name": "幸野れいあ",
           "profileURL": "https://jpop.fandom.com/wiki/Yukino_Reia",
           "isGraduated": false,
-          "colorHex": "#E76F75",
+          "colorHex": [
+            "#E76F75"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://x.com/Pastel_reia",
@@ -2069,7 +2305,9 @@
           "name": "仁科美都",
           "profileURL": "https://jpop.fandom.com/wiki/Nishina_Mitsu",
           "isGraduated": false,
-          "colorHex": "#FFFFFF",
+          "colorHex": [
+            "#FFFFFF"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://x.com/Pastel_mitsu",
@@ -2083,7 +2321,9 @@
           "name": "澄原夏帆",
           "profileURL": "https://jpop.fandom.com/wiki/Sumihara_Kaho",
           "isGraduated": false,
-          "colorHex": "#73D193",
+          "colorHex": [
+            "#73D193"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://x.com/Pastel_kaho",
@@ -2097,7 +2337,9 @@
           "name": "雛城ののか",
           "profileURL": "https://jpop.fandom.com/wiki/Hinaki_Nonoka",
           "isGraduated": false,
-          "colorHex": "#5383E4",
+          "colorHex": [
+            "#5383E4"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://x.com/Pastel_nonoka_",
@@ -2111,7 +2353,9 @@
           "name": "花木舞花",
           "profileURL": "https://jpop.fandom.com/wiki/Hanaki_Maika",
           "isGraduated": false,
-          "colorHex": "#FBA783",
+          "colorHex": [
+            "#FBA783"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://x.com/Pastel_maika",
@@ -2125,7 +2369,9 @@
           "name": "安齋みのり",
           "profileURL": "https://jpop.fandom.com/wiki/Anzai_Minori",
           "isGraduated": false,
-          "colorHex": "#B08AEB",
+          "colorHex": [
+            "#B08AEB"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://x.com/Pastel_minori",
@@ -2139,7 +2385,9 @@
           "name": "柑乃あい",
           "profileURL": "https://jpop.fandom.com/wiki/Kanno_Ai",
           "isGraduated": false,
-          "colorHex": "#F4EB8A",
+          "colorHex": [
+            "#F4EB8A"
+          ],
           "birthday": "01-20",
           "sns": {
             "twitter": "https://x.com/Pastel__ai",
@@ -2172,7 +2420,9 @@
           "name": "天羽しおり",
           "profileURL": "https://jpop.fandom.com/wiki/Amo_Shiori",
           "isGraduated": false,
-          "colorHex": "#39C6A5",
+          "colorHex": [
+            "#39C6A5"
+          ],
           "birthday": "12-10",
           "sns": {
             "twitter": "https://x.com/LASTSCENE_Amo",
@@ -2186,7 +2436,9 @@
           "name": "歌奏おんぷ",
           "profileURL": "https://jpop.fandom.com/wiki/Kanade_Onpu",
           "isGraduated": false,
-          "colorHex": "#FFFFFF",
+          "colorHex": [
+            "#FFFFFF"
+          ],
           "birthday": "09-09",
           "sns": {
             "twitter": "https://x.com/LASTSCENE_onpu",
@@ -2200,7 +2452,9 @@
           "name": "佑月いちか",
           "profileURL": "https://jpop.fandom.com/wiki/Yuzuki_Ichika",
           "isGraduated": false,
-          "colorHex": "#FFD049",
+          "colorHex": [
+            "#FFD049"
+          ],
           "birthday": "01-16",
           "sns": {
             "twitter": "https://x.com/LASTSCENE_ichi",
@@ -2214,7 +2468,9 @@
           "name": "優木あずさ",
           "profileURL": "https://jpop.fandom.com/wiki/Yuuki_Azusa",
           "isGraduated": false,
-          "colorHex": "#FB6B6A",
+          "colorHex": [
+            "#FB6B6A"
+          ],
           "birthday": "08-12",
           "sns": {
             "twitter": "https://x.com/LASTSCENE_azusa",
@@ -2228,7 +2484,9 @@
           "name": "宮瀬うゆ",
           "profileURL": "https://jpop.fandom.com/wiki/Miyase_Uyu",
           "isGraduated": false,
-          "colorHex": "#FF6AC1",
+          "colorHex": [
+            "#FF6AC1"
+          ],
           "birthday": "10-02",
           "sns": {
             "twitter": "https://x.com/LASTSCENE_uyu",
@@ -2242,7 +2500,9 @@
           "name": "古賀みれい",
           "profileURL": "https://jpop.fandom.com/wiki/Koga_Mirei",
           "isGraduated": false,
-          "colorHex": "#A455C0",
+          "colorHex": [
+            "#A455C0"
+          ],
           "birthday": "08-14",
           "sns": {
             "twitter": "https://x.com/LASTSCENE_mire",
@@ -2275,7 +2535,9 @@
           "name": "中川心",
           "profileURL": "https://jpop.fandom.com/wiki/Nakagawa_Cocoro",
           "isGraduated": false,
-          "colorHex": "#CA2222",
+          "colorHex": [
+            "#CA2222"
+          ],
           "birthday": "12-01",
           "sns": {
             "twitter": "https://x.com/FullCo_Cocoro",
@@ -2289,7 +2551,9 @@
           "name": "阿部菜々実",
           "profileURL": "https://jpop.fandom.com/wiki/Abe_Nanami",
           "isGraduated": false,
-          "colorHex": "#FFFFFF",
+          "colorHex": [
+            "#FFFFFF"
+          ],
           "birthday": "05-17",
           "sns": {
             "twitter": "https://x.com/nana_lIIiEN",
@@ -2303,7 +2567,9 @@
           "name": "鈴木遥夏",
           "profileURL": "https://jpop.fandom.com/wiki/Suzuki_Haruka",
           "isGraduated": false,
-          "colorHex": "#8327C9",
+          "colorHex": [
+            "#8327C9"
+          ],
           "birthday": "06-29",
           "sns": {
             "twitter": "https://x.com/haru_LIIiEN",
@@ -2317,7 +2583,9 @@
           "name": "小葉こな",
           "profileURL": "https://jpop.fandom.com/wiki/Konoha_Cona",
           "isGraduated": false,
-          "colorHex": "#22C523",
+          "colorHex": [
+            "#22C523"
+          ],
           "birthday": "07-04",
           "sns": {
             "twitter": "https://x.com/fullco__cona",
@@ -2331,7 +2599,9 @@
           "name": "金城まき",
           "profileURL": "https://jpop.fandom.com/wiki/Kaneshiro_Maki",
           "isGraduated": false,
-          "colorHex": "#FFEF00",
+          "colorHex": [
+            "#FFEF00"
+          ],
           "birthday": "04-05",
           "sns": {
             "twitter": "https://x.com/FullCo_Maki",
@@ -2345,7 +2615,9 @@
           "name": "桜咲みはね",
           "profileURL": "https://jpop.fandom.com/wiki/Osaki_Mihane",
           "isGraduated": false,
-          "colorHex": "#FF04B7",
+          "colorHex": [
+            "#FF04B7"
+          ],
           "birthday": "04-07",
           "sns": {
             "twitter": "https://x.com/FullCo_Mihane",
@@ -2359,7 +2631,9 @@
           "name": "水上凜巳花",
           "profileURL": "https://jpop.fandom.com/wiki/Mizukami_Rimika",
           "isGraduated": false,
-          "colorHex": "#02D5FB",
+          "colorHex": [
+            "#02D5FB"
+          ],
           "birthday": "07-10",
           "sns": {
             "twitter": "https://x.com/FullCo_Rimika",
@@ -2392,7 +2666,9 @@
           "name": "雨宮るり",
           "profileURL": "https://jpop.fandom.com/wiki/Amamiya_Ruri",
           "isGraduated": false,
-          "colorHex": "#333790",
+          "colorHex": [
+            "#333790"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://x.com/HARUKAECHO_RURI",
@@ -2406,7 +2682,9 @@
           "name": "平沢かえ",
           "profileURL": "https://jpop.fandom.com/wiki/Hirasawa_Kae",
           "isGraduated": false,
-          "colorHex": "#F6C332",
+          "colorHex": [
+            "#F6C332"
+          ],
           "birthday": "07-20",
           "sns": {
             "twitter": "https://x.com/HARUKAECHO_KAE",
@@ -2420,7 +2698,9 @@
           "name": "神凪みふゆ",
           "profileURL": "https://jpop.fandom.com/wiki/Kannagi_Mifuyu",
           "isGraduated": false,
-          "colorHex": "#532C9F",
+          "colorHex": [
+            "#532C9F"
+          ],
           "birthday": "02-24",
           "sns": {
             "twitter": "https://x.com/HARUKAECHO_FUYU",
@@ -2434,7 +2714,9 @@
           "name": "常盤うた",
           "profileURL": "https://jpop.fandom.com/wiki/Tokiwa_Uta",
           "isGraduated": false,
-          "colorHex": "#DD2690",
+          "colorHex": [
+            "#DD2690"
+          ],
           "birthday": "11-12",
           "sns": {
             "twitter": "https://x.com/HARUKAECHO_UTA",
@@ -2448,7 +2730,9 @@
           "name": "芦名ゆい",
           "profileURL": "https://jpop.fandom.com/wiki/Ashina_Yui",
           "isGraduated": false,
-          "colorHex": "#FFFFFF",
+          "colorHex": [
+            "#FFFFFF"
+          ],
           "birthday": "08-29",
           "sns": {
             "twitter": "https://x.com/HARUKAECHO_YUI",
@@ -2462,7 +2746,9 @@
           "name": "高坂りん",
           "profileURL": "https://jpop.fandom.com/wiki/Kousaka_Rin",
           "isGraduated": false,
-          "colorHex": "#983436",
+          "colorHex": [
+            "#983436"
+          ],
           "birthday": "11-01",
           "sns": {
             "twitter": "https://x.com/rin_zuttomo",
@@ -2495,7 +2781,9 @@
           "name": "苺川えくぼ",
           "profileURL": "https://jpop.fandom.com/wiki/Maisen_Ekubo",
           "isGraduated": false,
-          "colorHex": "#FB4960",
+          "colorHex": [
+            "#FB4960"
+          ],
           "birthday": "04-24",
           "sns": {
             "twitter": "https://x.com/ekubo_nanakoro",
@@ -2509,7 +2797,9 @@
           "name": "歌花てんか",
           "profileURL": "https://jpop.fandom.com/wiki/Utage_Tenka",
           "isGraduated": false,
-          "colorHex": "#197FD4",
+          "colorHex": [
+            "#197FD4"
+          ],
           "birthday": "02-14",
           "sns": {
             "twitter": "https://x.com/tenka_nanakoro",
@@ -2523,7 +2813,9 @@
           "name": "瀬戸内れもん",
           "profileURL": "https://jpop.fandom.com/wiki/Setouchi_Lemon",
           "isGraduated": false,
-          "colorHex": "#F8E759",
+          "colorHex": [
+            "#F8E759"
+          ],
           "birthday": "03-29",
           "sns": {
             "twitter": "https://x.com/lemon_nanakoro",
@@ -2537,7 +2829,9 @@
           "name": "熊ノ実にも",
           "profileURL": "https://jpop.fandom.com/wiki/Kumanomi_Nimo",
           "isGraduated": false,
-          "colorHex": "#FC8469",
+          "colorHex": [
+            "#FC8469"
+          ],
           "birthday": "11-01",
           "sns": {
             "twitter": "https://x.com/nimo_nanakoro",
@@ -2551,7 +2845,9 @@
           "name": "水田茉莉",
           "profileURL": "https://jpop.fandom.com/wiki/Mizuta_Mari_(HEROINES)",
           "isGraduated": false,
-          "colorHex": "#6BD4FD",
+          "colorHex": [
+            "#6BD4FD"
+          ],
           "birthday": "08-15",
           "sns": {
             "twitter": "https://x.com/mari_nanakoro",
@@ -2565,7 +2861,9 @@
           "name": "笑乃にな",
           "profileURL": "https://jpop.fandom.com/wiki/Eeno_Nina",
           "isGraduated": false,
-          "colorHex": "#FF4ABC",
+          "colorHex": [
+            "#FF4ABC"
+          ],
           "birthday": "01-05",
           "sns": {
             "twitter": "https://x.com/nina_nanakoro",
@@ -2579,7 +2877,9 @@
           "name": "阪菜りこ",
           "profileURL": "https://jpop.fandom.com/wiki/Hanna_Riko",
           "isGraduated": false,
-          "colorHex": "#FFFFFF",
+          "colorHex": [
+            "#FFFFFF"
+          ],
           "birthday": "05-21",
           "sns": {
             "twitter": "https://x.com/riko_nanakoro",
@@ -2612,7 +2912,9 @@
           "name": "琴音うな",
           "profileURL": "https://jpop.fandom.com/wiki/Kotone_Una",
           "isGraduated": false,
-          "colorHex": "#FFF380",
+          "colorHex": [
+            "#FFF380"
+          ],
           "birthday": "08-22",
           "sns": {
             "twitter": "https://x.com/tenran_una",
@@ -2626,7 +2928,9 @@
           "name": "小倉あずき",
           "profileURL": "https://jpop.fandom.com/wiki/Ogura_Azuki",
           "isGraduated": false,
-          "colorHex": "#B171E7",
+          "colorHex": [
+            "#B171E7"
+          ],
           "birthday": "04-11",
           "sns": {
             "twitter": "https://x.com/tenran_azuki",
@@ -2640,7 +2944,9 @@
           "name": "味園そら",
           "profileURL": "https://jpop.fandom.com/wiki/Misono_Sora",
           "isGraduated": false,
-          "colorHex": "#7076E5",
+          "colorHex": [
+            "#7076E5"
+          ],
           "birthday": "12-22",
           "sns": {
             "twitter": "https://x.com/tenran_misono",
@@ -2654,7 +2960,9 @@
           "name": "織田こゆん",
           "profileURL": "https://jpop.fandom.com/wiki/Oda_Koyun",
           "isGraduated": false,
-          "colorHex": "#95E5A3",
+          "colorHex": [
+            "#95E5A3"
+          ],
           "birthday": "06-19",
           "sns": {
             "twitter": "https://x.com/tenran_koyun",
@@ -2668,7 +2976,9 @@
           "name": "海老原てん",
           "profileURL": "https://jpop.fandom.com/wiki/Ebihara_Ten_(HEROINES)",
           "isGraduated": false,
-          "colorHex": "#FFFFFF",
+          "colorHex": [
+            "#FFFFFF"
+          ],
           "birthday": "02-26",
           "sns": {
             "twitter": "https://x.com/tenran_ten",
@@ -2682,7 +2992,9 @@
           "name": "大須かのん",
           "profileURL": "https://jpop.fandom.com/wiki/Osu_Kanon",
           "isGraduated": false,
-          "colorHex": "#E46F6F",
+          "colorHex": [
+            "#E46F6F"
+          ],
           "birthday": "03-27",
           "sns": {
             "twitter": "https://x.com/tenran_kanon",
@@ -2696,7 +3008,9 @@
           "name": "豊田もも",
           "profileURL": "https://jpop.fandom.com/wiki/Toyota_Momo",
           "isGraduated": false,
-          "colorHex": "#FFC6D0",
+          "colorHex": [
+            "#FFC6D0"
+          ],
           "birthday": "10-08",
           "sns": {
             "twitter": "https://x.com/tenran_momo",

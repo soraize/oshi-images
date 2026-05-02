@@ -23,7 +23,9 @@
           "masterId": "kawaiilab_fruits_zipper_tsukiashi_amane",
           "name": "月足 天音",
           "isGraduated": false,
-          "colorHex": "#FF6B6B",
+          "colorHex": [
+            "#FF6B6B"
+          ],
           "birthday": "10-26",
           "sns": {
             "twitter": "https://x.com/amane_fz1026",
@@ -38,7 +40,9 @@
           "masterId": "kawaiilab_fruits_zipper_chinzei_suzuka",
           "name": "鎮西 寿々歌",
           "isGraduated": false,
-          "colorHex": "#FFB347",
+          "colorHex": [
+            "#FFB347"
+          ],
           "birthday": "11-24",
           "sns": {
             "twitter": "https://x.com/suzuka_fz1124",
@@ -53,7 +57,9 @@
           "masterId": "kawaiilab_fruits_zipper_sakurai_yui",
           "name": "櫻井 優衣",
           "isGraduated": false,
-          "colorHex": "#90EE90",
+          "colorHex": [
+            "#90EE90"
+          ],
           "birthday": "02-21",
           "sns": {
             "twitter": "https://x.com/yui_fz0221",
@@ -68,7 +74,9 @@
           "masterId": "kawaiilab_fruits_zipper_nakagawa_runa",
           "name": "仲川 瑠夏",
           "isGraduated": false,
-          "colorHex": "#B57EDC",
+          "colorHex": [
+            "#B57EDC"
+          ],
           "birthday": "07-03",
           "sns": {
             "twitter": "https://x.com/luna_fz0703",
@@ -83,7 +91,9 @@
           "masterId": "kawaiilab_fruits_zipper_manaka_mana",
           "name": "真中 まな",
           "isGraduated": false,
-          "colorHex": "#87CEFA",
+          "colorHex": [
+            "#87CEFA"
+          ],
           "birthday": "04-22",
           "sns": {
             "twitter": "https://x.com/manafy_fz0422",
@@ -98,7 +108,9 @@
           "masterId": "kawaiilab_fruits_zipper_matsumoto_karen",
           "name": "松本 かれん",
           "isGraduated": false,
-          "colorHex": "#FF9ECF",
+          "colorHex": [
+            "#FF9ECF"
+          ],
           "birthday": "03-28",
           "sns": {
             "twitter": "https://x.com/karen_fz0328",
@@ -113,7 +125,9 @@
           "masterId": "kawaiilab_fruits_zipper_hayase_noel",
           "name": "早瀬 ノエル",
           "isGraduated": false,
-          "colorHex": "#FFF176",
+          "colorHex": [
+            "#FFF176"
+          ],
           "birthday": "12-29",
           "sns": {
             "twitter": "https://x.com/noel_fz1229",
@@ -145,7 +159,9 @@
           "masterId": "kawaiilab_candy_tune_fukuyama_rino",
           "name": "福山 梨乃",
           "isGraduated": false,
-          "colorHex": "#87CEFA",
+          "colorHex": [
+            "#87CEFA"
+          ],
           "birthday": "12-24",
           "sns": {
             "twitter": "https://x.com/rino_ct1224",
@@ -160,7 +176,9 @@
           "masterId": "kawaiilab_candy_tune_kirihara_mizuki",
           "name": "桐原 美月",
           "isGraduated": false,
-          "colorHex": "#4A90E2",
+          "colorHex": [
+            "#4A90E2"
+          ],
           "birthday": "02-21",
           "sns": {
             "twitter": "https://x.com/mizuki_ct0221",
@@ -175,7 +193,9 @@
           "masterId": "kawaiilab_candy_tune_minami_natsu",
           "name": "南 なつ",
           "isGraduated": false,
-          "colorHex": "#FFB347",
+          "colorHex": [
+            "#FFB347"
+          ],
           "birthday": "03-17",
           "sns": {
             "twitter": "https://x.com/natsu_ct0317",
@@ -190,7 +210,9 @@
           "masterId": "kawaiilab_candy_tune_ogawa_nanako",
           "name": "小川 奈々子",
           "isGraduated": false,
-          "colorHex": "#90EE90",
+          "colorHex": [
+            "#90EE90"
+          ],
           "birthday": "10-01",
           "sns": {
             "twitter": "https://x.com/nachico_ct1001",
@@ -205,7 +227,9 @@
           "masterId": "kawaiilab_candy_tune_tachibana_kotomi",
           "name": "立花 琴未",
           "isGraduated": false,
-          "colorHex": "#FF6B6B",
+          "colorHex": [
+            "#FF6B6B"
+          ],
           "birthday": "05-25",
           "sns": {
             "twitter": "https://x.com/kotomi_ct0525",
@@ -220,7 +244,9 @@
           "masterId": "kawaiilab_candy_tune_miyano_shizuka",
           "name": "宮野 静",
           "isGraduated": false,
-          "colorHex": "#B57EDC",
+          "colorHex": [
+            "#B57EDC"
+          ],
           "birthday": "05-30",
           "sns": {
             "twitter": "https://x.com/shizuka_ct0530",
@@ -235,7 +261,9 @@
           "masterId": "kawaiilab_candy_tune_murakawa_bibian",
           "name": "村川 緋杏",
           "isGraduated": false,
-          "colorHex": "#FF9ECF",
+          "colorHex": [
+            "#FF9ECF"
+          ],
           "birthday": "12-03",
           "sns": {
             "twitter": "https://x.com/bibian_ct1203",
@@ -267,7 +295,9 @@
           "masterId": "kawaiilab_sweet_steady_okuda_ayu",
           "name": "奥田 彩友",
           "isGraduated": false,
-          "colorHex": "#4A90E2",
+          "colorHex": [
+            "#4A90E2"
+          ],
           "birthday": "01-07",
           "sns": {
             "twitter": "https://x.com/ayu_ss0107",
@@ -282,7 +312,9 @@
           "masterId": "kawaiilab_sweet_steady_otoi_yui",
           "name": "音井 結衣",
           "isGraduated": false,
-          "colorHex": "#87CEFA",
+          "colorHex": [
+            "#87CEFA"
+          ],
           "birthday": "01-09",
           "sns": {
             "twitter": "https://x.com/yui_ss0109",
@@ -297,7 +329,9 @@
           "masterId": "kawaiilab_sweet_steady_kurita_natsuka",
           "name": "栗田 なつか",
           "isGraduated": false,
-          "colorHex": "#FF9ECF",
+          "colorHex": [
+            "#FF9ECF"
+          ],
           "birthday": "07-19",
           "sns": {
             "twitter": "https://x.com/natsuka_ss0719",
@@ -312,7 +346,9 @@
           "masterId": "kawaiilab_sweet_steady_shiokawa_rise",
           "name": "塩川 莉世",
           "isGraduated": false,
-          "colorHex": "#B57EDC",
+          "colorHex": [
+            "#B57EDC"
+          ],
           "birthday": "07-31",
           "sns": {
             "twitter": "https://x.com/rise_ss0731",
@@ -327,7 +363,9 @@
           "masterId": "kawaiilab_sweet_steady_shoji_nagisa",
           "name": "庄司 なぎさ",
           "isGraduated": false,
-          "colorHex": "#FFB347",
+          "colorHex": [
+            "#FFB347"
+          ],
           "birthday": "10-29",
           "sns": {
             "twitter": "https://x.com/nagisa_ss1029",
@@ -342,7 +380,9 @@
           "masterId": "kawaiilab_sweet_steady_shiraishi_mayumi",
           "name": "白石 まゆみ",
           "isGraduated": false,
-          "colorHex": "#FF6B6B",
+          "colorHex": [
+            "#FF6B6B"
+          ],
           "birthday": "12-27",
           "sns": {
             "twitter": "https://x.com/mayumi_ss1227",
@@ -357,7 +397,9 @@
           "masterId": "kawaiilab_sweet_steady_yamauchi_sakina",
           "name": "山内 咲奈",
           "isGraduated": false,
-          "colorHex": "#FFF176",
+          "colorHex": [
+            "#FFF176"
+          ],
           "birthday": "02-29",
           "sns": {
             "twitter": "https://x.com/sakina_ss0229",
@@ -389,7 +431,9 @@
           "masterId": "kawaiilab_cutie_street_furusawa_risa",
           "name": "古澤 里紗",
           "isGraduated": false,
-          "colorHex": "#FFF176",
+          "colorHex": [
+            "#FFF176"
+          ],
           "birthday": "11-08",
           "sns": {
             "twitter": "https://x.com/risa_cs1108",
@@ -404,7 +448,9 @@
           "masterId": "kawaiilab_cutie_street_sano_aika",
           "name": "佐野 愛花",
           "isGraduated": false,
-          "colorHex": "#FF6B6B",
+          "colorHex": [
+            "#FF6B6B"
+          ],
           "birthday": "11-26",
           "sns": {
             "twitter": "https://x.com/aika_cs1126",
@@ -419,7 +465,9 @@
           "masterId": "kawaiilab_cutie_street_itakura_kana",
           "name": "板倉 可奈",
           "isGraduated": false,
-          "colorHex": "#90EE90",
+          "colorHex": [
+            "#90EE90"
+          ],
           "birthday": "11-11",
           "sns": {
             "twitter": "https://x.com/kana_cs1111",
@@ -434,7 +482,9 @@
           "masterId": "kawaiilab_cutie_street_masuda_ayano",
           "name": "増田 彩乃",
           "isGraduated": false,
-          "colorHex": "#4A90E2",
+          "colorHex": [
+            "#4A90E2"
+          ],
           "birthday": "05-26",
           "sns": {
             "twitter": "https://x.com/ayano_cs0526",
@@ -449,7 +499,9 @@
           "masterId": "kawaiilab_cutie_street_kawamoto_emiru",
           "name": "川本 笑瑠",
           "isGraduated": false,
-          "colorHex": "#FFB347",
+          "colorHex": [
+            "#FFB347"
+          ],
           "birthday": "04-22",
           "sns": {
             "twitter": "https://x.com/emiru_cs0422",
@@ -464,7 +516,9 @@
           "masterId": "kawaiilab_cutie_street_umeda_miyu",
           "name": "梅田 みゆ",
           "isGraduated": false,
-          "colorHex": "#87CEFA",
+          "colorHex": [
+            "#87CEFA"
+          ],
           "birthday": "09-13",
           "sns": {
             "twitter": "https://x.com/miyu_cs0913",
@@ -479,7 +533,9 @@
           "masterId": "kawaiilab_cutie_street_manabe_nagisa",
           "name": "真鍋 凪咲",
           "isGraduated": false,
-          "colorHex": "#B57EDC",
+          "colorHex": [
+            "#B57EDC"
+          ],
           "birthday": "06-28",
           "sns": {
             "twitter": "https://x.com/nagisa_cs0628",
@@ -494,7 +550,9 @@
           "masterId": "kawaiilab_cutie_street_sakuraba_haruka",
           "name": "桜庭 遥花",
           "isGraduated": false,
-          "colorHex": "#FF9ECF",
+          "colorHex": [
+            "#FF9ECF"
+          ],
           "birthday": "01-29",
           "sns": {
             "twitter": "https://x.com/haruka_cs0129",
@@ -526,7 +584,9 @@
           "masterId": "kawaiilab_morestar_arai_cocona",
           "name": "新井 心菜",
           "isGraduated": false,
-          "colorHex": "#FFB347",
+          "colorHex": [
+            "#FFB347"
+          ],
           "birthday": "12-18",
           "sns": {
             "twitter": "https://x.com/cocona_ms1218",
@@ -541,7 +601,9 @@
           "masterId": "kawaiilab_morestar_endo_marin",
           "name": "遠藤 まりん",
           "isGraduated": false,
-          "colorHex": "#4A90E2",
+          "colorHex": [
+            "#4A90E2"
+          ],
           "birthday": "03-29",
           "sns": {
             "twitter": "https://x.com/marin_ms_0329",
@@ -556,7 +618,9 @@
           "masterId": "kawaiilab_morestar_sasahara_nanaka",
           "name": "笹原 なな花",
           "isGraduated": false,
-          "colorHex": "#FFF176",
+          "colorHex": [
+            "#FFF176"
+          ],
           "birthday": "07-07",
           "sns": {
             "twitter": "https://x.com/nanaka_ms0707",
@@ -571,7 +635,9 @@
           "masterId": "kawaiilab_morestar_suzuki_karin",
           "name": "鈴木 花梨",
           "isGraduated": false,
-          "colorHex": "#90EE90",
+          "colorHex": [
+            "#90EE90"
+          ],
           "birthday": "09-10",
           "sns": {
             "twitter": "https://x.com/karin_ms0910",
@@ -586,7 +652,9 @@
           "masterId": "kawaiilab_morestar_takanashi_yuna",
           "name": "高梨 ゆな",
           "isGraduated": false,
-          "colorHex": "#87CEFA",
+          "colorHex": [
+            "#87CEFA"
+          ],
           "birthday": "09-18",
           "sns": {
             "twitter": "https://x.com/yuna_ms0918",
@@ -601,7 +669,9 @@
           "masterId": "kawaiilab_morestar_nakayama_kohaku",
           "name": "中山 こはく",
           "isGraduated": false,
-          "colorHex": "#B4BEC3",
+          "colorHex": [
+            "#B4BEC3"
+          ],
           "birthday": "07-30",
           "sns": {
             "twitter": "https://x.com/kohaku_ms0730",
@@ -616,7 +686,9 @@
           "masterId": "kawaiilab_morestar_hagita_sora",
           "name": "萩田 そら",
           "isGraduated": false,
-          "colorHex": "#B57EDC",
+          "colorHex": [
+            "#B57EDC"
+          ],
           "birthday": "08-16",
           "sns": {
             "twitter": "https://x.com/sora_ms0816",
@@ -631,7 +703,9 @@
           "masterId": "kawaiilab_morestar_morita_ami",
           "name": "森田 あみ",
           "isGraduated": false,
-          "colorHex": "#FF9ECF",
+          "colorHex": [
+            "#FF9ECF"
+          ],
           "birthday": "02-06",
           "sns": {
             "twitter": "https://x.com/ami_ms0206",
@@ -646,7 +720,9 @@
           "masterId": "kawaiilab_morestar_yamamoto_rushia",
           "name": "山本 るしあ",
           "isGraduated": false,
-          "colorHex": "#FF6B6B",
+          "colorHex": [
+            "#FF6B6B"
+          ],
           "birthday": "10-13",
           "sns": {
             "twitter": "https://x.com/rushia_ms1013",

@@ -8,7 +8,9 @@
       "uuid": "3CEB6C93-BE70-41DD-B327-E1358FBE99A0",
       "masterId": "stpr_strawberryprince",
       "name": "すとぷり",
-      "colorHex": "#EF1740",
+      "colorHex": [
+        "#EF1740"
+      ],
       "birthday": null,
       "sns": {
         "twitter": "https://twitter.com/StPri_info",
@@ -22,7 +24,9 @@
           "masterId": "stpr_strawberryprince_nanamori",
           "name": "ななもり。",
           "isGraduated": false,
-          "colorHex": "#8E32D1",
+          "colorHex": [
+            "#8E32D1"
+          ],
           "birthday": "06-23",
           "sns": {
             "twitter": "https://x.com/love_nkun",
@@ -36,7 +40,9 @@
           "masterId": "stpr_strawberryprince_satomi",
           "name": "さとみ",
           "isGraduated": false,
-          "colorHex": "#F96FA6",
+          "colorHex": [
+            "#F96FA6"
+          ],
           "birthday": "02-24",
           "sns": {
             "twitter": "https://x.com/satoniya_",
@@ -50,7 +56,9 @@
           "masterId": "stpr_strawberryprince_root",
           "name": "るぅと",
           "isGraduated": false,
-          "colorHex": "#FABB28",
+          "colorHex": [
+            "#FABB28"
+          ],
           "birthday": "10-25",
           "sns": {
             "twitter": "https://x.com/root_nico",
@@ -64,7 +72,9 @@
           "masterId": "stpr_strawberryprince_colon",
           "name": "ころん",
           "isGraduated": false,
-          "colorHex": "#249CF4",
+          "colorHex": [
+            "#249CF4"
+          ],
           "birthday": "05-29",
           "sns": {
             "twitter": "https://x.com/Colon56N",
@@ -78,7 +88,9 @@
           "masterId": "stpr_strawberryprince_rinu",
           "name": "莉犬",
           "isGraduated": false,
-          "colorHex": "#E8002C",
+          "colorHex": [
+            "#E8002C"
+          ],
           "birthday": "05-24",
           "sns": {
             "twitter": "https://x.com/rinu_nico",
@@ -92,7 +104,9 @@
           "masterId": "stpr_strawberryprince_jel",
           "name": "ジェル",
           "isGraduated": false,
-          "colorHex": "#FF914E",
+          "colorHex": [
+            "#FF914E"
+          ],
           "birthday": "07-28",
           "sns": {
             "twitter": "https://x.com/Jel__official",
@@ -109,7 +123,9 @@
       "uuid": "7ECEE9B7-DCEB-4B6C-8AED-9FBFA364EA2C",
       "masterId": "stpr_meteorites",
       "name": "めておら",
-      "colorHex": "#000000",
+      "colorHex": [
+        "#000000"
+      ],
       "birthday": null,
       "sns": {
         "twitter": "https://x.com/@mtor_info",
@@ -123,7 +139,9 @@
           "masterId": "stpr_meteorites_shion",
           "name": "心音",
           "isGraduated": false,
-          "colorHex": "#7B27CC",
+          "colorHex": [
+            "#7B27CC"
+          ],
           "birthday": "02-02",
           "sns": {
             "twitter": "https://x.com/mtor_shion",
@@ -137,7 +155,9 @@
           "masterId": "stpr_meteorites_rose",
           "name": "ロゼ",
           "isGraduated": false,
-          "colorHex": "#A8222B",
+          "colorHex": [
+            "#A8222B"
+          ],
           "birthday": "06-14",
           "sns": {
             "twitter": "https://x.com/mtor_rose",
@@ -151,7 +171,9 @@
           "masterId": "stpr_meteorites_lapis",
           "name": "Lapis",
           "isGraduated": false,
-          "colorHex": "#8FD3F5",
+          "colorHex": [
+            "#8FD3F5"
+          ],
           "birthday": "12-07",
           "sns": {
             "twitter": "https://x.com/mtor_lapis",
@@ -165,7 +187,9 @@
           "masterId": "stpr_meteorites_melt",
           "name": "メルト・ダ・テンシ",
           "isGraduated": false,
-          "colorHex": "#B4BEC3",
+          "colorHex": [
+            "#B4BEC3"
+          ],
           "birthday": "10-26",
           "sns": {
             "twitter": "https://x.com/mtor_melt",
@@ -179,7 +203,9 @@
           "masterId": "stpr_meteorites_mikasa",
           "name": "みかさくん",
           "isGraduated": false,
-          "colorHex": "#FC77CA",
+          "colorHex": [
+            "#FC77CA"
+          ],
           "birthday": "04-01",
           "sns": {
             "twitter": "https://x.com/mtor_mikasa",
@@ -193,7 +219,9 @@
           "masterId": "stpr_meteorites_light",
           "name": "明雷らいと",
           "isGraduated": false,
-          "colorHex": "#FFCE00",
+          "colorHex": [
+            "#FFCE00"
+          ],
           "birthday": "07-30",
           "sns": {
             "twitter": "https://x.com/akarusugiwww",
@@ -210,7 +238,9 @@
       "uuid": "B0954565-42C7-4AEC-BE69-D65BEFE5105E",
       "masterId": "stpr_amptakcolors",
       "name": "AMPTAK",
-      "colorHex": "#D2D2D2",
+      "colorHex": [
+        "#D2D2D2"
+      ],
       "birthday": null,
       "sns": {
         "twitter": "https://twitter.com/ampxtak",
@@ -224,7 +254,9 @@
           "masterId": "stpr_amptakcolors_akkii",
           "name": "あっきぃ",
           "isGraduated": false,
-          "colorHex": "#FFDB00",
+          "colorHex": [
+            "#FFDB00"
+          ],
           "birthday": "04-12",
           "sns": {
             "twitter": "https://x.com/akkkkiy",
@@ -238,7 +270,9 @@
           "masterId": "stpr_amptakcolors_mazeta",
           "name": "まぜ太",
           "isGraduated": false,
-          "colorHex": "#8C3BFF",
+          "colorHex": [
+            "#8C3BFF"
+          ],
           "birthday": "05-20",
           "sns": {
             "twitter": "https://x.com/mazeta_666",
@@ -252,7 +286,9 @@
           "masterId": "stpr_amptakcolors_pretz",
           "name": "ぷりっつ",
           "isGraduated": false,
-          "colorHex": "#80E233",
+          "colorHex": [
+            "#80E233"
+          ],
           "birthday": "01-06",
           "sns": {
             "twitter": "https://x.com/umasugi_human",
@@ -266,7 +302,9 @@
           "masterId": "stpr_amptakcolors_tigusakun",
           "name": "ちぐさくん",
           "isGraduated": false,
-          "colorHex": "#14A2DB",
+          "colorHex": [
+            "#14A2DB"
+          ],
           "birthday": "09-02",
           "sns": {
             "twitter": "https://x.com/Tigusa_voice",
@@ -280,7 +318,9 @@
           "masterId": "stpr_amptakcolors_atto",
           "name": "あっと",
           "isGraduated": false,
-          "colorHex": "#F93C28",
+          "colorHex": [
+            "#F93C28"
+          ],
           "birthday": "07-04",
           "sns": {
             "twitter": "https://x.com/_AtToKun",
@@ -294,7 +334,9 @@
           "masterId": "stpr_amptakcolors_ketcha",
           "name": "けちゃ",
           "isGraduated": false,
-          "colorHex": "#FF86CC",
+          "colorHex": [
+            "#FF86CC"
+          ],
           "birthday": "08-02",
           "sns": {
             "twitter": "https://x.com/ketchup_N1",
@@ -311,7 +353,9 @@
       "uuid": "5ADDC1E5-F80D-4220-B4AE-90B9DA1FD41E",
       "masterId": "stpr_knightx",
       "name": "騎士X",
-      "colorHex": "#4D4D4D",
+      "colorHex": [
+        "#4D4D4D"
+      ],
       "birthday": null,
       "sns": {
         "twitter": "https://x.com/Info_KnightX",
@@ -325,7 +369,9 @@
           "masterId": "stpr_knightx_shiyun",
           "name": "しゆん",
           "isGraduated": false,
-          "colorHex": "#007F73",
+          "colorHex": [
+            "#007F73"
+          ],
           "birthday": "09-28",
           "sns": {
             "twitter": "https://x.com/shiyun_2525",
@@ -339,7 +385,9 @@
           "masterId": "stpr_knightx_takeyakishou",
           "name": "タケヤキ翔",
           "isGraduated": false,
-          "colorHex": "#D0CDD3",
+          "colorHex": [
+            "#D0CDD3"
+          ],
           "birthday": "03-19",
           "sns": {
             "twitter": "https://x.com/takeyakii",
@@ -353,7 +401,9 @@
           "masterId": "stpr_knightx_vau",
           "name": "ばぁう",
           "isGraduated": false,
-          "colorHex": "#CE1535",
+          "colorHex": [
+            "#CE1535"
+          ],
           "birthday": "03-07",
           "sns": {
             "twitter": "https://x.com/Vau875",
@@ -367,7 +417,9 @@
           "masterId": "stpr_knightx_terutokun",
           "name": "てるとくん",
           "isGraduated": false,
-          "colorHex": "#ED77BE",
+          "colorHex": [
+            "#ED77BE"
+          ],
           "birthday": "07-09",
           "sns": {
             "twitter": "https://x.com/teruto_nico",
@@ -384,7 +436,9 @@
       "uuid": "07926EA0-7B97-4E92-92A7-E0692DFF41EA",
       "masterId": "stpr_sneakerstep",
       "name": "すにすて",
-      "colorHex": "#E9F8FB",
+      "colorHex": [
+        "#E9F8FB"
+      ],
       "birthday": null,
       "sns": {
         "twitter": "https://x.com/Sneaker_Step",
@@ -398,7 +452,9 @@
           "masterId": "stpr_sneakerstep_nishiki",
           "name": "にしき",
           "isGraduated": false,
-          "colorHex": "#EAEAEA",
+          "colorHex": [
+            "#EAEAEA"
+          ],
           "birthday": "12-24",
           "sns": {
             "twitter": "https://x.com/nishiki1225",
@@ -412,7 +468,9 @@
           "masterId": "stpr_sneakerstep_rao",
           "name": "らお",
           "isGraduated": false,
-          "colorHex": "#CC0000",
+          "colorHex": [
+            "#CC0000"
+          ],
           "birthday": "06-25",
           "sns": {
             "twitter": "https://x.com/_Raokun_",
@@ -426,7 +484,9 @@
           "masterId": "stpr_sneakerstep_daiquiri",
           "name": "だいきり",
           "isGraduated": false,
-          "colorHex": "#FFD700",
+          "colorHex": [
+            "#FFD700"
+          ],
           "birthday": "07-24",
           "sns": {
             "twitter": "https://x.com/daiquiri_ch",
@@ -440,7 +500,9 @@
           "masterId": "stpr_sneakerstep_tachibana",
           "name": "たちばな",
           "isGraduated": false,
-          "colorHex": "#384B9B",
+          "colorHex": [
+            "#384B9B"
+          ],
           "birthday": "06-21",
           "sns": {
             "twitter": "https://x.com/tcbnwst",
@@ -454,7 +516,9 @@
           "masterId": "stpr_sneakerstep_yutakun",
           "name": "ゆたくん",
           "isGraduated": false,
-          "colorHex": "#92D3FF",
+          "colorHex": [
+            "#92D3FF"
+          ],
           "birthday": "08-16",
           "sns": {
             "twitter": "https://x.com/utut_2525",
@@ -468,7 +532,9 @@
           "masterId": "stpr_sneakerstep_yanato",
           "name": "やなと",
           "isGraduated": false,
-          "colorHex": "#FFF352",
+          "colorHex": [
+            "#FFF352"
+          ],
           "birthday": "01-26",
           "sns": {
             "twitter": "https://x.com/yanato_desu",
@@ -482,7 +548,9 @@
           "masterId": "stpr_sneakerstep_osadei",
           "name": "おさでい",
           "isGraduated": false,
-          "colorHex": "#1FE1FA",
+          "colorHex": [
+            "#1FE1FA"
+          ],
           "birthday": "02-13",
           "sns": {
             "twitter": "https://x.com/osusi0303",
@@ -499,7 +567,9 @@
       "uuid": "2CED86CA-C9E1-4D07-B81F-755B7CEFBD55",
       "masterId": "stpr_truelip",
       "name": "とぅるりぷ",
-      "colorHex": "#CC0000",
+      "colorHex": [
+        "#CC0000"
+      ],
       "birthday": null,
       "sns": {
         "twitter": "https://x.com/TrueLip_info",
@@ -513,7 +583,9 @@
           "masterId": "stpr_truelip_soara",
           "name": "そあら",
           "isGraduated": false,
-          "colorHex": "#A7D3FA",
+          "colorHex": [
+            "#A7D3FA"
+          ],
           "birthday": "11-14",
           "sns": {
             "twitter": "https://x.com/Amai_nico",
@@ -527,7 +599,9 @@
           "masterId": "stpr_truelip_yashiro",
           "name": "つきしろやしろ。",
           "isGraduated": false,
-          "colorHex": "#775EC6",
+          "colorHex": [
+            "#775EC6"
+          ],
           "birthday": "03-22",
           "sns": {
             "twitter": "https://x.com/Yq4Ro_",
@@ -541,7 +615,9 @@
           "masterId": "stpr_truelip_paruo",
           "name": "パルオ",
           "isGraduated": false,
-          "colorHex": "#FF7DA9",
+          "colorHex": [
+            "#FF7DA9"
+          ],
           "birthday": "04-19",
           "sns": {
             "twitter": "https://x.com/PARUO49N",
@@ -555,7 +631,9 @@
           "masterId": "stpr_truelip_harima",
           "name": "はりま",
           "isGraduated": false,
-          "colorHex": "#FE6D2C",
+          "colorHex": [
+            "#FE6D2C"
+          ],
           "birthday": "02-28",
           "sns": {
             "twitter": "https://x.com/harima_ha",
@@ -569,7 +647,9 @@
           "masterId": "stpr_truelip_monokuro",
           "name": "ものくろ",
           "isGraduated": false,
-          "colorHex": "#EDEEF0",
+          "colorHex": [
+            "#EDEEF0"
+          ],
           "birthday": "01-26",
           "sns": {
             "twitter": "https://x.com/MonoKuro_days",
@@ -583,7 +663,9 @@
           "masterId": "stpr_truelip_mahiromaru",
           "name": "まひろまる。",
           "isGraduated": false,
-          "colorHex": "#FFE150",
+          "colorHex": [
+            "#FFE150"
+          ],
           "birthday": "03-27",
           "sns": {
             "twitter": "https://x.com/Ene_Mahiro",
