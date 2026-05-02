@@ -18,5 +18,10 @@
     "agencyId": "sakamichi",
     "name": "坂道シリーズ",
     "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/sakamichi.json"
+  },
+  {
+    "agencyId": "akbgroup",
+    "name": "AKBグループ",
+    "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/akbgroup.json"
   }
 ]

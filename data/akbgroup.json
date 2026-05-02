@@ -1,0 +1,4124 @@
+{
+  "agencyId": "akbgroup",
+  "agency": "AKBグループ",
+  "imageBaseURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/",
+  "imageExtension": "jpg",
+  "groups": [
+    {
+      "uuid": "A7DA2FCB-DD32-5453-830F-79583D1B2A6F",
+      "masterId": "akbgroup_akb48",
+      "name": "AKB48",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/AKB48_staff",
+        "instagram": "https://www.instagram.com/akb48/",
+        "tiktok": "https://www.tiktok.com/@akb48_official_tiktok",
+        "youtube": null
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "B95A25ED-7B79-5861-A424-ADADFC2F5D8E",
+          "masterId": "akbgroup_akb48_202",
+          "name": "下尾 みう",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=202",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "36FA3759-E3DE-59F9-83DF-B18CB50752AA",
+          "masterId": "akbgroup_akb48_1100",
+          "name": "丸山 ひなた",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1100",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E6AB5BE4-1D4B-5000-8284-DF1A1545AD7B",
+          "masterId": "akbgroup_akb48_1088",
+          "name": "久保 姫菜乃",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1088",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F830D010-6E45-56B6-8DAD-C29F79A0C811",
+          "masterId": "akbgroup_akb48_1093",
+          "name": "伊藤 百花",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1093",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5A37C559-5E88-525C-87CB-7C9533D398A0",
+          "masterId": "akbgroup_akb48_1076",
+          "name": "佐藤 綺星",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1076",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "68E85CCC-0ED8-5A45-AE42-1FE135216534",
+          "masterId": "akbgroup_akb48_210",
+          "name": "倉野尾 成美",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=210",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "64C116B3-EFD0-5107-973C-1933DF5D1713",
+          "masterId": "akbgroup_akb48_1091",
+          "name": "八木 愛月",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1091",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E5BAA5AF-26A0-58DE-A764-BF207138D79F",
+          "masterId": "akbgroup_akb48_289",
+          "name": "千葉 恵里",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=289",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CF64C627-CC53-5EF0-8133-8E1BAC3D89BF",
+          "masterId": "akbgroup_akb48_1073",
+          "name": "坂川 陽香",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1073",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5CDBBF91-0117-53BC-BB32-98FAD0827B77",
+          "masterId": "akbgroup_akb48_1048",
+          "name": "大盛 真歩",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1048",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A6EEB033-9F14-59A0-B171-A0AFA5346A10",
+          "masterId": "akbgroup_akb48_1098",
+          "name": "大賀 彩姫",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1098",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9F35CD85-A8E8-5893-B1CA-414C36852969",
+          "masterId": "akbgroup_akb48_1074",
+          "name": "太田 有紀",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1074",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5F99DA6A-444B-589C-9D49-C5F576053706",
+          "masterId": "akbgroup_akb48_1094",
+          "name": "奥本 カイリ",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1094",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7F27F05C-E2CB-58FC-81D6-056137FE3D07",
+          "masterId": "akbgroup_akb48_180",
+          "name": "小栗 有以",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=180",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E988DA82-3B34-51A3-AE79-F354DDC14417",
+          "masterId": "akbgroup_akb48_1024",
+          "name": "山内 瑞葵",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1024",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "51931C25-2DF8-50A5-A1A3-A4DCE56A990D",
+          "masterId": "akbgroup_akb48_1092",
+          "name": "山口 結愛",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1092",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8AB3604B-3AD6-5395-BD0D-A8896762EA4D",
+          "masterId": "akbgroup_akb48_1025",
+          "name": "山根 涼羽",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1025",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "18D8BF28-42AF-5CD6-8F3D-F77CACEA11BA",
+          "masterId": "akbgroup_akb48_1084",
+          "name": "山﨑 空",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1084",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A2D90C86-6CFE-5E93-8EEF-E1925F13433C",
+          "masterId": "akbgroup_akb48_110",
+          "name": "岩立 沙穂",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=110",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F2523BAD-E5E5-5D32-A5AC-12B187D17AA6",
+          "masterId": "akbgroup_akb48_1095",
+          "name": "川村 結衣",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1095",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A463E0F3-23D1-5681-ABFF-BCA87320F02B",
+          "masterId": "akbgroup_akb48_1087",
+          "name": "工藤 華純",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1087",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FA8D28B5-91F1-552E-A921-F1B81D711242",
+          "masterId": "akbgroup_akb48_1081",
+          "name": "布袋 百椛",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1081",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1BE6A8C9-D6C1-55C1-87E2-4EFCC4695AD9",
+          "masterId": "akbgroup_akb48_1080",
+          "name": "平田 侑希",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1080",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E476DCF8-B8B7-5AA4-9A07-7DB9D4D3A6B2",
+          "masterId": "akbgroup_akb48_1069",
+          "name": "徳永 羚海",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1069",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "10645F09-C39B-547C-AE5C-8B8325A6B368",
+          "masterId": "akbgroup_akb48_1090",
+          "name": "成田 香姫奈",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1090",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "96EF471A-8AFE-5742-8C5C-ABB26FF8BB03",
+          "masterId": "akbgroup_akb48_1086",
+          "name": "新井 彩永",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1086",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6BE90DA6-A809-5ACD-AE96-C3E832434910",
+          "masterId": "akbgroup_akb48_1104",
+          "name": "森川 優",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1104",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BA5ED23A-E12D-5BBD-8F1E-146ED48340AE",
+          "masterId": "akbgroup_akb48_1077",
+          "name": "橋本 恵理子",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1077",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "251BE62C-5CE4-5772-8CCB-AE044652C1B2",
+          "masterId": "akbgroup_akb48_183",
+          "name": "橋本 陽菜",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=183",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E47664EB-3013-58D0-BD87-86B464283A1C",
+          "masterId": "akbgroup_akb48_1082",
+          "name": "正鋳 真優",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1082",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "77FCB644-3138-50D1-BE08-AE8B3B9AE370",
+          "masterId": "akbgroup_akb48_1022",
+          "name": "武藤 小麟",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1022",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "89CD47C4-5F26-513E-A1CC-27057F064813",
+          "masterId": "akbgroup_akb48_1083",
+          "name": "水島 美結",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1083",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E83BE334-D85B-53EE-9171-9C1896128D62",
+          "masterId": "akbgroup_akb48_192",
+          "name": "永野 芹佳",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=192",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5158B684-C68F-5BBF-A28D-4473F2CFAA89",
+          "masterId": "akbgroup_akb48_1105",
+          "name": "渡邉 葵心",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1105",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D914BF08-1744-5248-AEB1-FE6ED1792AD1",
+          "masterId": "akbgroup_akb48_1103",
+          "name": "牧戸 愛茉",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1103",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9DB067D6-FC47-5487-AB5B-EEC956C34CC0",
+          "masterId": "akbgroup_akb48_1102",
+          "name": "田中 沙友利",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1102",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4C20A06E-A6BD-5B7E-8114-B70D9A0386D5",
+          "masterId": "akbgroup_akb48_1014",
+          "name": "田口 愛佳",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1014",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2106894F-094C-5EA9-A4F2-4C6660A82571",
+          "masterId": "akbgroup_akb48_1079",
+          "name": "畠山 希美",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1079",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "93CDFF8A-2C86-5712-A397-F77AE4CD837D",
+          "masterId": "akbgroup_akb48_1096",
+          "name": "白鳥 沙怜",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1096",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5A38178C-8040-5BD1-AF05-E345274B01B7",
+          "masterId": "akbgroup_akb48_152",
+          "name": "福岡 聖菜",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=152",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FCDB97D5-0B6B-5A6C-869A-364D781DC286",
+          "masterId": "akbgroup_akb48_1085",
+          "name": "秋山 由奈",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1085",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C7C6DBAB-19EB-56D6-AFE5-1BEC8ED1A539",
+          "masterId": "akbgroup_akb48_1097",
+          "name": "花田 藍衣",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1097",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CC9005ED-EB0D-5623-B22A-F7597C2D1925",
+          "masterId": "akbgroup_akb48_204",
+          "name": "行天 優莉奈",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=204",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0B879740-EFB5-53DC-BA21-56B4C574228C",
+          "masterId": "akbgroup_akb48_1099",
+          "name": "近藤 沙樹",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1099",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "342D9769-B634-5CF0-A80E-571C4CDD954D",
+          "masterId": "akbgroup_akb48_1089",
+          "name": "迫 由芽実",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1089",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "431B100C-DC57-55CF-B7C9-984E278E5442",
+          "masterId": "akbgroup_akb48_1013",
+          "name": "鈴木 くるみ",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1013",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C64EC71D-7240-54DC-8BD8-BC7124AABE92",
+          "masterId": "akbgroup_akb48_1016",
+          "name": "長友 彩海",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1016",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E26ECE35-6A5C-5E61-B927-B0896E7FDFD2",
+          "masterId": "akbgroup_akb48_178",
+          "name": "髙橋 彩音",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=178",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0DA3B5E9-1BD8-5E53-AB31-2BEE34EBF74A",
+          "masterId": "akbgroup_akb48_1101",
+          "name": "髙橋 舞桜",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1101",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0E8D7291-D742-5E5E-8D58-047B9B5FFFC8",
+          "masterId": "akbgroup_akb48_1010",
+          "name": "黒須 遥香",
+          "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1010",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "CAFA7F81-F935-52A4-8089-DC4CC4C3F191",
+      "masterId": "akbgroup_ske48",
+      "name": "SKE48",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://twitter.com/ske48official/",
+        "instagram": "https://www.instagram.com/official_ske48/",
+        "tiktok": "https://www.tiktok.com/@ske48official",
+        "youtube": "https://www.youtube.com/user/SKE48"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "1DF946A9-9E74-572A-9D21-C50A931AF8EB",
+          "masterId": "akbgroup_ske48_aoumi_hinano",
+          "name": "メンバー名",
+          "profileURL": "https://ske48.co.jp/feature/aoumi_hinano",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2DC9D7BD-FCA7-5C8F-8C92-608A0D795591",
+          "masterId": "akbgroup_ske48_nakasaka_miyu",
+          "name": "中坂美祐",
+          "profileURL": "https://ske48.co.jp/feature/nakasaka_miyu",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "35775B0A-C7D5-50C8-8588-6F43492BB488",
+          "masterId": "akbgroup_ske48_rei_kubota",
+          "name": "久保田怜",
+          "profileURL": "https://ske48.co.jp/feature/rei_kubota",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8064384C-CAD0-5AA1-B8C6-F86CB94C4B46",
+          "masterId": "akbgroup_ske48_inoue_ruka",
+          "name": "井上瑠夏",
+          "profileURL": "https://ske48.co.jp/feature/inoue_ruka",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E708C41C-AAB0-5F7D-B292-D1150CA6A9C2",
+          "masterId": "akbgroup_ske48_reona_ida",
+          "name": "井田玲音名",
+          "profileURL": "https://ske48.co.jp/feature/reona_ida",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0C58683C-CF93-51EA-B51A-8D225B74AB86",
+          "masterId": "akbgroup_ske48_ito_miki",
+          "name": "伊藤実希",
+          "profileURL": "https://ske48.co.jp/feature/ito_miki",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9240F257-2660-5F8E-81F1-1F831EEF8BA7",
+          "masterId": "akbgroup_ske48_kokomi_ito",
+          "name": "伊藤虹々美",
+          "profileURL": "https://ske48.co.jp/feature/kokomi_ito",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EE12898A-3CB7-57C6-B36C-EF6A95DEE06D",
+          "masterId": "akbgroup_ske48_nozomi_sasaki",
+          "name": "佐々木希美",
+          "profileURL": "https://ske48.co.jp/feature/nozomi_sasaki",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3A6BB24F-E28C-5A83-8913-6DF1387F9FC4",
+          "masterId": "akbgroup_ske48_sato_kaho",
+          "name": "佐藤佳穂",
+          "profileURL": "https://ske48.co.jp/feature/sato_kaho",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6A028230-6685-5A9D-AC9D-38B16991F93F",
+          "masterId": "akbgroup_ske48_kurashima_ami",
+          "name": "倉島杏実",
+          "profileURL": "https://ske48.co.jp/feature/kurashima_ami",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A39E695C-E941-57BD-8538-B3123507F8D4",
+          "masterId": "akbgroup_ske48_hana_kuramoto",
+          "name": "倉本羽菜",
+          "profileURL": "https://ske48.co.jp/feature/hana_kuramoto",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0B0EB535-C41A-5491-9269-B210831DDA88",
+          "masterId": "akbgroup_ske48_iriuchijima_sayaka",
+          "name": "入内嶋涼",
+          "profileURL": "https://ske48.co.jp/feature/iriuchijima_sayaka",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A62EFB37-C5A9-5516-B036-803B17194812",
+          "masterId": "akbgroup_ske48_kitagawa_yoshino",
+          "name": "北川愛乃",
+          "profileURL": "https://ske48.co.jp/feature/kitagawa_yoshino",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0AEEC7EF-C700-54FD-A89F-C2D983E518BD",
+          "masterId": "akbgroup_ske48_coco_minamisawa",
+          "name": "南澤恋々",
+          "profileURL": "https://ske48.co.jp/feature/coco_minamisawa",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "428CFE6F-93BD-5A6F-924C-5A199F9D43B7",
+          "masterId": "akbgroup_ske48_hara_yune",
+          "name": "原優寧",
+          "profileURL": "https://ske48.co.jp/feature/hara_yune",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "76FAA2E6-3BB7-55D2-BE4D-126CE6DB8787",
+          "masterId": "akbgroup_ske48_sakamoto_marin",
+          "name": "坂本真凛",
+          "profileURL": "https://ske48.co.jp/feature/sakamoto_marin",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CFEAD851-DA3E-5809-81EF-9F779B1744F2",
+          "masterId": "akbgroup_ske48_omura_anzu",
+          "name": "大村杏",
+          "profileURL": "https://ske48.co.jp/feature/omura_anzu",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "92B66616-F5B3-5219-BB04-AEC77E808BBE",
+          "masterId": "akbgroup_ske48_ota_ayaka",
+          "name": "太田彩夏",
+          "profileURL": "https://ske48.co.jp/feature/ota_ayaka",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8D0BF067-AFDA-580E-B1B5-C7FA6B49AB3B",
+          "masterId": "akbgroup_ske48_manae_ota",
+          "name": "太田愛恵",
+          "profileURL": "https://ske48.co.jp/feature/manae_ota",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "028D68E8-3963-5F00-BAE5-17AD428BE2AD",
+          "masterId": "akbgroup_ske48_kokoha_okuno",
+          "name": "奥野心羽",
+          "profileURL": "https://ske48.co.jp/feature/kokoha_okuno",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9AE827A8-4C20-50D7-92AC-939400308561",
+          "masterId": "akbgroup_ske48_rinka_miyamoto",
+          "name": "宮本倫花",
+          "profileURL": "https://ske48.co.jp/feature/rinka_miyamoto",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "31E15FF8-FBAD-538D-873B-199A295E4317",
+          "masterId": "akbgroup_ske48_yamamura_sakura",
+          "name": "山村さくら",
+          "profileURL": "https://ske48.co.jp/feature/yamamura_sakura",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "27899621-91F9-5BB8-867C-BC5720DD6F91",
+          "masterId": "akbgroup_ske48_syoko_kuwamura",
+          "name": "川村昇子",
+          "profileURL": "https://ske48.co.jp/feature/syoko_kuwamura",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C2D64D13-CD26-528E-A1F8-83218686ED6D",
+          "masterId": "akbgroup_ske48_sugimoto_riina",
+          "name": "杉本りいな",
+          "profileURL": "https://ske48.co.jp/feature/sugimoto_riina",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FB13B422-5716-5011-B7DB-E2E357C1D618",
+          "masterId": "akbgroup_ske48_miyu_matsukawa",
+          "name": "松川みゆ",
+          "profileURL": "https://ske48.co.jp/feature/miyu_matsukawa",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9D7D166E-5AA0-5CFE-AE4E-61C55FF1C96E",
+          "masterId": "akbgroup_ske48_matsumoto_chikako",
+          "name": "松本慈子",
+          "profileURL": "https://ske48.co.jp/feature/matsumoto_chikako",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E7C105F1-9207-5A3A-B1BE-ACE0C47FFB05",
+          "masterId": "akbgroup_ske48_tsubaki_kuwahara",
+          "name": "桒原椿",
+          "profileURL": "https://ske48.co.jp/feature/tsubaki_kuwahara",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "643BC66F-85AC-5B6E-86B3-6C4802C99588",
+          "masterId": "akbgroup_ske48_sakurai_arisa",
+          "name": "桜井愛莉咲",
+          "profileURL": "https://ske48.co.jp/feature/sakurai_arisa",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A8FEF06D-2513-566E-B035-9CE91DC5284B",
+          "masterId": "akbgroup_ske48_morimoto_kurumi",
+          "name": "森本くるみ",
+          "profileURL": "https://ske48.co.jp/feature/morimoto_kurumi",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8290836F-8FE4-54D5-B79B-A744AD3B24A7",
+          "masterId": "akbgroup_ske48_shiho_yokoi",
+          "name": "横井志穂",
+          "profileURL": "https://ske48.co.jp/feature/shiho_yokoi",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ABB06AA5-F5F0-5ED6-B019-EB778FE36D93",
+          "masterId": "akbgroup_ske48_ikeda_kaede",
+          "name": "池田楓",
+          "profileURL": "https://ske48.co.jp/feature/ikeda_kaede",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6ED449D0-E5FF-5C96-B87D-35CBB6DF1828",
+          "masterId": "akbgroup_ske48_yua_kawamura",
+          "name": "河村優愛",
+          "profileURL": "https://ske48.co.jp/feature/yua_kawamura",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-31",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2687BACF-C784-5B36-AA3C-220F92C8DB45",
+          "masterId": "akbgroup_ske48_asai_yuka",
+          "name": "浅井裕華",
+          "profileURL": "https://ske48.co.jp/feature/asai_yuka",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2A3A2ED4-2639-50CA-A00F-0363BD26C45B",
+          "masterId": "akbgroup_ske48_haruka_kumazaki",
+          "name": "熊崎晴香",
+          "profileURL": "https://ske48.co.jp/feature/haruka_kumazaki",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9D2E9957-2429-5EFA-B0B1-6DF55F8A35A2",
+          "masterId": "akbgroup_ske48_mayu_tamura",
+          "name": "田村真悠",
+          "profileURL": "https://ske48.co.jp/feature/mayu_tamura",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D0147647-D0E8-5BC0-98D6-EBD4B4C2D3CD",
+          "masterId": "akbgroup_ske48_aikawa_honoka",
+          "name": "相川暖花",
+          "profileURL": "https://ske48.co.jp/feature/aikawa_honoka",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "956F412A-2ECE-5BCD-B43A-0D3F04BCCE69",
+          "masterId": "akbgroup_ske48_ishiguro_yuzuki",
+          "name": "石黒友月",
+          "profileURL": "https://ske48.co.jp/feature/ishiguro_yuzuki",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "66352A1F-6CFB-5353-8802-4D4B2505416C",
+          "masterId": "akbgroup_ske48_koharu_fukuhara",
+          "name": "福原心春",
+          "profileURL": "https://ske48.co.jp/feature/koharu_fukuhara",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A29A6551-478D-543D-AD6E-7810F37F97A2",
+          "masterId": "akbgroup_ske48_ayame_tachibana",
+          "name": "立花菖",
+          "profileURL": "https://ske48.co.jp/feature/ayame_tachibana",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4BBF4371-0952-5192-83B8-835CF009CD0D",
+          "masterId": "akbgroup_ske48_shinohara_kyoka",
+          "name": "篠原京香",
+          "profileURL": "https://ske48.co.jp/feature/shinohara_kyoka",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "00A65757-45A4-51A4-9E50-A35FEBB59A25",
+          "masterId": "akbgroup_ske48_haruka_hijiri",
+          "name": "聖遥花",
+          "profileURL": "https://ske48.co.jp/feature/haruka_hijiri",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DFBF92DE-904A-5CE8-A7B6-D9F0964E654F",
+          "masterId": "akbgroup_ske48_arano_himeka",
+          "name": "荒野姫楓",
+          "profileURL": "https://ske48.co.jp/feature/arano_himeka",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FD492ED1-5193-5DB4-918E-40E79486BE21",
+          "masterId": "akbgroup_ske48_nishii_mio",
+          "name": "西井美桜",
+          "profileURL": "https://ske48.co.jp/feature/nishii_mio",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1735691A-DB0D-5267-AB38-DA364F671FAE",
+          "masterId": "akbgroup_ske48_akahori_kimie",
+          "name": "赤堀君江",
+          "profileURL": "https://ske48.co.jp/feature/akahori_kimie",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FCCF95E4-6C13-58C2-B57A-B9CC6424A660",
+          "masterId": "akbgroup_ske48_mikoto_kondo",
+          "name": "近藤海琴",
+          "profileURL": "https://ske48.co.jp/feature/mikoto_kondo",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "746B70C2-7DBE-5E01-AD79-E438CC1D6B90",
+          "masterId": "akbgroup_ske48_nomura_miyo",
+          "name": "野村実代",
+          "profileURL": "https://ske48.co.jp/feature/nomura_miyo",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7A04A0EF-8C94-5C24-84F6-E7F210B90B46",
+          "masterId": "akbgroup_ske48_suzuki_kokona",
+          "name": "鈴木恋奈",
+          "profileURL": "https://ske48.co.jp/feature/suzuki_kokona",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B78CFD58-5500-522D-B767-A6EE9116E6DB",
+          "masterId": "akbgroup_ske48_suzuki_ena",
+          "name": "鈴木愛菜",
+          "profileURL": "https://ske48.co.jp/feature/suzuki_ena",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B162C9A1-2A89-5023-A4F0-B205AA3F01AE",
+          "masterId": "akbgroup_ske48_natsuki_kamata",
+          "name": "鎌田菜月",
+          "profileURL": "https://ske48.co.jp/feature/natsuki_kamata",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FA95BA2A-89AA-53C0-AF8C-C390B521AF95",
+          "masterId": "akbgroup_ske48_miyabi_hasegawa",
+          "name": "長谷川雅",
+          "profileURL": "https://ske48.co.jp/feature/miyabi_hasegawa",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A026DA6E-17C2-5328-9CE8-1D17031655F8",
+          "masterId": "akbgroup_ske48_sana_kumoi",
+          "name": "雲井紗菜",
+          "profileURL": "https://ske48.co.jp/feature/sana_kumoi",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A766E16D-FACB-58D8-8712-031575153005",
+          "masterId": "akbgroup_ske48_aoki_rika",
+          "name": "青木莉樺",
+          "profileURL": "https://ske48.co.jp/feature/aoki_rika",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "581059C1-25C9-5969-9074-677B68E4D26C",
+          "masterId": "akbgroup_ske48_saya_takamura",
+          "name": "高村紗弥",
+          "profileURL": "https://ske48.co.jp/feature/saya_takamura",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "A009DE6E-E974-5CEA-AB95-3FBE77E48049",
+      "masterId": "akbgroup_nmb48",
+      "name": "NMB48",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://twitter.com/nmb48_official",
+        "instagram": "https://www.instagram.com/nmb48_official/",
+        "tiktok": "https://www.tiktok.com/@nmb48_official",
+        "youtube": "https://www.youtube.com/user/NMB48official"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "A6AB1734-2530-5F61-A934-95B7CF14FB1B",
+          "masterId": "akbgroup_nmb48_mikamo_kurumi",
+          "name": "三鴨 くるみ",
+          "profileURL": "https://spn.nmb48.com/feature/member_mikamo_kurumi",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-31",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0588C08B-4D5D-5E03-9D5A-EE01ABF5BC1E",
+          "masterId": "akbgroup_nmb48_nakagawa_tomoka",
+          "name": "中川 朋香",
+          "profileURL": "https://spn.nmb48.com/feature/member_nakagawa_tomoka",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DBFB20B4-A2CE-51B6-B4B9-816A65E7F1E2",
+          "masterId": "akbgroup_nmb48_uchida_aisha",
+          "name": "内田 愛彩",
+          "profileURL": "https://spn.nmb48.com/feature/member_uchida_aisha",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B85CD178-75EF-510B-9186-EA4E10EFC9C2",
+          "masterId": "akbgroup_nmb48_yoshimi_ayane",
+          "name": "吉見 純音",
+          "profileURL": "https://spn.nmb48.com/feature/member_yoshimi_ayane",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1508ABF2-8839-5E16-91AE-0BB28AB84C90",
+          "masterId": "akbgroup_nmb48_wada_kotone",
+          "name": "和田 承子",
+          "profileURL": "https://spn.nmb48.com/feature/member_wada_kotone",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0F47F54B-CDB6-528F-8D49-A02D8207FC8C",
+          "masterId": "akbgroup_nmb48_zenke_yurika",
+          "name": "善家 侑莉花",
+          "profileURL": "https://spn.nmb48.com/feature/member_zenke_yurika",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F8A95954-D445-5012-A1CB-9368932E4392",
+          "masterId": "akbgroup_nmb48_sakashita_mako",
+          "name": "坂下 真心",
+          "profileURL": "https://spn.nmb48.com/feature/member_sakashita_mako",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3942834B-0959-5F4C-8589-313E006A8388",
+          "masterId": "akbgroup_nmb48_sakamoto_risa",
+          "name": "坂本 理紗",
+          "profileURL": "https://spn.nmb48.com/feature/member_sakamoto_risa",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7D95E6FE-A8EC-5192-AC7A-540A6544A73D",
+          "masterId": "akbgroup_nmb48_sakata_misaki",
+          "name": "坂田 心咲",
+          "profileURL": "https://spn.nmb48.com/feature/member_sakata_misaki",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D1A2F49B-5616-5B8A-BED7-07D5952D3E10",
+          "masterId": "akbgroup_nmb48_shiotsuki_keito",
+          "name": "塩月 希依音",
+          "profileURL": "https://spn.nmb48.com/feature/member_shiotsuki_keito",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1F374E6B-C8FE-592F-97F6-F1E999CCC6C8",
+          "masterId": "akbgroup_nmb48_abe_wakana",
+          "name": "安部 若菜",
+          "profileURL": "https://spn.nmb48.com/feature/member_abe_wakana",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1FFAE231-1756-5AE6-A2E6-ACF5C61D3055",
+          "masterId": "akbgroup_nmb48_miyahara_konon",
+          "name": "宮原 心音",
+          "profileURL": "https://spn.nmb48.com/feature/member_miyahara_konon",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "12D489EC-1C14-5F8D-843D-F66766104894",
+          "masterId": "akbgroup_nmb48_miyazaki_sae",
+          "name": "宮崎 紗衣",
+          "profileURL": "https://spn.nmb48.com/feature/member_miyazaki_sae",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BFE231D4-04F2-5C29-B48B-FD8008638C6D",
+          "masterId": "akbgroup_nmb48_miyamoto_ami",
+          "name": "宮本 杏海",
+          "profileURL": "https://spn.nmb48.com/feature/member_miyamoto_ami",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AA8F5B9D-E018-588C-92AC-E9E780ED9A43",
+          "masterId": "akbgroup_nmb48_yamaguchi_mio",
+          "name": "山口 美桜",
+          "profileURL": "https://spn.nmb48.com/feature/member_yamaguchi_mio",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6447DC32-DA16-5280-90E2-DEF0EC33FAF2",
+          "masterId": "akbgroup_nmb48_okagoshi_seira",
+          "name": "岡腰 星来",
+          "profileURL": "https://spn.nmb48.com/feature/member_okagoshi_seira",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9E73C77C-C34F-5A28-890E-A0AC2E4E3D82",
+          "masterId": "akbgroup_nmb48_hirayama_mai",
+          "name": "平山 真衣",
+          "profileURL": "https://spn.nmb48.com/feature/member_hirayama_mai",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "209A9505-4789-56E4-95CD-69EE0F1C2A38",
+          "masterId": "akbgroup_nmb48_shinzawa_nao",
+          "name": "新澤 菜央",
+          "profileURL": "https://spn.nmb48.com/feature/member_shinzawa_nao",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DDF4440E-FD84-5733-8F1E-67B185ACF540",
+          "masterId": "akbgroup_nmb48_kine_iroha",
+          "name": "木根 彩呂花",
+          "profileURL": "https://spn.nmb48.com/feature/member_kine_iroha",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DE204126-9443-53AF-94AF-52F37C058A3F",
+          "masterId": "akbgroup_nmb48_murai_yuuri",
+          "name": "村井 悠莉",
+          "profileURL": "https://spn.nmb48.com/feature/member_murai_yuuri",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D773EC04-8DF0-5D90-9181-9286ABC6BD21",
+          "masterId": "akbgroup_nmb48_matsuoka_sakura",
+          "name": "松岡 さくら",
+          "profileURL": "https://spn.nmb48.com/feature/member_matsuoka_sakura",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8528BBFF-2B76-58CE-A2F2-4C74BD8950C5",
+          "masterId": "akbgroup_nmb48_matsumoto_mihina",
+          "name": "松本 海日菜",
+          "profileURL": "https://spn.nmb48.com/feature/member_matsumoto_mihina",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7388D40A-61B0-56D6-908E-0030CC08F421",
+          "masterId": "akbgroup_nmb48_itagaki_koyori",
+          "name": "板垣 心和",
+          "profileURL": "https://spn.nmb48.com/feature/member_itagaki_koyori",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6F88DB9D-A7D6-575F-B988-17A97D6380B1",
+          "masterId": "akbgroup_nmb48_sakurai_himari",
+          "name": "桜井 ひまり",
+          "profileURL": "https://spn.nmb48.com/feature/member_sakurai_himari",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F783A011-23E9-5D52-A5DF-A9A862190DD0",
+          "masterId": "akbgroup_nmb48_sakurada_ayaka",
+          "name": "桜田 彩叶",
+          "profileURL": "https://spn.nmb48.com/feature/member_sakurada_ayaka",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8BB94DCC-E38A-5DF8-855A-1C3990B141A6",
+          "masterId": "akbgroup_nmb48_ike_honoka",
+          "name": "池 帆乃香",
+          "profileURL": "https://spn.nmb48.com/feature/member_ike_honoka",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "56F2091A-0FA1-5722-BD41-377D255798B5",
+          "masterId": "akbgroup_nmb48_ikeda_tenna",
+          "name": "池田 典愛",
+          "profileURL": "https://spn.nmb48.com/feature/member_ikeda_tenna",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A43C720E-41FE-5419-9A35-D10ECA978628",
+          "masterId": "akbgroup_nmb48_izumi_ayano",
+          "name": "泉 綾乃",
+          "profileURL": "https://spn.nmb48.com/feature/member_izumi_ayano",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D978B4FE-D745-5AF2-B53A-20CF15F35247",
+          "masterId": "akbgroup_nmb48_shibuya_asana",
+          "name": "澁谷 愛紗南",
+          "profileURL": "https://spn.nmb48.com/feature/member_shibuya_asana",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3EC176A3-AA89-5658-9024-B02DAE08FC0F",
+          "masterId": "akbgroup_nmb48_tanaka_rei",
+          "name": "田中 れい",
+          "profileURL": "https://spn.nmb48.com/feature/member_tanaka_rei",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6809B917-27F4-5D3D-9F6C-7BDBB0D6B0D0",
+          "masterId": "akbgroup_nmb48_taniguchi_shino",
+          "name": "田中 れい",
+          "profileURL": "https://spn.nmb48.com/feature/member_taniguchi_shino",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "813509D8-BFC0-5BBF-BAAB-0A319033BC54",
+          "masterId": "akbgroup_nmb48_tanaka_miria",
+          "name": "田中 ミリア",
+          "profileURL": "https://spn.nmb48.com/feature/member_tanaka_miria",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5696E292-EACB-587E-BA5A-1F7768E19C5C",
+          "masterId": "akbgroup_nmb48_tanaka_misora",
+          "name": "田中 美空",
+          "profileURL": "https://spn.nmb48.com/feature/member_tanaka_misora",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "80DAFA63-0980-54EF-A595-7419806EB831",
+          "masterId": "akbgroup_nmb48_ishiyama_chihiro",
+          "name": "石山 千尋",
+          "profileURL": "https://spn.nmb48.com/feature/member_ishiyama_chihiro",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "326E359E-EE99-5A9F-9D65-FA86DD6AFB38",
+          "masterId": "akbgroup_nmb48_fukuhara_kotomi",
+          "name": "福原 琴美",
+          "profileURL": "https://spn.nmb48.com/feature/member_fukuhara_kotomi",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7383EF96-E197-5665-8294-F9F8D89EF146",
+          "masterId": "akbgroup_nmb48_fukuno_ami",
+          "name": "福野 杏実",
+          "profileURL": "https://spn.nmb48.com/feature/member_fukuno_ami",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5FE199B2-D0B5-58F2-969C-A03DA1EA411D",
+          "masterId": "akbgroup_nmb48_takeda_kyoka",
+          "name": "竹田 京加",
+          "profileURL": "https://spn.nmb48.com/feature/member_takeda_kyoka",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E00779C5-776C-5874-93B5-8D48294C82BC",
+          "masterId": "akbgroup_nmb48_haga_rei",
+          "name": "芳賀 礼",
+          "profileURL": "https://spn.nmb48.com/feature/member_haga_rei",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DDE8E26F-3F17-51C3-9CB4-A49FBF2E8CFA",
+          "masterId": "akbgroup_nmb48_yabuuchi_hinata",
+          "name": "藪内 陽花",
+          "profileURL": "https://spn.nmb48.com/feature/member_yabuuchi_hinata",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B962474A-DBFA-501B-8728-92DAFA325E51",
+          "masterId": "akbgroup_nmb48_kinugasa_ayami",
+          "name": "衣笠 彩実",
+          "profileURL": "https://spn.nmb48.com/feature/member_kinugasa_ayami",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "04CFB6E5-D6C4-5A13-B016-BC4B819F2DA6",
+          "masterId": "akbgroup_nmb48_nishi_yuma",
+          "name": "西 由真",
+          "profileURL": "https://spn.nmb48.com/feature/member_nishi_yuma",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "01A9A6A8-4277-5D98-B8DC-ED3B6614F07E",
+          "masterId": "akbgroup_nmb48_nishizumi_misaki",
+          "name": "西住 美咲妃",
+          "profileURL": "https://spn.nmb48.com/feature/member_nishizumi_misaki",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "12EC488A-B66E-54A9-88D2-938895B0E7C2",
+          "masterId": "akbgroup_nmb48_nishijima_rio",
+          "name": "西島 梨央",
+          "profileURL": "https://spn.nmb48.com/feature/member_nishijima_rio",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4AF0AD4F-6962-5E35-99DA-D7A094D61903",
+          "masterId": "akbgroup_nmb48_nishida_honoka",
+          "name": "西田 帆花",
+          "profileURL": "https://spn.nmb48.com/feature/member_nishida_honoka",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E121444C-E325-52AC-B779-D8EA23A25650",
+          "masterId": "akbgroup_nmb48_akamatsu_sora",
+          "name": "赤松 昊",
+          "profileURL": "https://spn.nmb48.com/feature/member_akamatsu_sora",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D69E4C0A-CF31-5BB2-A53D-4825A665081C",
+          "masterId": "akbgroup_nmb48_aobara_yuka",
+          "name": "青原 優花",
+          "profileURL": "https://spn.nmb48.com/feature/member_aobara_yuka",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AF6E4DF8-2E51-563E-A93D-834BD1330703",
+          "masterId": "akbgroup_nmb48_takahashi_kotone",
+          "name": "高橋 ことね",
+          "profileURL": "https://spn.nmb48.com/feature/member_takahashi_kotone",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2BED28DB-6666-52BA-955E-42E22CB70EF2",
+          "masterId": "akbgroup_nmb48_takahashi_juna",
+          "name": "高橋 樹奈",
+          "profileURL": "https://spn.nmb48.com/feature/member_takahashi_juna",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "54352E4B-32AD-527F-B25A-FB347E7902DB",
+          "masterId": "akbgroup_nmb48_kuroshima_sakura",
+          "name": "黒島 咲花",
+          "profileURL": "https://spn.nmb48.com/feature/member_kuroshima_sakura",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F718F977-1894-52CC-AD8E-EFAF299BF711",
+          "masterId": "akbgroup_nmb48_tatsumoto_yayoi",
+          "name": "龍本 弥生",
+          "profileURL": "https://spn.nmb48.com/feature/member_tatsumoto_yayoi",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "EA84A32C-5B47-5335-8F18-BDB500B35234",
+      "masterId": "akbgroup_hkt48",
+      "name": "HKT48",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/hkt48_official_",
+        "instagram": "https://www.instagram.com/official_hkt48",
+        "tiktok": "https://www.tiktok.com/@hkt48official",
+        "youtube": "http://www.youtube.com/user/HKT48"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "EECDBC4B-879F-59F5-A9A3-2718845296A5",
+          "masterId": "akbgroup_hkt48_127",
+          "name": "中野 南実",
+          "profileURL": "https://www.hkt48.jp/profile/127",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E1A9872A-2A8F-5CF8-B670-0F82D19811DB",
+          "masterId": "akbgroup_hkt48_101",
+          "name": "井澤 美優",
+          "profileURL": "https://www.hkt48.jp/profile/101",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "90A226D5-3C66-5D6C-BF90-7618FA403000",
+          "masterId": "akbgroup_hkt48_56",
+          "name": "今村 麻莉愛",
+          "profileURL": "https://www.hkt48.jp/profile/56",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3627ADA2-EB84-5CFE-A2A8-46FFBAC763E5",
+          "masterId": "akbgroup_hkt48_108",
+          "name": "北川 陽彩",
+          "profileURL": "https://www.hkt48.jp/profile/108",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BEDB6A30-B7EC-530F-8925-CD7C1B8C1A47",
+          "masterId": "akbgroup_hkt48_132",
+          "name": "吉田 めい",
+          "profileURL": "https://www.hkt48.jp/profile/132",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "80B46F17-88FE-5915-AA78-F361694345F7",
+          "masterId": "akbgroup_hkt48_124",
+          "name": "呉 優菜",
+          "profileURL": "https://www.hkt48.jp/profile/124",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E452B271-B635-5DA2-B496-AFE01CAF6DCF",
+          "masterId": "akbgroup_hkt48_105",
+          "name": "大内 梨果",
+          "profileURL": "https://www.hkt48.jp/profile/105",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B36C710A-E07C-5D07-9C5C-BA7661BA97A9",
+          "masterId": "akbgroup_hkt48_106",
+          "name": "大庭 凜咲",
+          "profileURL": "https://www.hkt48.jp/profile/106",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "61BD97FD-A070-5DE7-976A-DC37ED1ADC35",
+          "masterId": "akbgroup_hkt48_116",
+          "name": "安井 妃奈",
+          "profileURL": "https://www.hkt48.jp/profile/116",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "94E94263-C927-5A65-85E3-2E32BDE87818",
+          "masterId": "akbgroup_hkt48_52",
+          "name": "山内 祐奈",
+          "profileURL": "https://www.hkt48.jp/profile/52",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6D311F8B-6049-56B1-8C05-CADB8266BEC1",
+          "masterId": "akbgroup_hkt48_131",
+          "name": "山川 万里愛",
+          "profileURL": "https://www.hkt48.jp/profile/131",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "60CF28FF-153C-52FF-BA6A-3CF01D90FB83",
+          "masterId": "akbgroup_hkt48_79",
+          "name": "市村 愛里",
+          "profileURL": "https://www.hkt48.jp/profile/79",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CC9E3C91-15B7-5949-AD59-18D726A3F814",
+          "masterId": "akbgroup_hkt48_130",
+          "name": "松本 苺花",
+          "profileURL": "https://www.hkt48.jp/profile/130",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9574CB66-3AB6-5E25-9C93-21B8B404FEE1",
+          "masterId": "akbgroup_hkt48_129",
+          "name": "松永 悠良",
+          "profileURL": "https://www.hkt48.jp/profile/129",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "84EDAD24-9937-5EBC-9C4E-4CE4FDEC76F5",
+          "masterId": "akbgroup_hkt48_46",
+          "name": "栗原 紗英",
+          "profileURL": "https://www.hkt48.jp/profile/46",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5FCAE374-7A6A-5660-B66C-0523A905F7AF",
+          "masterId": "akbgroup_hkt48_84",
+          "name": "栗山 梨奈",
+          "profileURL": "https://www.hkt48.jp/profile/84",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "85153EA2-E103-524C-93D9-E3B84DB53523",
+          "masterId": "akbgroup_hkt48_117",
+          "name": "梁瀬 鈴雅",
+          "profileURL": "https://www.hkt48.jp/profile/117",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E2ACF3C2-D2E0-5A43-B893-140BDB9723AA",
+          "masterId": "akbgroup_hkt48_115",
+          "name": "森﨑 冴彩",
+          "profileURL": "https://www.hkt48.jp/profile/115",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "233ACBFC-6EA6-5625-B345-874EC5AA1B6C",
+          "masterId": "akbgroup_hkt48_104",
+          "name": "江口 心々華",
+          "profileURL": "https://www.hkt48.jp/profile/104",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7758804F-DB4B-5222-8E25-976FEF059B19",
+          "masterId": "akbgroup_hkt48_122",
+          "name": "江浦 優香",
+          "profileURL": "https://www.hkt48.jp/profile/122",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "277AEFFD-A376-5E4E-9FF2-5EFBA4673D9F",
+          "masterId": "akbgroup_hkt48_109",
+          "name": "渋井 美奈",
+          "profileURL": "https://www.hkt48.jp/profile/109",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F7BEE83E-C232-565D-82B3-B028B2A00193",
+          "masterId": "akbgroup_hkt48_42",
+          "name": "渕上 舞",
+          "profileURL": "https://www.hkt48.jp/profile/42",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6E6D45DB-71F1-5A3B-A227-842A1C07F057",
+          "masterId": "akbgroup_hkt48_103",
+          "name": "猪原 絆愛",
+          "profileURL": "https://www.hkt48.jp/profile/103",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5B2648CE-F400-5773-ADB8-C70CB89F7A10",
+          "masterId": "akbgroup_hkt48_121",
+          "name": "猪島 莉玲亜",
+          "profileURL": "https://www.hkt48.jp/profile/121",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "48C1FBF9-597E-51B9-8336-7BFFAEDA0CF0",
+          "masterId": "akbgroup_hkt48_100",
+          "name": "生野 莉奈",
+          "profileURL": "https://www.hkt48.jp/profile/100",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "461C0C1D-DE1B-5255-AF88-83A4A2CCBABF",
+          "masterId": "akbgroup_hkt48_88",
+          "name": "田中 伊桜莉",
+          "profileURL": "https://www.hkt48.jp/profile/88",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-31",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A6D8E184-CE7C-5BDA-A28E-6348B15069F5",
+          "masterId": "akbgroup_hkt48_119",
+          "name": "石井 彩音",
+          "profileURL": "https://www.hkt48.jp/profile/119",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0BEB3139-3379-5C28-9D39-BD6F411A4510",
+          "masterId": "akbgroup_hkt48_120",
+          "name": "石川 歩実優",
+          "profileURL": "https://www.hkt48.jp/profile/120",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DE681E36-EF20-5451-B160-CEE220A6A55F",
+          "masterId": "akbgroup_hkt48_102",
+          "name": "石松 結菜",
+          "profileURL": "https://www.hkt48.jp/profile/102",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "553DFFFD-5464-5922-9821-9E72EAB68AD4",
+          "masterId": "akbgroup_hkt48_78",
+          "name": "石橋 颯",
+          "profileURL": "https://www.hkt48.jp/profile/78",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B4405680-F2E9-5B9E-8701-7D14C5843E98",
+          "masterId": "akbgroup_hkt48_111",
+          "name": "福井 可憐",
+          "profileURL": "https://www.hkt48.jp/profile/111",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CDDECC0B-8F56-5D2F-9D16-39A79A631683",
+          "masterId": "akbgroup_hkt48_23",
+          "name": "秋吉 優花",
+          "profileURL": "https://www.hkt48.jp/profile/23",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "25EFD399-C349-5193-BED3-FB010A081BE2",
+          "masterId": "akbgroup_hkt48_110",
+          "name": "立花 心良",
+          "profileURL": "https://www.hkt48.jp/profile/110",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FC838AF9-F900-528E-A74A-819279E0E273",
+          "masterId": "akbgroup_hkt48_87",
+          "name": "竹本 くるみ",
+          "profileURL": "https://www.hkt48.jp/profile/87",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "89F1D612-66DA-514B-8BF0-3D838747F7C4",
+          "masterId": "akbgroup_hkt48_112",
+          "name": "藤野 心葉",
+          "profileURL": "https://www.hkt48.jp/profile/112",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F57FF461-1EC4-5BDD-A047-930B387E9598",
+          "masterId": "akbgroup_hkt48_67",
+          "name": "豊永 阿紀",
+          "profileURL": "https://www.hkt48.jp/profile/67",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BFBB6626-6C4C-5244-884D-D6AB43920A11",
+          "masterId": "akbgroup_hkt48_128",
+          "name": "長野 らら",
+          "profileURL": "https://www.hkt48.jp/profile/128",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2034AF10-0349-5630-A0E8-92A3403D0B0E",
+          "masterId": "akbgroup_hkt48_126",
+          "name": "靏川 那智",
+          "profileURL": "https://www.hkt48.jp/profile/126",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AE544058-0A2D-5A00-B6B9-E95EEB3414EE",
+          "masterId": "akbgroup_hkt48_118",
+          "name": "青木 日菜子",
+          "profileURL": "https://www.hkt48.jp/profile/118",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6B2F04F0-BB41-535F-B8A0-FA0CDCB951FA",
+          "masterId": "akbgroup_hkt48_133",
+          "name": "龍頭 綺音",
+          "profileURL": "https://www.hkt48.jp/profile/133",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "03E2A4D5-EBBD-524F-A7B9-1949B6F51A65",
+      "masterId": "akbgroup_ngt48",
+      "name": "NGT48",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://twitter.com/official_ngt48",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": "http://www.youtube.com/c/NGT48"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "033B0C18-37DC-58CD-AEA6-8DAE4ACFEF9A",
+          "masterId": "akbgroup_ngt48_144",
+          "name": "三村 妃乃",
+          "profileURL": "https://ngt48.jp/profile/detail/144",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3D5706DF-05AE-5C1E-867E-79A2D4B29E9A",
+          "masterId": "akbgroup_ngt48_181",
+          "name": "中田 麻実",
+          "profileURL": "https://ngt48.jp/profile/detail/181",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "743D79EE-5D4C-51BF-A6EB-7CB4ACD75448",
+          "masterId": "akbgroup_ngt48_164",
+          "name": "佐藤 広花",
+          "profileURL": "https://ngt48.jp/profile/detail/164",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A8BEAE68-8DA2-5ABE-8963-FDAE6498CDE9",
+          "masterId": "akbgroup_ngt48_177",
+          "name": "佐藤 柚花",
+          "profileURL": "https://ngt48.jp/profile/detail/177",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8F8942F9-0948-5DDE-B54F-EBE4D8553D44",
+          "masterId": "akbgroup_ngt48_128",
+          "name": "佐藤 海里",
+          "profileURL": "https://ngt48.jp/profile/detail/128",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3A1BC04C-CF94-59DE-A758-529496DA8995",
+          "masterId": "akbgroup_ngt48_151",
+          "name": "北村 優羽",
+          "profileURL": "https://ngt48.jp/profile/detail/151",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4F031229-89BE-5333-8833-89DF1B06729B",
+          "masterId": "akbgroup_ngt48_176",
+          "name": "北澤 百音",
+          "profileURL": "https://ngt48.jp/profile/detail/176",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0F0B6774-D135-5684-8716-EF4F7D52A80A",
+          "masterId": "akbgroup_ngt48_150",
+          "name": "喜多 花恵",
+          "profileURL": "https://ngt48.jp/profile/detail/150",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "363E8227-A3E8-57C8-A759-E4F1B7F11BFF",
+          "masterId": "akbgroup_ngt48_132",
+          "name": "大塚 七海",
+          "profileURL": "https://ngt48.jp/profile/detail/132",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "15347ACB-AD17-5117-8245-7CA14F10637B",
+          "masterId": "akbgroup_ngt48_174",
+          "name": "大町 佑香",
+          "profileURL": "https://ngt48.jp/profile/detail/174",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "843D2A80-62B2-5376-8A23-5D3C84D8983C",
+          "masterId": "akbgroup_ngt48_162",
+          "name": "奥村 百花",
+          "profileURL": "https://ngt48.jp/profile/detail/162",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1FA23EA3-7880-554B-8BCA-FFD377ABCAE3",
+          "masterId": "akbgroup_ngt48_172",
+          "name": "安座間 結",
+          "profileURL": "https://ngt48.jp/profile/detail/172",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4872108B-DAD3-5DA2-8578-4C903200AB68",
+          "masterId": "akbgroup_ngt48_165",
+          "name": "新沢 葵唯",
+          "profileURL": "https://ngt48.jp/profile/detail/165",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2A9C8A62-651C-50A6-9741-0B19C8037491",
+          "masterId": "akbgroup_ngt48_152",
+          "name": "木本 優菜",
+          "profileURL": "https://ngt48.jp/profile/detail/152",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FF35C575-83DC-5E22-8666-B9113069E43F",
+          "masterId": "akbgroup_ngt48_163",
+          "name": "木本 杏菜",
+          "profileURL": "https://ngt48.jp/profile/detail/163",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3E5D8255-111A-535D-871D-8F3FEAF6267F",
+          "masterId": "akbgroup_ngt48_155",
+          "name": "杉本 萌",
+          "profileURL": "https://ngt48.jp/profile/detail/155",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D1526E22-B712-50C5-94FC-ED0748C4C571",
+          "masterId": "akbgroup_ngt48_154",
+          "name": "水津 菜月",
+          "profileURL": "https://ngt48.jp/profile/detail/154",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "23B23F31-F022-58B8-8EFC-72A34E52C32D",
+          "masterId": "akbgroup_ngt48_111",
+          "name": "清司 麗菜",
+          "profileURL": "https://ngt48.jp/profile/detail/111",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "02400401-4246-57FF-A3C5-72BA7BED846C",
+          "masterId": "akbgroup_ngt48_175",
+          "name": "甲斐 瑞季",
+          "profileURL": "https://ngt48.jp/profile/detail/175",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1EE50519-4914-5842-9BE9-A065E8928FB7",
+          "masterId": "akbgroup_ngt48_182",
+          "name": "皆川 日和",
+          "profileURL": "https://ngt48.jp/profile/detail/182",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-31",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E4A84F06-46B0-519C-94CE-7F88D93715EC",
+          "masterId": "akbgroup_ngt48_160",
+          "name": "磯崎 菜々",
+          "profileURL": "https://ngt48.jp/profile/detail/160",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "62B3EC86-8096-5B35-9A1B-A804B9DD1AEF",
+          "masterId": "akbgroup_ngt48_149",
+          "name": "磯部 瑠紅",
+          "profileURL": "https://ngt48.jp/profile/detail/149",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ADDCA6F1-1C67-59EA-B4BC-6187493BF080",
+          "masterId": "akbgroup_ngt48_168",
+          "name": "西川 晴菜",
+          "profileURL": "https://ngt48.jp/profile/detail/168",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D1A81C7F-AE56-566D-8B0A-6C41FD6CF9C8",
+          "masterId": "akbgroup_ngt48_118",
+          "name": "西潟 茉莉奈",
+          "profileURL": "https://ngt48.jp/profile/detail/118",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E778DC21-BAF2-5B9F-8881-1EF06B5BB084",
+          "masterId": "akbgroup_ngt48_179",
+          "name": "谷口 陽香",
+          "profileURL": "https://ngt48.jp/profile/detail/179",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5F53F24A-E205-5C7C-B8D2-2B9168029F19",
+          "masterId": "akbgroup_ngt48_173",
+          "name": "阿達 夢",
+          "profileURL": "https://ngt48.jp/profile/detail/173",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "541DD36B-2AFE-589C-BAD6-2033212B93CA",
+          "masterId": "akbgroup_ngt48_178",
+          "name": "須藤 凜華",
+          "profileURL": "https://ngt48.jp/profile/detail/178",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3DD20675-DE88-5DFA-A3F1-D9544BF6FF88",
+          "masterId": "akbgroup_ngt48_167",
+          "name": "高島 柚愛",
+          "profileURL": "https://ngt48.jp/profile/detail/167",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "29B2A306-1539-5345-A2BB-F42A8C072ACF",
+      "masterId": "akbgroup_stu48",
+      "name": "STU48",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://twitter.com/STU48_official_",
+        "instagram": "https://www.instagram.com/stu48.official/",
+        "tiktok": null,
+        "youtube": "https://www.youtube.com/channel/UCa8GISK9_hsZ8aEJEL1u1Sg"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "E9C85FED-CD0C-5023-90D7-ACEF304F441C",
+          "masterId": "akbgroup_stu48_miyoshi_maaya_fs",
+          "name": "三好 真綺",
+          "profileURL": "https://sp.stu48.com/feature/miyoshi_maaya_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2B2916C6-6503-58F4-9448-7DC7F69A558D",
+          "masterId": "akbgroup_stu48_nakamura_mai_fs",
+          "name": "中村 舞",
+          "profileURL": "https://sp.stu48.com/feature/nakamura_mai_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B581849F-EC6D-5E95-872A-BF6AEC762293",
+          "masterId": "akbgroup_stu48_kurushima_yuka_fs",
+          "name": "久留島 優果",
+          "profileURL": "https://sp.stu48.com/feature/kurushima_yuka_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A63CACED-805E-5F94-9262-5756BD9D7AB3",
+          "masterId": "akbgroup_stu48_inoue_kurea_fs",
+          "name": "井上 久伶杏",
+          "profileURL": "https://sp.stu48.com/feature/inoue_kurea_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0ABB0E8E-6605-58C2-861B-A885054872BE",
+          "masterId": "akbgroup_stu48_shinano_soraha_fs",
+          "name": "信濃 宙花",
+          "profileURL": "https://sp.stu48.com/feature/shinano_soraha_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C4933A82-89B3-5F63-8E5C-A061ACC3CC88",
+          "masterId": "akbgroup_stu48_hyodo_aoi_fs",
+          "name": "兵頭 葵",
+          "profileURL": "https://sp.stu48.com/feature/hyodo_aoi_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4E0F45FF-5215-5797-8D1F-5D92E46764D2",
+          "masterId": "akbgroup_stu48_utsumi_rine_fs",
+          "name": "内海 里音",
+          "profileURL": "https://sp.stu48.com/feature/utsumi_rine_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "19D8AC42-18DD-5C1E-A7D4-C843A06B0A0A",
+          "masterId": "akbgroup_stu48_kitazawa_ichigo_fs",
+          "name": "北澤苺",
+          "profileURL": "https://sp.stu48.com/feature/kitazawa_ichigo_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "831BCD7F-E729-5CDD-8692-2888C5AFEA79",
+          "masterId": "akbgroup_stu48_harada_sayaka_fs",
+          "name": "原田 清花",
+          "profileURL": "https://sp.stu48.com/feature/harada_sayaka_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2912ACA4-171B-5514-A2B8-4181F18BB999",
+          "masterId": "akbgroup_stu48_yoshida_sara_fs",
+          "name": "吉田 彩良",
+          "profileURL": "https://sp.stu48.com/feature/yoshida_sara_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6B49A520-5906-5EB4-80AC-FBC0BBF0AB6F",
+          "masterId": "akbgroup_stu48_sakazaki_ai_fs",
+          "name": "坂崎 愛",
+          "profileURL": "https://sp.stu48.com/feature/sakazaki_ai_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EBA04627-E44F-5C99-BC21-15C9AE78277F",
+          "masterId": "akbgroup_stu48_sakaki_towana_fs",
+          "name": "坂木 叶愛",
+          "profileURL": "https://sp.stu48.com/feature/sakaki_towana_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "360F2677-A71F-50D8-9A93-D00ADA74AACF",
+          "masterId": "akbgroup_stu48_okuda_yuina_fs",
+          "name": "奥田唯菜",
+          "profileURL": "https://sp.stu48.com/feature/okuda_yuina_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "49C1B8D7-BE19-5963-A1C9-EFC588DAA158",
+          "masterId": "akbgroup_stu48_muneyuki_rika_fs",
+          "name": "宗雪 里香",
+          "profileURL": "https://sp.stu48.com/feature/muneyuki_rika_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AEB906B5-7000-57B6-BC73-C1C13865A98C",
+          "masterId": "akbgroup_stu48_komatsu_nayu_fs",
+          "name": "小松 奈侑",
+          "profileURL": "https://sp.stu48.com/feature/komatsu_nayu_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3A297FEE-CAE4-5A68-9B06-B60F4F24B987",
+          "masterId": "akbgroup_stu48_osaki_serika_fs",
+          "name": "尾崎 世里花",
+          "profileURL": "https://sp.stu48.com/feature/osaki_serika_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "44718EB3-E604-5B26-A09D-956F236219EE",
+          "masterId": "akbgroup_stu48_yagi_yuuna_fs",
+          "name": "屋木 優菜",
+          "profileURL": "https://sp.stu48.com/feature/yagi_yuuna_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D4A03F19-F517-51A1-9C1B-649C30915C8E",
+          "masterId": "akbgroup_stu48_okamura_rio_fs",
+          "name": "岡村 梨央",
+          "profileURL": "https://sp.stu48.com/feature/okamura_rio_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "06D457F6-084F-5653-B1F9-B8C08A87BDC7",
+          "masterId": "akbgroup_stu48_okada_azumi_fs",
+          "name": "岡田 あずみ",
+          "profileURL": "https://sp.stu48.com/feature/okada_azumi_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "88ED7C07-D6A3-5AAE-A64E-0F6E6B2AC3BF",
+          "masterId": "akbgroup_stu48_shimada_sayaka_fs",
+          "name": "島田 紗香",
+          "profileURL": "https://sp.stu48.com/feature/shimada_sayaka_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FAC76FF1-98DA-5199-853B-29A17CD6FAB9",
+          "masterId": "akbgroup_stu48_kawamata_yuuna_fs",
+          "name": "川又 優菜",
+          "profileURL": "https://sp.stu48.com/feature/kawamata_yuuna_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B3443AA8-E1E5-5AAB-A74F-CF40AF420BBF",
+          "masterId": "akbgroup_stu48_kudou_riko_fs",
+          "name": "工藤 理子",
+          "profileURL": "https://sp.stu48.com/feature/kudou_riko_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "78A94BF6-2A6B-5D4B-A938-8192882F39BA",
+          "masterId": "akbgroup_stu48_arai_ria_fs",
+          "name": "新井梨杏",
+          "profileURL": "https://sp.stu48.com/feature/arai_ria_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D17DD292-7F6E-5410-891F-D4510CAA0A53",
+          "masterId": "akbgroup_stu48_sogabe_ako_fs",
+          "name": "曽我部 あこ",
+          "profileURL": "https://sp.stu48.com/feature/sogabe_ako_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FD916FE4-F903-5797-B798-0198BC76FCA2",
+          "masterId": "akbgroup_stu48_kihara_hinayo_fs",
+          "name": "木原 姫花世",
+          "profileURL": "https://sp.stu48.com/feature/kihara_hinayo_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BFCF0B2C-49E9-580E-8B0D-00A5F4699FB0",
+          "masterId": "akbgroup_stu48_morisue_himena_fs",
+          "name": "森末妃奈",
+          "profileURL": "https://sp.stu48.com/feature/morisue_himena_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7ABCFB84-2957-5995-9513-C4B2E004BA80",
+          "masterId": "akbgroup_stu48_yokoi_yuina_fs",
+          "name": "横井 結菜",
+          "profileURL": "https://sp.stu48.com/feature/yokoi_yuina_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8863311B-E922-5B9B-84DE-EA0B1091BAC3",
+          "masterId": "akbgroup_stu48_ikeda_yura_fs",
+          "name": "池田 裕楽",
+          "profileURL": "https://sp.stu48.com/feature/ikeda_yura_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1A7CCCF9-9560-55F8-9387-73C520799F1E",
+          "masterId": "akbgroup_stu48_shimizu_sara_fs",
+          "name": "清水 紗良",
+          "profileURL": "https://sp.stu48.com/feature/shimizu_sara_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9F289C88-74E9-5888-A078-32699DE1431D",
+          "masterId": "akbgroup_stu48_watanabe_natsuki_fs",
+          "name": "渡辺 菜月",
+          "profileURL": "https://sp.stu48.com/feature/watanabe_natsuki_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D3142055-6F29-5BAE-8331-37464F301676",
+          "masterId": "akbgroup_stu48_hamada_mii_fs",
+          "name": "濵田 美惟",
+          "profileURL": "https://sp.stu48.com/feature/hamada_mii_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "87039716-CBBF-5DA8-B684-E0EE5AE34C00",
+          "masterId": "akbgroup_stu48_hamada_hibiki_fs",
+          "name": "濵田響",
+          "profileURL": "https://sp.stu48.com/feature/hamada_hibiki_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3B4A3C19-5259-54E6-8B12-9A9D6A56BD6D",
+          "masterId": "akbgroup_stu48_tanaka_nanako_fs",
+          "name": "田中 奈菜子",
+          "profileURL": "https://sp.stu48.com/feature/tanaka_nanako_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A31279FF-0591-5CED-8CD6-CB2B0D7C1527",
+          "masterId": "akbgroup_stu48_kai_cocoa_fs",
+          "name": "甲斐 心愛",
+          "profileURL": "https://sp.stu48.com/feature/kai_cocoa_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4ECFBF95-3589-55A7-A11A-012AD4BBF29D",
+          "masterId": "akbgroup_stu48_ishihara_yuuna_fs",
+          "name": "石原侑奈",
+          "profileURL": "https://sp.stu48.com/feature/ishihara_yuuna_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "472A62E6-76B0-5909-80CC-1373B345BA18",
+          "masterId": "akbgroup_stu48_ishimatsu_haruna_fs",
+          "name": "石松 陽菜",
+          "profileURL": "https://sp.stu48.com/feature/ishimatsu_haruna_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "58752301-3243-5489-BF0B-4B5EE9323D93",
+          "masterId": "akbgroup_stu48_ishida_chiho_fs",
+          "name": "石田 千穂",
+          "profileURL": "https://sp.stu48.com/feature/ishida_chiho_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "76E1CA55-F7A9-5C00-A9B7-361B6187C1BB",
+          "masterId": "akbgroup_stu48_fukuda_akari_fs",
+          "name": "福田 朱里",
+          "profileURL": "https://sp.stu48.com/feature/fukuda_akari_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "60BE6203-74BE-54A9-80D0-DEA0CCA5D959",
+          "masterId": "akbgroup_stu48_kabutake_mana_fs",
+          "name": "蕪竹 真奈",
+          "profileURL": "https://sp.stu48.com/feature/kabutake_mana_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6ED288B5-A50A-5B61-BF60-7ECC0BC3A56B",
+          "masterId": "akbgroup_stu48_fujita_amu_fs",
+          "name": "藤田 愛結",
+          "profileURL": "https://sp.stu48.com/feature/fujita_amu_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C524959E-1258-5EE7-8A83-00E8F7685D32",
+          "masterId": "akbgroup_stu48_morokuzu_noa_fs",
+          "name": "諸葛 望愛",
+          "profileURL": "https://sp.stu48.com/feature/morokuzu_noa_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A1787D48-A360-52B2-B37B-6F882F1077C7",
+          "masterId": "akbgroup_stu48_taniguchi_mahina_fs",
+          "name": "谷口 茉妃菜",
+          "profileURL": "https://sp.stu48.com/feature/taniguchi_mahina_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D6F795CE-D470-5985-8093-368E19E22D46",
+          "masterId": "akbgroup_stu48_sako_himeka_fs",
+          "name": "迫 姫華",
+          "profileURL": "https://sp.stu48.com/feature/sako_himeka_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "97D9ABF2-4036-557E-88DE-4FEA45732376",
+          "masterId": "akbgroup_stu48_douho_runa_fs",
+          "name": "道保 琉南",
+          "profileURL": "https://sp.stu48.com/feature/douho_runa_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EEBB825B-4CDD-5E55-A596-1986414CF2B2",
+          "masterId": "akbgroup_stu48_nonaka_rio_fs",
+          "name": "野中 莉央",
+          "profileURL": "https://sp.stu48.com/feature/nonaka_rio_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "835CDC9A-D48D-5F72-AEA2-B7791D2001E2",
+          "masterId": "akbgroup_stu48_takao_sayaka_fs",
+          "name": "高雄 さやか",
+          "profileURL": "https://sp.stu48.com/feature/takao_sayaka_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B16039BC-F9A3-5ED4-94FC-C35C75EA0DE0",
+          "masterId": "akbgroup_stu48_takamura_shiori_fs",
+          "name": "髙村 栞里",
+          "profileURL": "https://sp.stu48.com/feature/takamura_shiori_fs",
+          "imageSourceURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}
