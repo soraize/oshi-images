@@ -23,14 +23,17 @@
           "masterId": "akbgroup_akb48_202",
           "name": "下尾 みう",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=202",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Shitao_Miu",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFFFFF",
+            "#8000FF"
+          ],
           "birthday": "04-03",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/miumiu_0403",
+            "instagram": "https://www.instagram.com/miumiu1343",
+            "tiktok": "https://www.tiktok.com/@miumiu_1343"
           }
         },
         {
@@ -38,12 +41,15 @@
           "masterId": "akbgroup_akb48_1100",
           "name": "丸山 ひなた",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1100",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Maruyama_Hinata",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF1493",
+            "#0000FF"
+          ],
           "birthday": "07-11",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/Hinata_Maruyama",
             "instagram": null,
             "tiktok": null
           }
@@ -53,14 +59,17 @@
           "masterId": "akbgroup_akb48_1088",
           "name": "久保 姫菜乃",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1088",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kubo_Hinano",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF1493",
+            "#FFB6C1"
+          ],
           "birthday": "02-02",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/hinano_kubo0202",
             "instagram": null,
-            "tiktok": null
+            "tiktok": "https://www.tiktok.com/@hinyano22_akb"
           }
         },
         {
@@ -68,14 +77,17 @@
           "masterId": "akbgroup_akb48_1093",
           "name": "伊藤 百花",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1093",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ito_Momoka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFB6C1",
+            "#FFB6C1"
+          ],
           "birthday": "12-06",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/momoka_ito1206",
+            "instagram": "https://www.instagram.com/momoka_ito1206/",
+            "tiktok": "https://www.tiktok.com/@itomomo_ka1206"
           }
         },
         {
@@ -83,14 +95,17 @@
           "masterId": "akbgroup_akb48_1076",
           "name": "佐藤 綺星",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1076",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sato_Airi",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#FFFFFF"
+          ],
           "birthday": "06-24",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/airi_sato0624",
+            "instagram": "https://www.instagram.com/__aiichan.17",
+            "tiktok": "https://www.tiktok.com/@17aichaaan"
           }
         },
         {
@@ -98,13 +113,16 @@
           "masterId": "akbgroup_akb48_210",
           "name": "倉野尾 成美",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=210",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kuranoo_Narumi",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#00A651"
+          ],
           "birthday": "11-08",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://x.com/kuranoo_narumi_",
+            "instagram": "https://www.instagram.com/noochan_1108/",
             "tiktok": null
           }
         },
@@ -113,14 +131,17 @@
           "masterId": "akbgroup_akb48_1091",
           "name": "八木 愛月",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1091",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yagi_Azuki",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4",
+            "#FFD700"
+          ],
           "birthday": "03-22",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/azuki_yagi0322",
             "instagram": null,
-            "tiktok": null
+            "tiktok": "https://www.tiktok.com/@azuki.azu_akb48"
           }
         },
         {
@@ -128,14 +149,17 @@
           "masterId": "akbgroup_akb48_289",
           "name": "千葉 恵里",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=289",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Chiba_Erii",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD700",
+            "#0000FF"
+          ],
           "birthday": "10-27",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/erii_20031027",
+            "instagram": "https://www.instagram.com/eriierii_1027/",
+            "tiktok": "https://www.tiktok.com/@eriierii1027a"
           }
         },
         {
@@ -143,14 +167,17 @@
           "masterId": "akbgroup_akb48_1073",
           "name": "坂川 陽香",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1073",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sakagawa_Hiyuka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#FF8C00"
+          ],
           "birthday": "10-07",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/Hiyuka_1007",
+            "instagram": "https://www.instagram.com/hiyuka_sakagawa.1007/",
+            "tiktok": "https://www.tiktok.com/@hiyuka_sakagawa"
           }
         },
         {
@@ -158,14 +185,17 @@
           "masterId": "akbgroup_akb48_1048",
           "name": "大盛 真歩",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1048",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Omori_Maho",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFFFFF",
+            "#FFB6C1"
+          ],
           "birthday": "12-05",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/akb48_maho",
+            "instagram": "https://www.instagram.com/maho_usagi/",
+            "tiktok": "https://www.tiktok.com/@maho_usagi?lang=ja-JP"
           }
         },
         {
@@ -173,12 +203,15 @@
           "masterId": "akbgroup_akb48_1098",
           "name": "大賀 彩姫",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1098",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Oga_Saki",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF",
+            "#9ACD32"
+          ],
           "birthday": "05-16",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/Saki_Oga0516",
             "instagram": null,
             "tiktok": null
           }
@@ -188,14 +221,17 @@
           "masterId": "akbgroup_akb48_1074",
           "name": "太田 有紀",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1074",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ota_Yuki",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#7FDFFF",
+            "#8000FF"
+          ],
           "birthday": "03-27",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/yuki_ota0327",
+            "instagram": "https://www.instagram.com/yuki_ota0327",
+            "tiktok": "https://www.tiktok.com/@yuki_ota0327"
           }
         },
         {
@@ -203,14 +239,17 @@
           "masterId": "akbgroup_akb48_1094",
           "name": "奥本 カイリ",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1094",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Okumoto_Kairi",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#7FDFFF",
+            "#0000FF"
+          ],
           "birthday": "01-27",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/kairi_okumoto",
+            "instagram": "https://www.instagram.com/kairi_okumoto/",
+            "tiktok": "https://www.tiktok.com/@basashi_kairi_guitar"
           }
         },
         {
@@ -218,14 +257,17 @@
           "masterId": "akbgroup_akb48_180",
           "name": "小栗 有以",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=180",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Oguri_Yui",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD700",
+            "#FF69B4"
+          ],
           "birthday": "12-26",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/yuiyui_maromaro",
+            "instagram": "https://www.instagram.com/yuioguri_1226/",
+            "tiktok": "https://www.tiktok.com/@yuioguri.akb48"
           }
         },
         {
@@ -233,14 +275,17 @@
           "masterId": "akbgroup_akb48_1024",
           "name": "山内 瑞葵",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1024",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yamauchi_Mizuki",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4",
+            "#FFD700"
+          ],
           "birthday": "09-20",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/mizukiyamauchi",
+            "instagram": "https://www.instagram.com/zukky_48/",
+            "tiktok": "https://www.tiktok.com/@zukky_48?is_from_webapp=1&sender_device=pc"
           }
         },
         {
@@ -248,14 +293,17 @@
           "masterId": "akbgroup_akb48_1092",
           "name": "山口 結愛",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1092",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yamaguchi_Yui",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#FF8C00"
+          ],
           "birthday": "03-08",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/yuichi_akb48",
             "instagram": null,
-            "tiktok": null
+            "tiktok": "https://www.tiktok.com/@yuichi_akb48"
           }
         },
         {
@@ -263,14 +311,17 @@
           "masterId": "akbgroup_akb48_1025",
           "name": "山根 涼羽",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1025",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yamane_Suzuha",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4",
+            "#00A651"
+          ],
           "birthday": "08-11",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/48Suzuha_16LOVE",
+            "instagram": "https://www.instagram.com/suzuha48yamane16/",
+            "tiktok": "https://www.tiktok.com/@zunchan48"
           }
         },
         {
@@ -278,14 +329,17 @@
           "masterId": "akbgroup_akb48_1084",
           "name": "山﨑 空",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1084",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yamazaki_Sora",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#8000FF",
+            "#FF69B4"
+          ],
           "birthday": "05-13",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/sorara_akb48",
+            "instagram": "https://www.instagram.com/sora_yamazaki17",
+            "tiktok": "https://www.tiktok.com/@sora.yamazaki_17?lang=ja-JP"
           }
         },
         {
@@ -293,14 +347,18 @@
           "masterId": "akbgroup_akb48_110",
           "name": "岩立 沙穂",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=110",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Iwatate_Saho",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF",
+            "#FFFFFF",
+            "#FF0000"
+          ],
           "birthday": "10-04",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/yahho_sahho",
+            "instagram": "https://www.instagram.com/saho_iwatate104/",
+            "tiktok": "https://www.tiktok.com/@1004sahho?is_from_webapp=1&sender_device=pc"
           }
         },
         {
@@ -308,14 +366,17 @@
           "masterId": "akbgroup_akb48_1095",
           "name": "川村 結衣",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1095",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kawamura_Yui",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#8000FF"
+          ],
           "birthday": "06-18",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/yui_kawamura",
+            "instagram": "https://www.instagram.com/yui_kawamura0618/",
+            "tiktok": "https://www.tiktok.com/@kawayui_akb48"
           }
         },
         {
@@ -323,14 +384,17 @@
           "masterId": "akbgroup_akb48_1087",
           "name": "工藤 華純",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1087",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kudo_Kasumi",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#00A651"
+          ],
           "birthday": "06-15",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/kasumin_akb48",
             "instagram": null,
-            "tiktok": null
+            "tiktok": "https://www.tiktok.com/@akb48.18"
           }
         },
         {
@@ -338,14 +402,17 @@
           "masterId": "akbgroup_akb48_1081",
           "name": "布袋 百椛",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1081",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Hotei_Moka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4",
+            "#FF0000"
+          ],
           "birthday": "12-01",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/moka_hotei1201",
+            "instagram": "https://www.instagram.com/hotei_moka48",
+            "tiktok": "https://www.tiktok.com/@hotei_moka48"
           }
         },
         {
@@ -353,14 +420,17 @@
           "masterId": "akbgroup_akb48_1080",
           "name": "平田 侑希",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1080",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Hirata_Yuki",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFFFFF",
+            "#8000FF"
+          ],
           "birthday": "09-03",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/yuki_hirata0903",
+            "instagram": "https://www.instagram.com/yuki__hirata",
+            "tiktok": "https://www.tiktok.com/@yuki__hirata"
           }
         },
         {
@@ -368,14 +438,17 @@
           "masterId": "akbgroup_akb48_1069",
           "name": "徳永 羚海",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1069",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Tokunaga_Remi",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4",
+            "#0000FF"
+          ],
           "birthday": "10-01",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/48_RemiTokunaga",
+            "instagram": "https://www.instagram.com/remi_tokunaga1001/",
+            "tiktok": "https://www.tiktok.com/@remi_tokunaga1001?is_from_webapp=1&sender_device=pc"
           }
         },
         {
@@ -383,14 +456,17 @@
           "masterId": "akbgroup_akb48_1090",
           "name": "成田 香姫奈",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1090",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Narita_Kohina",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#8000FF",
+            "#FFD700"
+          ],
           "birthday": "03-03",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/kohina_narita",
             "instagram": null,
-            "tiktok": null
+            "tiktok": "https://www.tiktok.com/@kohina_akb48"
           }
         },
         {
@@ -398,14 +474,17 @@
           "masterId": "akbgroup_akb48_1086",
           "name": "新井 彩永",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1086",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Arai_Sae",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD700",
+            "#FFD700"
+          ],
           "birthday": "10-05",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/saechan_akb48",
             "instagram": null,
-            "tiktok": null
+            "tiktok": "https://www.tiktok.com/@saechan_akb48"
           }
         },
         {
@@ -413,12 +492,15 @@
           "masterId": "akbgroup_akb48_1104",
           "name": "森川 優",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1104",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Morikawa_Yu",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#7FDFFF",
+            "#FF8C00"
+          ],
           "birthday": "06-24",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/Yu_Morikawa",
             "instagram": null,
             "tiktok": null
           }
@@ -428,14 +510,17 @@
           "masterId": "akbgroup_akb48_1077",
           "name": "橋本 恵理子",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1077",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Hashimoto_Eriko",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#FFD700"
+          ],
           "birthday": "04-16",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/erichan_akb48",
+            "instagram": "https://www.instagram.com/eriko_hashimoto_",
+            "tiktok": "https://www.tiktok.com/@eriko.hashimoto?is_from_webapp=1&sender_device=pc"
           }
         },
         {
@@ -443,14 +528,17 @@
           "masterId": "akbgroup_akb48_183",
           "name": "橋本 陽菜",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=183",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Hashimoto_Haruna",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4",
+            "#FFFFFF"
+          ],
           "birthday": "05-25",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/harupyon_0525",
+            "instagram": "https://www.instagram.com/48pyonz_toyama",
+            "tiktok": "https://www.tiktok.com/@48pyonz_toyama"
           }
         },
         {
@@ -458,14 +546,17 @@
           "masterId": "akbgroup_akb48_1082",
           "name": "正鋳 真優",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1082",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Masai_Mayuu",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
           "birthday": "03-01",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/mayuu_masai0301",
+            "instagram": "https://www.instagram.com/ma3_1mayuu",
+            "tiktok": "https://www.tiktok.com/@yuruyurumayuu?is_from_webapp=1&sender_device=pc"
           }
         },
         {
@@ -473,14 +564,17 @@
           "masterId": "akbgroup_akb48_1022",
           "name": "武藤 小麟",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1022",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Muto_Orin",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#7FDFFF",
+            "#FF1493"
+          ],
           "birthday": "07-22",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/muto_orin",
+            "instagram": "https://www.instagram.com/muto_orin/",
+            "tiktok": "https://www.tiktok.com/@mutosisters_official"
           }
         },
         {
@@ -488,14 +582,17 @@
           "masterId": "akbgroup_akb48_1083",
           "name": "水島 美結",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1083",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Mizushima_Miyuu",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#7FDFFF",
+            "#FF69B4"
+          ],
           "birthday": "11-12",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/miyuu_mizushima",
+            "instagram": "https://www.instagram.com/17_miyuu_1112",
+            "tiktok": "https://www.tiktok.com/@17_miyuu_1112"
           }
         },
         {
@@ -503,14 +600,18 @@
           "masterId": "akbgroup_akb48_192",
           "name": "永野 芹佳",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=192",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Nagano_Serika",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFFFFF",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
           "birthday": "03-27",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/akb48serika",
+            "instagram": "https://www.instagram.com/iroziro_serika",
+            "tiktok": "https://www.tiktok.com/@serika888"
           }
         },
         {
@@ -518,12 +619,15 @@
           "masterId": "akbgroup_akb48_1105",
           "name": "渡邉 葵心",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1105",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Watanabe_Kiko",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF",
+            "#0000FF"
+          ],
           "birthday": "07-12",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/Kiko_Watanabe07",
             "instagram": null,
             "tiktok": null
           }
@@ -533,12 +637,15 @@
           "masterId": "akbgroup_akb48_1103",
           "name": "牧戸 愛茉",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1103",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Makito_Ema",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF1493",
+            "#FF1493"
+          ],
           "birthday": "05-25",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/Ema_Makito",
             "instagram": null,
             "tiktok": null
           }
@@ -548,12 +655,15 @@
           "masterId": "akbgroup_akb48_1102",
           "name": "田中 沙友利",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1102",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Tanaka_Sayuri",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#7FDFFF",
+            "#9ACD32"
+          ],
           "birthday": "12-09",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/Sayuri_Tanaka09",
             "instagram": null,
             "tiktok": null
           }
@@ -563,14 +673,17 @@
           "masterId": "akbgroup_akb48_1014",
           "name": "田口 愛佳",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1014",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Taguchi_Manaka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#FF0000"
+          ],
           "birthday": "12-12",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/48manaka_16",
+            "instagram": "https://www.instagram.com/t_manaka.12/",
+            "tiktok": "https://www.tiktok.com/@48manaka_16"
           }
         },
         {
@@ -578,14 +691,17 @@
           "masterId": "akbgroup_akb48_1079",
           "name": "畠山 希美",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1079",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Hatakeyama_Nozomi",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#8000FF",
+            "#0000FF"
+          ],
           "birthday": "01-25",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/nonchan_akb48",
+            "instagram": "https://www.instagram.com/Nozomi_akb4817",
+            "tiktok": "https://www.tiktok.com/@nozomi1748"
           }
         },
         {
@@ -593,14 +709,17 @@
           "masterId": "akbgroup_akb48_1096",
           "name": "白鳥 沙怜",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1096",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Shiratori_Sari",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF1493",
+            "#FFFFFF"
+          ],
           "birthday": "09-10",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/sari_shiratori",
+            "instagram": "https://www.instagram.com/sari_shiratori/",
+            "tiktok": "https://www.tiktok.com/@sari.shiratori"
           }
         },
         {
@@ -608,13 +727,16 @@
           "masterId": "akbgroup_akb48_152",
           "name": "福岡 聖菜",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=152",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Fukuoka_Seina",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF",
+            "#FFFFFF"
+          ],
           "birthday": "08-01",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://x.com/seina_fuku48",
+            "instagram": "https://www.instagram.com/seina___ff/",
             "tiktok": null
           }
         },
@@ -623,14 +745,17 @@
           "masterId": "akbgroup_akb48_1085",
           "name": "秋山 由奈",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1085",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Akiyama_Yuna",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#7FDFFF",
+            "#7FDFFF"
+          ],
           "birthday": "12-12",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/yunachan_akb48",
             "instagram": null,
-            "tiktok": null
+            "tiktok": "https://www.tiktok.com/@yuna_akb48"
           }
         },
         {
@@ -638,14 +763,17 @@
           "masterId": "akbgroup_akb48_1097",
           "name": "花田 藍衣",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1097",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Hanada_Mei",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD700",
+            "#FFFFFF"
+          ],
           "birthday": "06-05",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/mei_hanada",
+            "instagram": "https://www.instagram.com/mei_hanada/",
+            "tiktok": "https://www.tiktok.com/@meimei_akb48"
           }
         },
         {
@@ -653,13 +781,16 @@
           "masterId": "akbgroup_akb48_204",
           "name": "行天 優莉奈",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=204",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Gyoten_Yurina",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4",
+            "#FF69B4"
+          ],
           "birthday": "03-14",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://x.com/tenten_yurina",
+            "instagram": "https://www.instagram.com/Yurina.0314",
             "tiktok": null
           }
         },
@@ -668,12 +799,15 @@
           "masterId": "akbgroup_akb48_1099",
           "name": "近藤 沙樹",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1099",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kondo_Saki",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF8C00",
+            "#00A651"
+          ],
           "birthday": "02-23",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/Saki_kondo0223",
             "instagram": null,
             "tiktok": null
           }
@@ -683,14 +817,17 @@
           "masterId": "akbgroup_akb48_1089",
           "name": "迫 由芽実",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1089",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sako_Yumemi",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFFFFF",
+            "#7FDFFF"
+          ],
           "birthday": "02-05",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/yumemi_sako0205",
             "instagram": null,
-            "tiktok": null
+            "tiktok": "https://www.tiktok.com/@yumemi_sako0205"
           }
         },
         {
@@ -698,14 +835,17 @@
           "masterId": "akbgroup_akb48_1013",
           "name": "鈴木 くるみ",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1013",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Suzuki_Kurumi",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#8000FF",
+            "#FFFFFF"
+          ],
           "birthday": "09-02",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/akb48kururun",
+            "instagram": "https://www.instagram.com/kurumi_akb48/",
+            "tiktok": "https://www.tiktok.com/@akb48kururun"
           }
         },
         {
@@ -713,14 +853,17 @@
           "masterId": "akbgroup_akb48_1016",
           "name": "長友 彩海",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1016",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Nagatomo_Ayami",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD700",
+            "#7FDFFF"
+          ],
           "birthday": "11-02",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/ayamin_112",
+            "instagram": "https://www.instagram.com/ayami.n_48/",
+            "tiktok": "https://www.tiktok.com/@ayami_48"
           }
         },
         {
@@ -728,14 +871,17 @@
           "masterId": "akbgroup_akb48_178",
           "name": "髙橋 彩音",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=178",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Takahashi_Ayane",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#7FDFFF",
+            "#FF0000"
+          ],
           "birthday": "12-30",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/__ayn1230__",
+            "instagram": "https://www.instagram.com/aayyaannee811",
+            "tiktok": "https://www.tiktok.com/@takahashi_ayane"
           }
         },
         {
@@ -743,12 +889,15 @@
           "masterId": "akbgroup_akb48_1101",
           "name": "髙橋 舞桜",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1101",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Takahashi_Mao",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#8000FF",
+            "#8000FF"
+          ],
           "birthday": "06-25",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/Mao_Takahashi25",
             "instagram": null,
             "tiktok": null
           }
@@ -758,14 +907,16 @@
           "masterId": "akbgroup_akb48_1010",
           "name": "黒須 遥香",
           "profileURL": "https://www.akb48.co.jp/about/members/detail?mid=1010",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kurosu_Haruka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD700"
+          ],
           "birthday": "02-28",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/kurooosu_48_16",
+            "instagram": "https://www.instagram.com/hachan_haruka/",
+            "tiktok": "https://www.tiktok.com/@haachan_xxx"
           }
         }
       ]
@@ -785,32 +936,20 @@
       "timeTreeURL": null,
       "members": [
         {
-          "uuid": "1DF946A9-9E74-572A-9D21-C50A931AF8EB",
-          "masterId": "akbgroup_ske48_aoumi_hinano",
-          "name": "メンバー名",
-          "profileURL": "https://ske48.co.jp/feature/aoumi_hinano",
-          "imageSourceURL": null,
-          "isGraduated": false,
-          "colorHex": null,
-          "birthday": "11-02",
-          "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
-          }
-        },
-        {
           "uuid": "2DC9D7BD-FCA7-5C8F-8C92-608A0D795591",
           "masterId": "akbgroup_ske48_nakasaka_miyu",
           "name": "中坂美祐",
           "profileURL": "https://ske48.co.jp/feature/nakasaka_miyu",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Nakasaka_Miyu",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF8C00",
+            "#00A651"
+          ],
           "birthday": "06-11",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://twitter.com/nakachan_0611",
+            "instagram": "https://www.instagram.com/nakachan_0611/",
             "tiktok": null
           }
         },
@@ -819,9 +958,13 @@
           "masterId": "akbgroup_ske48_rei_kubota",
           "name": "久保田怜",
           "profileURL": "https://ske48.co.jp/feature/rei_kubota",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kubota_Rei",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF",
+            "#FFD700",
+            "#FF69B4"
+          ],
           "birthday": "11-23",
           "sns": {
             "twitter": null,
@@ -834,13 +977,16 @@
           "masterId": "akbgroup_ske48_inoue_ruka",
           "name": "井上瑠夏",
           "profileURL": "https://ske48.co.jp/feature/inoue_ruka",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Inoue_Ruka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4",
+            "#FF69B4"
+          ],
           "birthday": "06-12",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://twitter.com/Inoueruka_48",
+            "instagram": "https://www.instagram.com/ruka_inoue48/",
             "tiktok": null
           }
         },
@@ -849,14 +995,18 @@
           "masterId": "akbgroup_ske48_reona_ida",
           "name": "井田玲音名",
           "profileURL": "https://ske48.co.jp/feature/reona_ida",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ida_Reona",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4",
+            "#FFD700",
+            "#7FDFFF"
+          ],
           "birthday": "12-03",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://twitter.com/reona_ske48",
+            "instagram": "https://www.instagram.com/reona_ske48/",
+            "tiktok": "https://www.tiktok.com/@ske48.teame.official?"
           }
         },
         {
@@ -864,14 +1014,16 @@
           "masterId": "akbgroup_ske48_ito_miki",
           "name": "伊藤実希",
           "profileURL": "https://ske48.co.jp/feature/ito_miki",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ito_Miki",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#8000FF"
+          ],
           "birthday": "08-11",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://twitter.com/mikitiyan_811",
+            "instagram": "https://www.instagram.com/mikitiyan_811/",
+            "tiktok": "https://www.tiktok.com/@ske48.teamk2.official?"
           }
         },
         {
@@ -879,14 +1031,18 @@
           "masterId": "akbgroup_ske48_kokomi_ito",
           "name": "伊藤虹々美",
           "profileURL": "https://ske48.co.jp/feature/kokomi_ito",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ito_Kokomi",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF",
+            "#0000FF",
+            "#00A651"
+          ],
           "birthday": "12-08",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/kokomi__553",
+            "instagram": "https://www.instagram.com/110_2424/",
+            "tiktok": "https://www.tiktok.com/@110_553"
           }
         },
         {
@@ -894,9 +1050,13 @@
           "masterId": "akbgroup_ske48_nozomi_sasaki",
           "name": "佐々木希美",
           "profileURL": "https://ske48.co.jp/feature/nozomi_sasaki",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sasaki_Nozomi",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#FFD700",
+            "#FF69B4"
+          ],
           "birthday": "10-19",
           "sns": {
             "twitter": null,
@@ -909,14 +1069,17 @@
           "masterId": "akbgroup_ske48_sato_kaho",
           "name": "佐藤佳穂",
           "profileURL": "https://ske48.co.jp/feature/sato_kaho",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sato_Kaho",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD700",
+            "#FF8C00"
+          ],
           "birthday": "05-16",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://twitter.com/BCNOkaho",
+            "instagram": "https://www.instagram.com/biosato_3/",
+            "tiktok": "https://www.tiktok.com/@bcnokaho"
           }
         },
         {
@@ -924,14 +1087,17 @@
           "masterId": "akbgroup_ske48_kurashima_ami",
           "name": "倉島杏実",
           "profileURL": "https://ske48.co.jp/feature/kurashima_ami",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kurashima_Ami",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD700",
+            "#FFFFFF"
+          ],
           "birthday": "06-28",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://twitter.com/ANZUNOMI_SKE",
+            "instagram": "https://www.instagram.com/anzunomi_ske/",
+            "tiktok": "https://www.tiktok.com/@anzunomi00"
           }
         },
         {
@@ -939,14 +1105,17 @@
           "masterId": "akbgroup_ske48_hana_kuramoto",
           "name": "倉本羽菜",
           "profileURL": "https://ske48.co.jp/feature/hana_kuramoto",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kuramoto_Hana",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD700",
+            "#9ACD32"
+          ],
           "birthday": "09-13",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/87nan913_",
+            "instagram": "https://www.instagram.com/87nan.913_",
+            "tiktok": "https://www.tiktok.com/@87nan.48_"
           }
         },
         {
@@ -954,14 +1123,18 @@
           "masterId": "akbgroup_ske48_iriuchijima_sayaka",
           "name": "入内嶋涼",
           "profileURL": "https://ske48.co.jp/feature/iriuchijima_sayaka",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Iriuchijima_Sayaka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFFFFF",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
           "birthday": "05-13",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://twitter.com/__38hpy",
+            "instagram": "https://www.instagram.com/__38hpy/",
+            "tiktok": "https://www.tiktok.com/@__38s2x"
           }
         },
         {
@@ -969,13 +1142,16 @@
           "masterId": "akbgroup_ske48_kitagawa_yoshino",
           "name": "北川愛乃",
           "profileURL": "https://ske48.co.jp/feature/kitagawa_yoshino",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kitagawa_Yoshino",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#7FDFFF",
+            "#FF69B4"
+          ],
           "birthday": "01-24",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://twitter.com/kitagawa_yosino",
+            "instagram": "https://www.instagram.com/kitagawayoshino/",
             "tiktok": null
           }
         },
@@ -984,14 +1160,18 @@
           "masterId": "akbgroup_ske48_coco_minamisawa",
           "name": "南澤恋々",
           "profileURL": "https://ske48.co.jp/feature/coco_minamisawa",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Minamisawa_Coco",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF1493",
+            "#FFB6C1",
+            "#FF1493"
+          ],
           "birthday": "10-26",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/coco_ske48",
+            "instagram": "https://www.instagram.com/coco_ske48",
+            "tiktok": "https://www.tiktok.com/@minamisawa_coco48"
           }
         },
         {
@@ -999,14 +1179,17 @@
           "masterId": "akbgroup_ske48_hara_yune",
           "name": "原優寧",
           "profileURL": "https://ske48.co.jp/feature/hara_yune",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Hara_Yune",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#FFFFFF"
+          ],
           "birthday": "11-23",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/yune_hara",
+            "instagram": "https://www.instagram.com/yune_hara/",
+            "tiktok": "https://www.tiktok.com/@yune_ske48"
           }
         },
         {
@@ -1014,14 +1197,17 @@
           "masterId": "akbgroup_ske48_sakamoto_marin",
           "name": "坂本真凛",
           "profileURL": "https://ske48.co.jp/feature/sakamoto_marin",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sakamoto_Marin",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF",
+            "#7FDFFF"
+          ],
           "birthday": "02-02",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://twitter.com/marin_ske48",
+            "instagram": "https://www.instagram.com/marin_ske48/",
+            "tiktok": "https://www.tiktok.com/@marin_ske48"
           }
         },
         {
@@ -1029,14 +1215,18 @@
           "masterId": "akbgroup_ske48_omura_anzu",
           "name": "大村杏",
           "profileURL": "https://ske48.co.jp/feature/omura_anzu",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Omura_Anzu",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#8000FF",
+            "#8000FF",
+            "#8000FF"
+          ],
           "birthday": "09-20",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/omura_anzu_",
+            "instagram": "https://www.instagram.com/azaz__920/",
+            "tiktok": "https://www.tiktok.com/@azzzzchan"
           }
         },
         {
@@ -1044,14 +1234,18 @@
           "masterId": "akbgroup_ske48_ota_ayaka",
           "name": "太田彩夏",
           "profileURL": "https://ske48.co.jp/feature/ota_ayaka",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ota_Ayaka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#FF8C00",
+            "#FFD700"
+          ],
           "birthday": "08-17",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://twitter.com/Ayamelody0817",
+            "instagram": "https://www.instagram.com/ayamelody0817/",
+            "tiktok": "https://www.tiktok.com/@ske48.teamk2.official?"
           }
         },
         {
@@ -1059,14 +1253,17 @@
           "masterId": "akbgroup_ske48_manae_ota",
           "name": "太田愛恵",
           "profileURL": "https://ske48.co.jp/feature/manae_ota",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ota_Manae",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#8000FF",
+            "#FFD700"
+          ],
           "birthday": "12-16",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/otama__1216",
+            "instagram": "https://www.instagram.com/ota.ma__1216",
+            "tiktok": "http://tiktok.com/@ota.ma__1216"
           }
         },
         {
@@ -1074,14 +1271,17 @@
           "masterId": "akbgroup_ske48_kokoha_okuno",
           "name": "奥野心羽",
           "profileURL": "https://ske48.co.jp/feature/kokoha_okuno",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Okuno_Kokoha",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF",
+            "#FFD700"
+          ],
           "birthday": "02-20",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/558_omochi",
+            "instagram": "https://www.instagram.com/558_panda/",
+            "tiktok": "https://www.tiktok.com/@panda_omochi"
           }
         },
         {
@@ -1089,9 +1289,13 @@
           "masterId": "akbgroup_ske48_rinka_miyamoto",
           "name": "宮本倫花",
           "profileURL": "https://ske48.co.jp/feature/rinka_miyamoto",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Miyamoto_Rinka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#00A651",
+            "#FFFFFF"
+          ],
           "birthday": "09-10",
           "sns": {
             "twitter": null,
@@ -1104,14 +1308,17 @@
           "masterId": "akbgroup_ske48_yamamura_sakura",
           "name": "山村さくら",
           "profileURL": "https://ske48.co.jp/feature/yamamura_sakura",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yamamura_Sakura",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4",
+            "#9ACD32"
+          ],
           "birthday": "09-20",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/ske48_sakura",
+            "instagram": "https://www.instagram.com/ske48_sakura/",
+            "tiktok": "https://www.tiktok.com/@sakraske"
           }
         },
         {
@@ -1119,9 +1326,11 @@
           "masterId": "akbgroup_ske48_syoko_kuwamura",
           "name": "川村昇子",
           "profileURL": "https://ske48.co.jp/feature/syoko_kuwamura",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kawamura_Shoko",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF"
+          ],
           "birthday": "09-15",
           "sns": {
             "twitter": null,
@@ -1134,14 +1343,18 @@
           "masterId": "akbgroup_ske48_sugimoto_riina",
           "name": "杉本りいな",
           "profileURL": "https://ske48.co.jp/feature/sugimoto_riina",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sugimoto_Riina",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#FF69B4",
+            "#FFFFFF"
+          ],
           "birthday": "09-20",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/vomriina_920",
+            "instagram": "https://www.instagram.com/vomriina_920/",
+            "tiktok": "https://www.tiktok.com/@vomriina_920"
           }
         },
         {
@@ -1149,14 +1362,18 @@
           "masterId": "akbgroup_ske48_miyu_matsukawa",
           "name": "松川みゆ",
           "profileURL": "https://ske48.co.jp/feature/miyu_matsukawa",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Matsukawa_Miyu",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#FF69B4",
+            "#7FDFFF"
+          ],
           "birthday": "04-15",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/miyu415_miitan",
+            "instagram": "https://www.instagram.com/miyu415_miitan/",
+            "tiktok": "https://www.tiktok.com/@miyu415_miitan"
           }
         },
         {
@@ -1164,14 +1381,17 @@
           "masterId": "akbgroup_ske48_matsumoto_chikako",
           "name": "松本慈子",
           "profileURL": "https://ske48.co.jp/feature/matsumoto_chikako",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Matsumoto_Chikako",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#7FDFFF"
+          ],
           "birthday": "11-19",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://twitter.com/chikako_1119",
+            "instagram": "https://www.instagram.com/chikako_1119/",
+            "tiktok": "https://www.tiktok.com/@chikako1119"
           }
         },
         {
@@ -1179,13 +1399,17 @@
           "masterId": "akbgroup_ske48_tsubaki_kuwahara",
           "name": "桒原椿",
           "profileURL": "https://ske48.co.jp/feature/tsubaki_kuwahara",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kuwahara_Tsubaki",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD700",
+            "#FFD700",
+            "#FFD700"
+          ],
           "birthday": "02-25",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://x.com/tsubaki_225_",
+            "instagram": "https://www.instagram.com/tsubaki_225_",
             "tiktok": null
           }
         },
@@ -1194,9 +1418,11 @@
           "masterId": "akbgroup_ske48_sakurai_arisa",
           "name": "桜井愛莉咲",
           "profileURL": "https://ske48.co.jp/feature/sakurai_arisa",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sakurai_Arisa",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFFFFF"
+          ],
           "birthday": "11-07",
           "sns": {
             "twitter": null,
@@ -1209,14 +1435,16 @@
           "masterId": "akbgroup_ske48_morimoto_kurumi",
           "name": "森本くるみ",
           "profileURL": "https://ske48.co.jp/feature/morimoto_kurumi",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Morimoto_Kurumi",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#00A651"
+          ],
           "birthday": "09-03",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/kurumi_ske48_",
+            "instagram": "https://www.instagram.com/kurumi_ske48/",
+            "tiktok": "https://www.tiktok.com/@kurumi.0903"
           }
         },
         {
@@ -1224,9 +1452,13 @@
           "masterId": "akbgroup_ske48_shiho_yokoi",
           "name": "横井志穂",
           "profileURL": "https://ske48.co.jp/feature/shiho_yokoi",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yokoi_Shiho",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#00A651",
+            "#FF8C00",
+            "#FFFFFF"
+          ],
           "birthday": "11-08",
           "sns": {
             "twitter": null,
@@ -1239,14 +1471,17 @@
           "masterId": "akbgroup_ske48_ikeda_kaede",
           "name": "池田楓",
           "profileURL": "https://ske48.co.jp/feature/ikeda_kaede",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ikeda_Kaede",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#00A651"
+          ],
           "birthday": "07-05",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/kaede__75",
+            "instagram": "https://www.instagram.com/kaede__75/",
+            "tiktok": "https://www.tiktok.com/@maple__75"
           }
         },
         {
@@ -1254,14 +1489,18 @@
           "masterId": "akbgroup_ske48_yua_kawamura",
           "name": "河村優愛",
           "profileURL": "https://ske48.co.jp/feature/yua_kawamura",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kawamura_Yua",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4",
+            "#FF0000",
+            "#8000FF"
+          ],
           "birthday": "01-31",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/yuanyann_0131",
+            "instagram": "https://www.instagram.com/_3l.xzq/",
+            "tiktok": "https://www.tiktok.com/@yuanyann_official"
           }
         },
         {
@@ -1269,14 +1508,16 @@
           "masterId": "akbgroup_ske48_asai_yuka",
           "name": "浅井裕華",
           "profileURL": "https://ske48.co.jp/feature/asai_yuka",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Asai_Yuka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4"
+          ],
           "birthday": "11-10",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://twitter.com/ske48_yuka",
+            "instagram": "https://www.instagram.com/yuka1110_/",
+            "tiktok": "https://www.tiktok.com/@yuka1110_"
           }
         },
         {
@@ -1284,14 +1525,17 @@
           "masterId": "akbgroup_ske48_haruka_kumazaki",
           "name": "熊崎晴香",
           "profileURL": "https://ske48.co.jp/feature/haruka_kumazaki",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kumazaki_Haruka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#8000FF"
+          ],
           "birthday": "08-10",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://twitter.com/kumachan9810",
+            "instagram": "https://www.instagram.com/kumakuma9810/",
+            "tiktok": "https://www.tiktok.com/@kuma_yan"
           }
         },
         {
@@ -1299,9 +1543,13 @@
           "masterId": "akbgroup_ske48_mayu_tamura",
           "name": "田村真悠",
           "profileURL": "https://ske48.co.jp/feature/mayu_tamura",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Tamura_Mayu_(SKE48)",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF8C00",
+            "#FF8C00",
+            "#FF8C00"
+          ],
           "birthday": "09-18",
           "sns": {
             "twitter": null,
@@ -1314,14 +1562,17 @@
           "masterId": "akbgroup_ske48_aikawa_honoka",
           "name": "相川暖花",
           "profileURL": "https://ske48.co.jp/feature/aikawa_honoka",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Aikawa_Honoka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#7FDFFF",
+            "#FF8C00"
+          ],
           "birthday": "10-22",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://twitter.com/honoka_ske48",
+            "instagram": "https://www.instagram.com/aikw_honoka/",
+            "tiktok": "https://www.tiktok.com/@aikawa_honoka"
           }
         },
         {
@@ -1329,14 +1580,17 @@
           "masterId": "akbgroup_ske48_ishiguro_yuzuki",
           "name": "石黒友月",
           "profileURL": "https://ske48.co.jp/feature/ishiguro_yuzuki",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ishiguro_Yuzuki",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#FFD700"
+          ],
           "birthday": "10-11",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://twitter.com/Yuzuki_ishiguro",
+            "instagram": "https://www.instagram.com/yuduyu1011/",
+            "tiktok": "https://www.tiktok.com/@yuzuki_ishiguro"
           }
         },
         {
@@ -1344,9 +1598,13 @@
           "masterId": "akbgroup_ske48_koharu_fukuhara",
           "name": "福原心春",
           "profileURL": "https://ske48.co.jp/feature/koharu_fukuhara",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Fukuhara_Koharu",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4",
+            "#FF8C00",
+            "#FFFFFF"
+          ],
           "birthday": "01-07",
           "sns": {
             "twitter": null,
@@ -1359,9 +1617,13 @@
           "masterId": "akbgroup_ske48_ayame_tachibana",
           "name": "立花菖",
           "profileURL": "https://ske48.co.jp/feature/ayame_tachibana",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Tachibana_Ayame",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4",
+            "#8000FF",
+            "#7FDFFF"
+          ],
           "birthday": "06-24",
           "sns": {
             "twitter": null,
@@ -1374,14 +1636,16 @@
           "masterId": "akbgroup_ske48_shinohara_kyoka",
           "name": "篠原京香",
           "profileURL": "https://ske48.co.jp/feature/shinohara_kyoka",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Shinohara_Kyoka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#7FDFFF"
+          ],
           "birthday": "06-03",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/kyoka_shinohara",
+            "instagram": "https://www.instagram.com/kyoka_shinohara_/",
+            "tiktok": "https://www.tiktok.com/@kyoka_shinohara"
           }
         },
         {
@@ -1389,9 +1653,13 @@
           "masterId": "akbgroup_ske48_haruka_hijiri",
           "name": "聖遥花",
           "profileURL": "https://ske48.co.jp/feature/haruka_hijiri",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Hijiri_Haruka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#7FDFFF",
+            "#7FDFFF",
+            "#7FDFFF"
+          ],
           "birthday": "02-04",
           "sns": {
             "twitter": null,
@@ -1404,14 +1672,17 @@
           "masterId": "akbgroup_ske48_arano_himeka",
           "name": "荒野姫楓",
           "profileURL": "https://ske48.co.jp/feature/arano_himeka",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Arano_Himeka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#7FDFFF",
+            "#FFFFFF"
+          ],
           "birthday": "01-09",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://twitter.com/_arnhmk_",
+            "instagram": "https://www.instagram.com/_arnhmk_/",
+            "tiktok": "https://www.tiktok.com/@_arnhmk_"
           }
         },
         {
@@ -1419,14 +1690,17 @@
           "masterId": "akbgroup_ske48_nishii_mio",
           "name": "西井美桜",
           "profileURL": "https://ske48.co.jp/feature/nishii_mio",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Nishii_Mio",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#00A651",
+            "#9ACD32"
+          ],
           "birthday": "03-16",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://twitter.com/_mio0316_",
+            "instagram": "https://www.instagram.com/_mio0316_/",
+            "tiktok": "https://www.tiktok.com/@_mio0316_"
           }
         },
         {
@@ -1434,13 +1708,16 @@
           "masterId": "akbgroup_ske48_akahori_kimie",
           "name": "赤堀君江",
           "profileURL": "https://ske48.co.jp/feature/akahori_kimie",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Akahori_Kimie",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#7FDFFF",
+            "#8000FF"
+          ],
           "birthday": "01-21",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://twitter.com/knyam0",
+            "instagram": "https://www.instagram.com/knyam0/",
             "tiktok": null
           }
         },
@@ -1449,14 +1726,18 @@
           "masterId": "akbgroup_ske48_mikoto_kondo",
           "name": "近藤海琴",
           "profileURL": "https://ske48.co.jp/feature/mikoto_kondo",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kondo_Mikoto",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#7FDFFF",
+            "#FFD700",
+            "#FFFFFF"
+          ],
           "birthday": "11-25",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/miiko_ske48",
+            "instagram": "https://www.instagram.com/miiko_ske48",
+            "tiktok": "https://www.tiktok.com/@miiko.ske48"
           }
         },
         {
@@ -1464,14 +1745,16 @@
           "masterId": "akbgroup_ske48_nomura_miyo",
           "name": "野村実代",
           "profileURL": "https://ske48.co.jp/feature/nomura_miyo",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Nomura_Miyo",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000"
+          ],
           "birthday": "02-01",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://twitter.com/MIYOMARUKO",
+            "instagram": "https://www.instagram.com/miyomaruko_0201/",
+            "tiktok": "https://www.tiktok.com/@miyomaruko"
           }
         },
         {
@@ -1479,14 +1762,17 @@
           "masterId": "akbgroup_ske48_suzuki_kokona",
           "name": "鈴木恋奈",
           "profileURL": "https://ske48.co.jp/feature/suzuki_kokona",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Suzuki_Kokona",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4",
+            "#8000FF"
+          ],
           "birthday": "12-28",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://twitter.com/kokochan_1228",
+            "instagram": "https://www.instagram.com/kokona_1228_/",
+            "tiktok": "https://www.tiktok.com/@ske48.teame.official?"
           }
         },
         {
@@ -1494,14 +1780,17 @@
           "masterId": "akbgroup_ske48_suzuki_ena",
           "name": "鈴木愛菜",
           "profileURL": "https://ske48.co.jp/feature/suzuki_ena",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Suzuki_Ena",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#FF69B4"
+          ],
           "birthday": "01-09",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://twitter.com/_enatan0109_",
+            "instagram": "https://www.instagram.com/_enatan0109_/",
+            "tiktok": "https://www.tiktok.com/@ske48.teamk2.official?"
           }
         },
         {
@@ -1509,14 +1798,18 @@
           "masterId": "akbgroup_ske48_natsuki_kamata",
           "name": "鎌田菜月",
           "profileURL": "https://ske48.co.jp/feature/natsuki_kamata",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kamata_Natsuki",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFFFFF",
+            "#8000FF",
+            "#FFFFFF"
+          ],
           "birthday": "08-29",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://twitter.com/nacky_k829",
+            "instagram": "https://www.instagram.com/nacky_k829/",
+            "tiktok": "https://www.tiktok.com/@ske48.teame.official?"
           }
         },
         {
@@ -1524,14 +1817,18 @@
           "masterId": "akbgroup_ske48_miyabi_hasegawa",
           "name": "長谷川雅",
           "profileURL": "https://ske48.co.jp/feature/miyabi_hasegawa",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Hasegawa_Miyabi",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4",
+            "#7FDFFF",
+            "#FFFFFF"
+          ],
           "birthday": "11-20",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/mii_chan1120",
+            "instagram": "https://www.instagram.com/mii_channnn1120",
+            "tiktok": "https://www.tiktok.com/@mii_beeem20"
           }
         },
         {
@@ -1539,14 +1836,18 @@
           "masterId": "akbgroup_ske48_sana_kumoi",
           "name": "雲井紗菜",
           "profileURL": "https://ske48.co.jp/feature/sana_kumoi",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kumoi_Sana",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
           "birthday": "11-27",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/sana_kumoi",
+            "instagram": "https://www.instagram.com/sana_kumoi/",
+            "tiktok": "https://www.tiktok.com/@sanyan_48"
           }
         },
         {
@@ -1554,14 +1855,17 @@
           "masterId": "akbgroup_ske48_aoki_rika",
           "name": "青木莉樺",
           "profileURL": "https://ske48.co.jp/feature/aoki_rika",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Aoki_Rika",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF",
+            "#FFFFFF"
+          ],
           "birthday": "09-02",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://twitter.com/rikaoki__92",
+            "instagram": "https://www.instagram.com/rikaoki__92/",
+            "tiktok": "https://www.tiktok.com/@rikaoki__92"
           }
         },
         {
@@ -1569,9 +1873,13 @@
           "masterId": "akbgroup_ske48_saya_takamura",
           "name": "高村紗弥",
           "profileURL": "https://ske48.co.jp/feature/saya_takamura",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Takamura_Saya",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF",
+            "#8000FF",
+            "#FFFFFF"
+          ],
           "birthday": "07-04",
           "sns": {
             "twitter": null,
@@ -1600,9 +1908,12 @@
           "masterId": "akbgroup_nmb48_mikamo_kurumi",
           "name": "三鴨 くるみ",
           "profileURL": "https://spn.nmb48.com/feature/member_mikamo_kurumi",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Mikamo_Kurumi",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#8000FF"
+          ],
           "birthday": "10-31",
           "sns": {
             "twitter": null,
@@ -1615,9 +1926,12 @@
           "masterId": "akbgroup_nmb48_nakagawa_tomoka",
           "name": "中川 朋香",
           "profileURL": "https://spn.nmb48.com/feature/member_nakagawa_tomoka",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Nakagawa_Tomoka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF8C00",
+            "#FFD700"
+          ],
           "birthday": "01-02",
           "sns": {
             "twitter": null,
@@ -1630,9 +1944,12 @@
           "masterId": "akbgroup_nmb48_uchida_aisha",
           "name": "内田 愛彩",
           "profileURL": "https://spn.nmb48.com/feature/member_uchida_aisha",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Uchida_Aisha",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#FFFFFF"
+          ],
           "birthday": "06-12",
           "sns": {
             "twitter": null,
@@ -1645,9 +1962,12 @@
           "masterId": "akbgroup_nmb48_yoshimi_ayane",
           "name": "吉見 純音",
           "profileURL": "https://spn.nmb48.com/feature/member_yoshimi_ayane",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yoshimi_Ayane",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF1493",
+            "#0000FF"
+          ],
           "birthday": "10-18",
           "sns": {
             "twitter": null,
@@ -1660,9 +1980,12 @@
           "masterId": "akbgroup_nmb48_wada_kotone",
           "name": "和田 承子",
           "profileURL": "https://spn.nmb48.com/feature/member_wada_kotone",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Wada_Kotone",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#7FDFFF",
+            "#7FDFFF"
+          ],
           "birthday": "09-29",
           "sns": {
             "twitter": null,
@@ -1675,9 +1998,12 @@
           "masterId": "akbgroup_nmb48_zenke_yurika",
           "name": "善家 侑莉花",
           "profileURL": "https://spn.nmb48.com/feature/member_zenke_yurika",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Zenke_Yurika",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#00A651",
+            "#8000FF"
+          ],
           "birthday": "12-09",
           "sns": {
             "twitter": null,
@@ -1690,9 +2016,12 @@
           "masterId": "akbgroup_nmb48_sakashita_mako",
           "name": "坂下 真心",
           "profileURL": "https://spn.nmb48.com/feature/member_sakashita_mako",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sakashita_Mako",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF",
+            "#0000FF"
+          ],
           "birthday": "08-02",
           "sns": {
             "twitter": null,
@@ -1705,9 +2034,12 @@
           "masterId": "akbgroup_nmb48_sakamoto_risa",
           "name": "坂本 理紗",
           "profileURL": "https://spn.nmb48.com/feature/member_sakamoto_risa",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sakamoto_Risa",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#7FDFFF",
+            "#9ACD32"
+          ],
           "birthday": "12-24",
           "sns": {
             "twitter": null,
@@ -1720,9 +2052,12 @@
           "masterId": "akbgroup_nmb48_sakata_misaki",
           "name": "坂田 心咲",
           "profileURL": "https://spn.nmb48.com/feature/member_sakata_misaki",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sakata_Misaki",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4",
+            "#FFB6C1"
+          ],
           "birthday": "11-08",
           "sns": {
             "twitter": null,
@@ -1735,9 +2070,12 @@
           "masterId": "akbgroup_nmb48_shiotsuki_keito",
           "name": "塩月 希依音",
           "profileURL": "https://spn.nmb48.com/feature/member_shiotsuki_keito",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Shiotsuki_Keito",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#8000FF",
+            "#FF69B4"
+          ],
           "birthday": "12-15",
           "sns": {
             "twitter": null,
@@ -1750,9 +2088,12 @@
           "masterId": "akbgroup_nmb48_abe_wakana",
           "name": "安部 若菜",
           "profileURL": "https://spn.nmb48.com/feature/member_abe_wakana",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Abe_Wakana",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
           "birthday": "07-18",
           "sns": {
             "twitter": null,
@@ -1765,9 +2106,12 @@
           "masterId": "akbgroup_nmb48_miyahara_konon",
           "name": "宮原 心音",
           "profileURL": "https://spn.nmb48.com/feature/member_miyahara_konon",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Miyahara_Konon",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#FF0000"
+          ],
           "birthday": "04-19",
           "sns": {
             "twitter": null,
@@ -1780,9 +2124,12 @@
           "masterId": "akbgroup_nmb48_miyazaki_sae",
           "name": "宮崎 紗衣",
           "profileURL": "https://spn.nmb48.com/feature/member_miyazaki_sae",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Miyazaki_Sae",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF8C00",
+            "#FF8C00"
+          ],
           "birthday": "12-29",
           "sns": {
             "twitter": null,
@@ -1795,9 +2142,12 @@
           "masterId": "akbgroup_nmb48_miyamoto_ami",
           "name": "宮本 杏海",
           "profileURL": "https://spn.nmb48.com/feature/member_miyamoto_ami",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Miyamoto_Ami",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF1493",
+            "#FFFFFF"
+          ],
           "birthday": "07-01",
           "sns": {
             "twitter": null,
@@ -1810,9 +2160,12 @@
           "masterId": "akbgroup_nmb48_yamaguchi_mio",
           "name": "山口 美桜",
           "profileURL": "https://spn.nmb48.com/feature/member_yamaguchi_mio",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yamaguchi_Mio",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFB6C1",
+            "#90EE90"
+          ],
           "birthday": "09-27",
           "sns": {
             "twitter": null,
@@ -1825,9 +2178,12 @@
           "masterId": "akbgroup_nmb48_okagoshi_seira",
           "name": "岡腰 星来",
           "profileURL": "https://spn.nmb48.com/feature/member_okagoshi_seira",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Okagoshi_Seira",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#00A651",
+            "#0000FF"
+          ],
           "birthday": "11-10",
           "sns": {
             "twitter": null,
@@ -1840,9 +2196,12 @@
           "masterId": "akbgroup_nmb48_hirayama_mai",
           "name": "平山 真衣",
           "profileURL": "https://spn.nmb48.com/feature/member_hirayama_mai",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Hirayama_Mai",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF",
+            "#FF0000"
+          ],
           "birthday": "11-16",
           "sns": {
             "twitter": null,
@@ -1855,9 +2214,12 @@
           "masterId": "akbgroup_nmb48_shinzawa_nao",
           "name": "新澤 菜央",
           "profileURL": "https://spn.nmb48.com/feature/member_shinzawa_nao",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Shinzawa_Nao",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF1493",
+            "#FF1493"
+          ],
           "birthday": "08-02",
           "sns": {
             "twitter": null,
@@ -1870,9 +2232,12 @@
           "masterId": "akbgroup_nmb48_kine_iroha",
           "name": "木根 彩呂花",
           "profileURL": "https://spn.nmb48.com/feature/member_kine_iroha",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kine_Iroha",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFB6C1",
+            "#FFB6C1"
+          ],
           "birthday": "10-25",
           "sns": {
             "twitter": null,
@@ -1885,9 +2250,12 @@
           "masterId": "akbgroup_nmb48_murai_yuuri",
           "name": "村井 悠莉",
           "profileURL": "https://spn.nmb48.com/feature/member_murai_yuuri",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Murai_Yuri",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#8000FF",
+            "#FFFFFF"
+          ],
           "birthday": "03-05",
           "sns": {
             "twitter": null,
@@ -1900,9 +2268,12 @@
           "masterId": "akbgroup_nmb48_matsuoka_sakura",
           "name": "松岡 さくら",
           "profileURL": "https://spn.nmb48.com/feature/member_matsuoka_sakura",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Matsuoka_Sakura",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFB6C1",
+            "#FFD700"
+          ],
           "birthday": "06-24",
           "sns": {
             "twitter": null,
@@ -1915,9 +2286,12 @@
           "masterId": "akbgroup_nmb48_matsumoto_mihina",
           "name": "松本 海日菜",
           "profileURL": "https://spn.nmb48.com/feature/member_matsumoto_mihina",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Matsumoto_Mihina",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD700",
+            "#FFD700"
+          ],
           "birthday": "05-22",
           "sns": {
             "twitter": null,
@@ -1930,9 +2304,12 @@
           "masterId": "akbgroup_nmb48_itagaki_koyori",
           "name": "板垣 心和",
           "profileURL": "https://spn.nmb48.com/feature/member_itagaki_koyori",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Itagaki_Koyori",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFB6C1",
+            "#8000FF"
+          ],
           "birthday": "05-23",
           "sns": {
             "twitter": null,
@@ -1945,9 +2322,11 @@
           "masterId": "akbgroup_nmb48_sakurai_himari",
           "name": "桜井 ひまり",
           "profileURL": "https://spn.nmb48.com/feature/member_sakurai_himari",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sakurai_Himari",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD700"
+          ],
           "birthday": "08-02",
           "sns": {
             "twitter": null,
@@ -1960,9 +2339,12 @@
           "masterId": "akbgroup_nmb48_sakurada_ayaka",
           "name": "桜田 彩叶",
           "profileURL": "https://spn.nmb48.com/feature/member_sakurada_ayaka",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sakurada_Ayaka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFB6C1",
+            "#7FDFFF"
+          ],
           "birthday": "03-25",
           "sns": {
             "twitter": null,
@@ -1975,9 +2357,12 @@
           "masterId": "akbgroup_nmb48_ike_honoka",
           "name": "池 帆乃香",
           "profileURL": "https://spn.nmb48.com/feature/member_ike_honoka",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ike_Honoka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#90EE90",
+            "#FFFFFF"
+          ],
           "birthday": "12-16",
           "sns": {
             "twitter": null,
@@ -1990,9 +2375,12 @@
           "masterId": "akbgroup_nmb48_ikeda_tenna",
           "name": "池田 典愛",
           "profileURL": "https://spn.nmb48.com/feature/member_ikeda_tenna",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ikeda_Tenna",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#8000FF",
+            "#0000FF"
+          ],
           "birthday": "10-05",
           "sns": {
             "twitter": null,
@@ -2005,9 +2393,12 @@
           "masterId": "akbgroup_nmb48_izumi_ayano",
           "name": "泉 綾乃",
           "profileURL": "https://spn.nmb48.com/feature/member_izumi_ayano",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Izumi_Ayano",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#00A651",
+            "#FFFFFF"
+          ],
           "birthday": "11-22",
           "sns": {
             "twitter": null,
@@ -2020,9 +2411,12 @@
           "masterId": "akbgroup_nmb48_shibuya_asana",
           "name": "澁谷 愛紗南",
           "profileURL": "https://spn.nmb48.com/feature/member_shibuya_asana",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Shibuya_Asana",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFB6C1",
+            "#FFFFFF"
+          ],
           "birthday": "10-27",
           "sns": {
             "twitter": null,
@@ -2035,9 +2429,12 @@
           "masterId": "akbgroup_nmb48_tanaka_rei",
           "name": "田中 れい",
           "profileURL": "https://spn.nmb48.com/feature/member_tanaka_rei",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Tanaka_Rei",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#FFB6C1"
+          ],
           "birthday": "11-01",
           "sns": {
             "twitter": null,
@@ -2050,9 +2447,12 @@
           "masterId": "akbgroup_nmb48_taniguchi_shino",
           "name": "田中 れい",
           "profileURL": "https://spn.nmb48.com/feature/member_taniguchi_shino",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Tanaka_Rei",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#FFB6C1"
+          ],
           "birthday": "11-15",
           "sns": {
             "twitter": null,
@@ -2065,9 +2465,12 @@
           "masterId": "akbgroup_nmb48_tanaka_miria",
           "name": "田中 ミリア",
           "profileURL": "https://spn.nmb48.com/feature/member_tanaka_miria",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Tanaka_Miria",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF",
+            "#9ACD32"
+          ],
           "birthday": "12-09",
           "sns": {
             "twitter": null,
@@ -2080,9 +2483,12 @@
           "masterId": "akbgroup_nmb48_tanaka_misora",
           "name": "田中 美空",
           "profileURL": "https://spn.nmb48.com/feature/member_tanaka_misora",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Tanaka_Misora",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#8000FF",
+            "#FFD700"
+          ],
           "birthday": "08-24",
           "sns": {
             "twitter": null,
@@ -2095,9 +2501,12 @@
           "masterId": "akbgroup_nmb48_ishiyama_chihiro",
           "name": "石山 千尋",
           "profileURL": "https://spn.nmb48.com/feature/member_ishiyama_chihiro",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ishiyama_Chihiro",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF8C00",
+            "#FF1493"
+          ],
           "birthday": "05-24",
           "sns": {
             "twitter": null,
@@ -2110,9 +2519,11 @@
           "masterId": "akbgroup_nmb48_fukuhara_kotomi",
           "name": "福原 琴美",
           "profileURL": "https://spn.nmb48.com/feature/member_fukuhara_kotomi",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Fukuhara_Kotomi",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFB6C1"
+          ],
           "birthday": "09-26",
           "sns": {
             "twitter": null,
@@ -2125,9 +2536,12 @@
           "masterId": "akbgroup_nmb48_fukuno_ami",
           "name": "福野 杏実",
           "profileURL": "https://spn.nmb48.com/feature/member_fukuno_ami",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Fukuno_Ami",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#7FDFFF"
+          ],
           "birthday": "05-24",
           "sns": {
             "twitter": null,
@@ -2140,9 +2554,12 @@
           "masterId": "akbgroup_nmb48_takeda_kyoka",
           "name": "竹田 京加",
           "profileURL": "https://spn.nmb48.com/feature/member_takeda_kyoka",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Takeda_Kyoka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#00A651",
+            "#FF8C00"
+          ],
           "birthday": "09-13",
           "sns": {
             "twitter": null,
@@ -2155,9 +2572,11 @@
           "masterId": "akbgroup_nmb48_haga_rei",
           "name": "芳賀 礼",
           "profileURL": "https://spn.nmb48.com/feature/member_haga_rei",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Haga_Rei",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF1493"
+          ],
           "birthday": "03-29",
           "sns": {
             "twitter": null,
@@ -2170,9 +2589,12 @@
           "masterId": "akbgroup_nmb48_yabuuchi_hinata",
           "name": "藪内 陽花",
           "profileURL": "https://spn.nmb48.com/feature/member_yabuuchi_hinata",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yabuuchi_Hinata",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#8000FF",
+            "#7FDFFF"
+          ],
           "birthday": "05-20",
           "sns": {
             "twitter": null,
@@ -2185,9 +2607,11 @@
           "masterId": "akbgroup_nmb48_kinugasa_ayami",
           "name": "衣笠 彩実",
           "profileURL": "https://spn.nmb48.com/feature/member_kinugasa_ayami",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kinugasa_Ayami",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFFFFF"
+          ],
           "birthday": "11-03",
           "sns": {
             "twitter": null,
@@ -2200,9 +2624,12 @@
           "masterId": "akbgroup_nmb48_nishi_yuma",
           "name": "西 由真",
           "profileURL": "https://spn.nmb48.com/feature/member_nishi_yuma",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Nishi_Yuma",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#FFD700"
+          ],
           "birthday": "03-25",
           "sns": {
             "twitter": null,
@@ -2215,9 +2642,12 @@
           "masterId": "akbgroup_nmb48_nishizumi_misaki",
           "name": "西住 美咲妃",
           "profileURL": "https://spn.nmb48.com/feature/member_nishizumi_misaki",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Nishizumi_Misaki",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF",
+            "#7FDFFF"
+          ],
           "birthday": "11-27",
           "sns": {
             "twitter": null,
@@ -2230,9 +2660,12 @@
           "masterId": "akbgroup_nmb48_nishijima_rio",
           "name": "西島 梨央",
           "profileURL": "https://spn.nmb48.com/feature/member_nishijima_rio",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Nishijima_Rio",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF",
+            "#FFFFFF"
+          ],
           "birthday": "11-08",
           "sns": {
             "twitter": null,
@@ -2245,9 +2678,12 @@
           "masterId": "akbgroup_nmb48_nishida_honoka",
           "name": "西田 帆花",
           "profileURL": "https://spn.nmb48.com/feature/member_nishida_honoka",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Nishida_Honoka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#00A651",
+            "#00A651"
+          ],
           "birthday": "03-10",
           "sns": {
             "twitter": null,
@@ -2260,9 +2696,12 @@
           "masterId": "akbgroup_nmb48_akamatsu_sora",
           "name": "赤松 昊",
           "profileURL": "https://spn.nmb48.com/feature/member_akamatsu_sora",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Akamatsu_Sora",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF1493",
+            "#8000FF"
+          ],
           "birthday": "04-15",
           "sns": {
             "twitter": null,
@@ -2275,9 +2714,12 @@
           "masterId": "akbgroup_nmb48_aobara_yuka",
           "name": "青原 優花",
           "profileURL": "https://spn.nmb48.com/feature/member_aobara_yuka",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Aobara_Yuka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF1493",
+            "#00A651"
+          ],
           "birthday": "07-12",
           "sns": {
             "twitter": null,
@@ -2290,9 +2732,12 @@
           "masterId": "akbgroup_nmb48_takahashi_kotone",
           "name": "高橋 ことね",
           "profileURL": "https://spn.nmb48.com/feature/member_takahashi_kotone",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Takahashi_Kotone",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD700",
+            "#7FDFFF"
+          ],
           "birthday": "04-20",
           "sns": {
             "twitter": null,
@@ -2305,9 +2750,12 @@
           "masterId": "akbgroup_nmb48_takahashi_juna",
           "name": "高橋 樹奈",
           "profileURL": "https://spn.nmb48.com/feature/member_takahashi_juna",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Takahashi_Juna",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#9ACD32"
+          ],
           "birthday": "10-07",
           "sns": {
             "twitter": null,
@@ -2320,9 +2768,12 @@
           "masterId": "akbgroup_nmb48_kuroshima_sakura",
           "name": "黒島 咲花",
           "profileURL": "https://spn.nmb48.com/feature/member_kuroshima_sakura",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kuroshima_Sakura",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#7FDFFF",
+            "#FF8C00"
+          ],
           "birthday": "04-07",
           "sns": {
             "twitter": null,
@@ -2335,9 +2786,12 @@
           "masterId": "akbgroup_nmb48_tatsumoto_yayoi",
           "name": "龍本 弥生",
           "profileURL": "https://spn.nmb48.com/feature/member_tatsumoto_yayoi",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Tatsumoto_Yayoi",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFB6C1",
+            "#FF8C00"
+          ],
           "birthday": "03-02",
           "sns": {
             "twitter": null,
@@ -2366,14 +2820,17 @@
           "masterId": "akbgroup_hkt48_127",
           "name": "中野 南実",
           "profileURL": "https://www.hkt48.jp/profile/127",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Nakano_Minami",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFFFFF",
+            "#FFD700"
+          ],
           "birthday": "12-29",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/hkt_minami",
+            "instagram": "http://www.instagram.com/minami_hkt48",
+            "tiktok": "https://www.tiktok.com/@minami_nakano.2"
           }
         },
         {
@@ -2381,14 +2838,17 @@
           "masterId": "akbgroup_hkt48_101",
           "name": "井澤 美優",
           "profileURL": "https://www.hkt48.jp/profile/101",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Izawa_Miyu",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#17499E",
+            "#17499E"
+          ],
           "birthday": "08-14",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/miyu_izawa_2525",
+            "instagram": "http://www.instagram.com/miyu_izawa_0814/",
+            "tiktok": "https://www.tiktok.com/@__miyu_izawa"
           }
         },
         {
@@ -2396,14 +2856,17 @@
           "masterId": "akbgroup_hkt48_56",
           "name": "今村 麻莉愛",
           "profileURL": "https://www.hkt48.jp/profile/56",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Imamura_Maria",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#F8ABA6",
+            "#FFD400"
+          ],
           "birthday": "09-14",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/maria_0914_",
+            "instagram": "http://www.instagram.com/maria_0914_",
+            "tiktok": "https://www.tiktok.com/@maria_masan"
           }
         },
         {
@@ -2411,14 +2874,17 @@
           "masterId": "akbgroup_hkt48_108",
           "name": "北川 陽彩",
           "profileURL": "https://www.hkt48.jp/profile/108",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kitagawa_Hiiro",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD400",
+            "#DA1236"
+          ],
           "birthday": "01-23",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/hi16_hkt48",
+            "instagram": "http://www.instagram.com/hi16.u_u",
+            "tiktok": "https://www.tiktok.com/@hi16.u_u"
           }
         },
         {
@@ -2426,12 +2892,15 @@
           "masterId": "akbgroup_hkt48_132",
           "name": "吉田 めい",
           "profileURL": "https://www.hkt48.jp/profile/132",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yoshida_Mei",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD400",
+            "#008000"
+          ],
           "birthday": "05-07",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/YoshidaMei_0507",
             "instagram": null,
             "tiktok": null
           }
@@ -2441,12 +2910,15 @@
           "masterId": "akbgroup_hkt48_124",
           "name": "呉 優菜",
           "profileURL": "https://www.hkt48.jp/profile/124",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kure_Yuna",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFB6C1",
+            "#79D2E6"
+          ],
           "birthday": "02-13",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/Yuna_HKT",
             "instagram": null,
             "tiktok": null
           }
@@ -2456,14 +2928,17 @@
           "masterId": "akbgroup_hkt48_105",
           "name": "大内 梨果",
           "profileURL": "https://www.hkt48.jp/profile/105",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ouchi_Rinka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#008000",
+            "#800080"
+          ],
           "birthday": "07-28",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/rinka_hkt0728",
+            "instagram": "http://www.instagram.com/rinka_hkt0728",
+            "tiktok": "https://www.tiktok.com/@rinka_hkt0728"
           }
         },
         {
@@ -2471,14 +2946,17 @@
           "masterId": "akbgroup_hkt48_106",
           "name": "大庭 凜咲",
           "profileURL": "https://www.hkt48.jp/profile/106",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Oba_Risaki",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#F8ABA6",
+            "#F8ABA6"
+          ],
           "birthday": "04-23",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/Risaki0423",
+            "instagram": "http://www.instagram.com/ri__saki.o5",
+            "tiktok": "https://www.tiktok.com/@risaki_hkt48"
           }
         },
         {
@@ -2486,14 +2964,17 @@
           "masterId": "akbgroup_hkt48_116",
           "name": "安井 妃奈",
           "profileURL": "https://www.hkt48.jp/profile/116",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yasui_Hina",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#79D2E6",
+            "#800080"
+          ],
           "birthday": "02-09",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/HKT48tan0209",
+            "instagram": "http://www.instagram.com/hinatan0209_hkt48",
+            "tiktok": "https://www.tiktok.com/@hinatan29"
           }
         },
         {
@@ -2501,14 +2982,17 @@
           "masterId": "akbgroup_hkt48_52",
           "name": "山内 祐奈",
           "profileURL": "https://www.hkt48.jp/profile/52",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yamauchi_Yuna",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFFFFF",
+            "#F8ABA6"
+          ],
           "birthday": "07-06",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/yuna_0706hkt",
+            "instagram": "http://www.instagram.com/yuna_hkt48",
+            "tiktok": "https://www.tiktok.com/@yuna_hkt48"
           }
         },
         {
@@ -2516,12 +3000,15 @@
           "masterId": "akbgroup_hkt48_131",
           "name": "山川 万里愛",
           "profileURL": "https://www.hkt48.jp/profile/131",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yamakawa_Maria",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD400",
+            "#79D2E6"
+          ],
           "birthday": "10-25",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/maria_HKT48",
             "instagram": null,
             "tiktok": null
           }
@@ -2531,14 +3018,17 @@
           "masterId": "akbgroup_hkt48_79",
           "name": "市村 愛里",
           "profileURL": "https://www.hkt48.jp/profile/79",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ichimura_Airi",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#DA1236",
+            "#79D2E6"
+          ],
           "birthday": "02-13",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/airi_213_hkt48",
+            "instagram": "http://www.instagram.com/airi_hkt48",
+            "tiktok": "https://www.tiktok.com/@airi__2001"
           }
         },
         {
@@ -2546,12 +3036,15 @@
           "masterId": "akbgroup_hkt48_130",
           "name": "松本 苺花",
           "profileURL": "https://www.hkt48.jp/profile/130",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Matsumoto_Moka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFB6C1",
+            "#E6E6FA"
+          ],
           "birthday": "11-22",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/hkt48_moka",
             "instagram": null,
             "tiktok": null
           }
@@ -2561,14 +3054,17 @@
           "masterId": "akbgroup_hkt48_129",
           "name": "松永 悠良",
           "profileURL": "https://www.hkt48.jp/profile/129",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Matsunaga_Yui",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#008000",
+            "#FFFFFF"
+          ],
           "birthday": "11-13",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/hkt48_yui",
+            "instagram": "http://www.instagram.com/yui_hkt48",
+            "tiktok": "https://www.tiktok.com/@yui_matu13"
           }
         },
         {
@@ -2576,14 +3072,17 @@
           "masterId": "akbgroup_hkt48_46",
           "name": "栗原 紗英",
           "profileURL": "https://www.hkt48.jp/profile/46",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kurihara_Sae",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#F8ABA6",
+            "#F8ABA6"
+          ],
           "birthday": "06-20",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/38sae_kurihara",
+            "instagram": "http://www.instagram.com/hkt48_saekurihara",
+            "tiktok": "https://www.tiktok.com/@38sae_chan"
           }
         },
         {
@@ -2591,14 +3090,17 @@
           "masterId": "akbgroup_hkt48_84",
           "name": "栗山 梨奈",
           "profileURL": "https://www.hkt48.jp/profile/84",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kuriyama_Rina",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#79D2E6",
+            "#FFFFFF"
+          ],
           "birthday": "12-30",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/krn__HKT48",
+            "instagram": "http://www.instagram.com/krn_hkt48",
+            "tiktok": "https://www.tiktok.com/@krn__hkt48"
           }
         },
         {
@@ -2606,14 +3108,17 @@
           "masterId": "akbgroup_hkt48_117",
           "name": "梁瀬 鈴雅",
           "profileURL": "https://www.hkt48.jp/profile/117",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yanase_Reia",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
           "birthday": "06-29",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/reia_hkt48",
+            "instagram": "http://www.instagram.com/reia.y.629",
+            "tiktok": "https://www.tiktok.com/@reia_hkt48"
           }
         },
         {
@@ -2621,14 +3126,17 @@
           "masterId": "akbgroup_hkt48_115",
           "name": "森﨑 冴彩",
           "profileURL": "https://www.hkt48.jp/profile/115",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Morisaki_Saaya",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#79D2E6",
+            "#79D2E6"
+          ],
           "birthday": "01-16",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/saachan_saaya",
+            "instagram": "http://www.instagram.com/318_saachan_hkt",
+            "tiktok": "https://www.tiktok.com/@saaya_morisaki"
           }
         },
         {
@@ -2636,14 +3144,17 @@
           "masterId": "akbgroup_hkt48_104",
           "name": "江口 心々華",
           "profileURL": "https://www.hkt48.jp/profile/104",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Eguchi_Kokoha",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#79D2E6",
+            "#F8ABA6"
+          ],
           "birthday": "04-24",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/cocoha_egu424",
+            "instagram": "http://www.instagram.com/coco_chan0424",
+            "tiktok": "https://www.tiktok.com/@cocoha_0424"
           }
         },
         {
@@ -2651,14 +3162,17 @@
           "masterId": "akbgroup_hkt48_122",
           "name": "江浦 優香",
           "profileURL": "https://www.hkt48.jp/profile/122",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Eura_Yuka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#79D2E6",
+            "#008000"
+          ],
           "birthday": "05-03",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/yuka_20_11",
+            "instagram": "http://www.instagram.com/yuka11_hkt",
+            "tiktok": "https://www.tiktok.com/@yuka_hkt48"
           }
         },
         {
@@ -2666,14 +3180,17 @@
           "masterId": "akbgroup_hkt48_109",
           "name": "渋井 美奈",
           "profileURL": "https://www.hkt48.jp/profile/109",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Shibui_Mina",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#17499E",
+            "#FFFFFF"
+          ],
           "birthday": "03-23",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/shibuiC_37HKT",
+            "instagram": "http://www.instagram.com/minashibui_09",
+            "tiktok": "https://www.tiktok.com/@minashibui_09"
           }
         },
         {
@@ -2681,14 +3198,17 @@
           "masterId": "akbgroup_hkt48_42",
           "name": "渕上 舞",
           "profileURL": "https://www.hkt48.jp/profile/42",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Fuchigami_Mai",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#008000",
+            "#F8ABA6"
+          ],
           "birthday": "09-21",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/maichan_F_0921",
+            "instagram": "http://www.instagram.com/mai_fuchigami_48",
+            "tiktok": "https://www.tiktok.com/@maichan_official"
           }
         },
         {
@@ -2696,14 +3216,17 @@
           "masterId": "akbgroup_hkt48_103",
           "name": "猪原 絆愛",
           "profileURL": "https://www.hkt48.jp/profile/103",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ihara_Hanna",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#17499E",
+            "#F8ABA6"
+          ],
           "birthday": "02-27",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/0227hanchan",
+            "instagram": "http://www.instagram.com/hanna_chakachaka_hkt48",
+            "tiktok": "https://www.tiktok.com/@hanna_hkt48"
           }
         },
         {
@@ -2711,12 +3234,15 @@
           "masterId": "akbgroup_hkt48_121",
           "name": "猪島 莉玲亜",
           "profileURL": "https://www.hkt48.jp/profile/121",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ijima_Riria",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4",
+            "#79D2E6"
+          ],
           "birthday": "05-07",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/Riria_hkt7",
             "instagram": null,
             "tiktok": null
           }
@@ -2726,13 +3252,16 @@
           "masterId": "akbgroup_hkt48_100",
           "name": "生野 莉奈",
           "profileURL": "https://www.hkt48.jp/profile/100",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ikuno_Rina",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#EE8E27",
+            "#800080"
+          ],
           "birthday": "08-03",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://x.com/IKUNOchan_Buu83",
+            "instagram": "http://www.instagram.com/rina_ikuno_hkt",
             "tiktok": null
           }
         },
@@ -2741,13 +3270,16 @@
           "masterId": "akbgroup_hkt48_88",
           "name": "田中 伊桜莉",
           "profileURL": "https://www.hkt48.jp/profile/88",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Tanaka_Iori",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#008000",
+            "#008000"
+          ],
           "birthday": "08-31",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://x.com/iori831_hkt48",
+            "instagram": "http://www.instagram.com/iori_hkt48",
             "tiktok": null
           }
         },
@@ -2756,14 +3288,17 @@
           "masterId": "akbgroup_hkt48_119",
           "name": "石井 彩音",
           "profileURL": "https://www.hkt48.jp/profile/119",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ishii_Ayane",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#F8ABA6",
+            "#DA1236"
+          ],
           "birthday": "11-27",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/HKT48_ayn141",
+            "instagram": "http://www.instagram.com/ayaya_kg",
+            "tiktok": "https://www.tiktok.com/@ayane_hkt48"
           }
         },
         {
@@ -2771,12 +3306,15 @@
           "masterId": "akbgroup_hkt48_120",
           "name": "石川 歩実優",
           "profileURL": "https://www.hkt48.jp/profile/120",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ishikawa_Amiyu",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4",
+            "#FFB6C1"
+          ],
           "birthday": "12-15",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/Ishikawaamiyu",
             "instagram": null,
             "tiktok": null
           }
@@ -2786,14 +3324,17 @@
           "masterId": "akbgroup_hkt48_102",
           "name": "石松 結菜",
           "profileURL": "https://www.hkt48.jp/profile/102",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ishimatsu_Yuina",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#F8ABA6",
+            "#DA1236"
+          ],
           "birthday": "01-28",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/yuina_hkt48",
+            "instagram": "http://www.instagram.com/ylna2525",
+            "tiktok": "https://www.tiktok.com/@ylna2525"
           }
         },
         {
@@ -2801,14 +3342,17 @@
           "masterId": "akbgroup_hkt48_78",
           "name": "石橋 颯",
           "profileURL": "https://www.hkt48.jp/profile/78",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ishibashi_Ibuki",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD400",
+            "#FFD400"
+          ],
           "birthday": "07-22",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/ibuki1484_hkt",
+            "instagram": "http://www.instagram.com/ibuki__hkt48",
+            "tiktok": "https://www.tiktok.com/@ibuki_hkt48"
           }
         },
         {
@@ -2816,14 +3360,17 @@
           "masterId": "akbgroup_hkt48_111",
           "name": "福井 可憐",
           "profileURL": "https://www.hkt48.jp/profile/111",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Fukui_Karen",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#F8ABA6",
+            "#800080"
+          ],
           "birthday": "12-04",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/karenren_291",
+            "instagram": "http://www.instagram.com/__karen.o6",
+            "tiktok": "https://www.tiktok.com/@___karen.o6"
           }
         },
         {
@@ -2831,14 +3378,17 @@
           "masterId": "akbgroup_hkt48_23",
           "name": "秋吉 優花",
           "profileURL": "https://www.hkt48.jp/profile/23",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Akiyoshi_Yuka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#EE8E27",
+            "#008000"
+          ],
           "birthday": "10-24",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/akiyoshi_hkt48",
+            "instagram": "http://www.instagram.com/akiyoshi_1024",
+            "tiktok": "https://www.tiktok.com/@yuka_akiyoshi"
           }
         },
         {
@@ -2846,14 +3396,17 @@
           "masterId": "akbgroup_hkt48_110",
           "name": "立花 心良",
           "profileURL": "https://www.hkt48.jp/profile/110",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Tachibana_Kokoro",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#CCE7DA",
+            "#CCE7DA"
+          ],
           "birthday": "06-24",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/hkt48_kokoppe",
+            "instagram": "http://www.instagram.com/_kokoro_tachibana",
+            "tiktok": "https://www.tiktok.com/@kokoppe_hkt48"
           }
         },
         {
@@ -2861,14 +3414,17 @@
           "masterId": "akbgroup_hkt48_87",
           "name": "竹本 くるみ",
           "profileURL": "https://www.hkt48.jp/profile/87",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Takemoto_Kurumi",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#F8ABA6",
+            "#DA1236"
+          ],
           "birthday": "02-22",
           "sns": {
-            "twitter": null,
-            "instagram": null,
-            "tiktok": null
+            "twitter": "https://x.com/kuru2_official",
+            "instagram": "http://www.instagram.com/kuru02_hkt",
+            "tiktok": "https://www.tiktok.com/@kurumi__222"
           }
         },
         {
@@ -2876,13 +3432,16 @@
           "masterId": "akbgroup_hkt48_112",
           "name": "藤野 心葉",
           "profileURL": "https://www.hkt48.jp/profile/112",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Fujino_Kokoha",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#800080",
+            "#79D2E6"
+          ],
           "birthday": "05-25",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://x.com/fujicoco_hkt48",
+            "instagram": "http://www.instagram.com/cocoha_hkt48",
             "tiktok": null
           }
         },
@@ -2891,13 +3450,16 @@
           "masterId": "akbgroup_hkt48_67",
           "name": "豊永 阿紀",
           "profileURL": "https://www.hkt48.jp/profile/67",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Toyonaga_Aki",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD400",
+            "#EE8E27"
+          ],
           "birthday": "10-25",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://x.com/aki_toyonaga",
+            "instagram": "http://www.instagram.com/aki_t_official",
             "tiktok": null
           }
         },
@@ -2906,12 +3468,15 @@
           "masterId": "akbgroup_hkt48_128",
           "name": "長野 らら",
           "profileURL": "https://www.hkt48.jp/profile/128",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Nagano_Rara",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD400",
+            "#17499E"
+          ],
           "birthday": "11-06",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/rarapaaaaDAZE",
             "instagram": null,
             "tiktok": null
           }
@@ -2921,12 +3486,15 @@
           "masterId": "akbgroup_hkt48_126",
           "name": "靏川 那智",
           "profileURL": "https://www.hkt48.jp/profile/126",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Tsurukawa_Nachi",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD400",
+            "#FFD400"
+          ],
           "birthday": "12-07",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/NachiNahiii",
             "instagram": null,
             "tiktok": null
           }
@@ -2936,12 +3504,15 @@
           "masterId": "akbgroup_hkt48_118",
           "name": "青木 日菜子",
           "profileURL": "https://www.hkt48.jp/profile/118",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Aoki_Hinako",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#EE8E27",
+            "#17499E"
+          ],
           "birthday": "07-16",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/hinako_aoki_hkt",
             "instagram": null,
             "tiktok": null
           }
@@ -2951,13 +3522,16 @@
           "masterId": "akbgroup_hkt48_133",
           "name": "龍頭 綺音",
           "profileURL": "https://www.hkt48.jp/profile/133",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ryuto_Ayane",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#DA1236",
+            "#FFFFFF"
+          ],
           "birthday": "06-30",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://x.com/Ryuchan63",
+            "instagram": "http://www.instagram.com/r_ayane.63",
             "tiktok": null
           }
         }
@@ -2982,13 +3556,16 @@
           "masterId": "akbgroup_ngt48_144",
           "name": "三村 妃乃",
           "profileURL": "https://ngt48.jp/profile/detail/144",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Mimura_Hino",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF8C00",
+            "#FF0000"
+          ],
           "birthday": "06-15",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://twitter.com/hino_yuiitsu62",
+            "instagram": "https://www.instagram.com/hino_yuiitsu62",
             "tiktok": null
           }
         },
@@ -2997,12 +3574,15 @@
           "masterId": "akbgroup_ngt48_181",
           "name": "中田 麻実",
           "profileURL": "https://ngt48.jp/profile/detail/181",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Nakata_Asami",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF8C00",
+            "#FF8C00"
+          ],
           "birthday": "07-07",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/iam_Asami77",
             "instagram": null,
             "tiktok": null
           }
@@ -3012,12 +3592,15 @@
           "masterId": "akbgroup_ngt48_164",
           "name": "佐藤 広花",
           "profileURL": "https://ngt48.jp/profile/detail/164",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sato_Hiroka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF",
+            "#0000FF"
+          ],
           "birthday": "08-08",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/satohiroka_pi",
             "instagram": null,
             "tiktok": null
           }
@@ -3027,12 +3610,15 @@
           "masterId": "akbgroup_ngt48_177",
           "name": "佐藤 柚花",
           "profileURL": "https://ngt48.jp/profile/detail/177",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sato_Yuka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#8000FF",
+            "#8000FF"
+          ],
           "birthday": "10-16",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/sato_yuka1016",
             "instagram": null,
             "tiktok": null
           }
@@ -3042,13 +3628,16 @@
           "masterId": "akbgroup_ngt48_128",
           "name": "佐藤 海里",
           "profileURL": "https://ngt48.jp/profile/detail/128",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sato_Kairi",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#FF0000"
+          ],
           "birthday": "08-05",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://twitter.com/_o_k_a_i_r_i_",
+            "instagram": "https://www.instagram.com/satokairi._.ngt48",
             "tiktok": null
           }
         },
@@ -3057,13 +3646,16 @@
           "masterId": "akbgroup_ngt48_151",
           "name": "北村 優羽",
           "profileURL": "https://ngt48.jp/profile/detail/151",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kitamura_Yuha",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#7FDFFF",
+            "#7FDFFF"
+          ],
           "birthday": "09-22",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://twitter.com/yuha_kitamura",
+            "instagram": "https://www.instagram.com/yuha_kitamura",
             "tiktok": null
           }
         },
@@ -3072,12 +3664,16 @@
           "masterId": "akbgroup_ngt48_176",
           "name": "北澤 百音",
           "profileURL": "https://ngt48.jp/profile/detail/176",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kitazawa_Mone",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#40E0D0",
+            "#E6E6FA",
+            "#00A651"
+          ],
           "birthday": "08-05",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/monene_kitazawa",
             "instagram": null,
             "tiktok": null
           }
@@ -3087,13 +3683,16 @@
           "masterId": "akbgroup_ngt48_150",
           "name": "喜多 花恵",
           "profileURL": "https://ngt48.jp/profile/detail/150",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kita_Hanae",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD700",
+            "#FFD700"
+          ],
           "birthday": "09-09",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://x.com/hanae_kita",
+            "instagram": "https://www.instagram.com/_hanae.kita_/",
             "tiktok": null
           }
         },
@@ -3102,13 +3701,16 @@
           "masterId": "akbgroup_ngt48_132",
           "name": "大塚 七海",
           "profileURL": "https://ngt48.jp/profile/detail/132",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Otsuka_Nanami",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#7FDFFF",
+            "#8000FF"
+          ],
           "birthday": "11-07",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://twitter.com/nanami_otsuka",
+            "instagram": "https://www.instagram.com/otsuka773_ngt48",
             "tiktok": null
           }
         },
@@ -3117,12 +3719,15 @@
           "masterId": "akbgroup_ngt48_174",
           "name": "大町 佑香",
           "profileURL": "https://ngt48.jp/profile/detail/174",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Omachi_Yuka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD700",
+            "#FFFFFF"
+          ],
           "birthday": "10-06",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/yuka_omachi",
             "instagram": null,
             "tiktok": null
           }
@@ -3132,12 +3737,15 @@
           "masterId": "akbgroup_ngt48_162",
           "name": "奥村 百花",
           "profileURL": "https://ngt48.jp/profile/detail/162",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Okumura_Momoka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4",
+            "#00A651"
+          ],
           "birthday": "08-28",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/okumura_momoka",
             "instagram": null,
             "tiktok": null
           }
@@ -3147,12 +3755,15 @@
           "masterId": "akbgroup_ngt48_172",
           "name": "安座間 結",
           "profileURL": "https://ngt48.jp/profile/detail/172",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Azama_Yui",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF",
+            "#FFFFFF"
+          ],
           "birthday": "01-07",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/azama_yui",
             "instagram": null,
             "tiktok": null
           }
@@ -3162,12 +3773,15 @@
           "masterId": "akbgroup_ngt48_165",
           "name": "新沢 葵唯",
           "profileURL": "https://ngt48.jp/profile/detail/165",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Shinzawa_Aoi",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF",
+            "#ADD8E6"
+          ],
           "birthday": "07-24",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/aochan_724",
             "instagram": null,
             "tiktok": null
           }
@@ -3177,13 +3791,16 @@
           "masterId": "akbgroup_ngt48_152",
           "name": "木本 優菜",
           "profileURL": "https://ngt48.jp/profile/detail/152",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kimoto_Yuna",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#00A651",
+            "#FFFFFF"
+          ],
           "birthday": "06-17",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://x.com/motoyuna_poki",
+            "instagram": "https://www.instagram.com/motoyuna_poki.kani",
             "tiktok": null
           }
         },
@@ -3192,12 +3809,15 @@
           "masterId": "akbgroup_ngt48_163",
           "name": "木本 杏菜",
           "profileURL": "https://ngt48.jp/profile/detail/163",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kimoto_Anna",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFB6C1",
+            "#FFFFFF"
+          ],
           "birthday": "10-16",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/anna_toriko_",
             "instagram": null,
             "tiktok": null
           }
@@ -3207,13 +3827,16 @@
           "masterId": "akbgroup_ngt48_155",
           "name": "杉本 萌",
           "profileURL": "https://ngt48.jp/profile/detail/155",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sugimoto_Moe",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#9ACD32",
+            "#7FDFFF"
+          ],
           "birthday": "07-17",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://twitter.com/moe_sugimoto07",
+            "instagram": "https://www.instagram.com/mocchan0717",
             "tiktok": null
           }
         },
@@ -3222,13 +3845,16 @@
           "masterId": "akbgroup_ngt48_154",
           "name": "水津 菜月",
           "profileURL": "https://ngt48.jp/profile/detail/154",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Suizu_Natsuki",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4",
+            "#FFD700"
+          ],
           "birthday": "04-27",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://twitter.com/natsuki_suizu",
+            "instagram": "https://www.instagram.com/suisui_ngt48",
             "tiktok": null
           }
         },
@@ -3237,13 +3863,16 @@
           "masterId": "akbgroup_ngt48_111",
           "name": "清司 麗菜",
           "profileURL": "https://ngt48.jp/profile/detail/111",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Seiji_Reina",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#8000FF",
+            "#FFFFFF"
+          ],
           "birthday": "04-19",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://twitter.com/official_seiji",
+            "instagram": "https://www.instagram.com/seiji_0007/",
             "tiktok": null
           }
         },
@@ -3252,12 +3881,15 @@
           "masterId": "akbgroup_ngt48_175",
           "name": "甲斐 瑞季",
           "profileURL": "https://ngt48.jp/profile/detail/175",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kai_Mizuki",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#7FDFFF",
+            "#FFD700"
+          ],
           "birthday": "06-10",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/zukizuki_kai",
             "instagram": null,
             "tiktok": null
           }
@@ -3267,12 +3899,15 @@
           "masterId": "akbgroup_ngt48_182",
           "name": "皆川 日和",
           "profileURL": "https://ngt48.jp/profile/detail/182",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Minagawa_Hiyori",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#9ACD32",
+            "#FF69B4"
+          ],
           "birthday": "08-31",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/minagawa_831",
             "instagram": null,
             "tiktok": null
           }
@@ -3282,12 +3917,15 @@
           "masterId": "akbgroup_ngt48_160",
           "name": "磯崎 菜々",
           "profileURL": "https://ngt48.jp/profile/detail/160",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Isozaki_Nana",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#FFFFFF"
+          ],
           "birthday": "07-12",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/nana_isozaki",
             "instagram": null,
             "tiktok": null
           }
@@ -3297,13 +3935,16 @@
           "masterId": "akbgroup_ngt48_149",
           "name": "磯部 瑠紅",
           "profileURL": "https://ngt48.jp/profile/detail/149",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Isobe_Rua",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#0000FF"
+          ],
           "birthday": "05-07",
           "sns": {
             "twitter": null,
-            "instagram": null,
+            "instagram": "https://www.instagram.com/_rua57_/",
             "tiktok": null
           }
         },
@@ -3312,12 +3953,15 @@
           "masterId": "akbgroup_ngt48_168",
           "name": "西川 晴菜",
           "profileURL": "https://ngt48.jp/profile/detail/168",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Nishikawa_Haruna",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4",
+            "#0000FF"
+          ],
           "birthday": "05-17",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/haruna0517ru",
             "instagram": null,
             "tiktok": null
           }
@@ -3327,13 +3971,16 @@
           "masterId": "akbgroup_ngt48_118",
           "name": "西潟 茉莉奈",
           "profileURL": "https://ngt48.jp/profile/detail/118",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Nishigata_Marina",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4",
+            "#8000FF"
+          ],
           "birthday": "10-16",
           "sns": {
-            "twitter": null,
-            "instagram": null,
+            "twitter": "https://twitter.com/marina_ngt48n",
+            "instagram": "https://www.instagram.com/marina_1016.n/",
             "tiktok": null
           }
         },
@@ -3342,12 +3989,15 @@
           "masterId": "akbgroup_ngt48_179",
           "name": "谷口 陽香",
           "profileURL": "https://ngt48.jp/profile/detail/179",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Taniguchi_Haruka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFB6C1",
+            "#FFB6C1"
+          ],
           "birthday": "02-23",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/haru_burger223",
             "instagram": null,
             "tiktok": null
           }
@@ -3357,12 +4007,15 @@
           "masterId": "akbgroup_ngt48_173",
           "name": "阿達 夢",
           "profileURL": "https://ngt48.jp/profile/detail/173",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Adachi_Yume",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
           "birthday": "09-05",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/yume_adachi0905",
             "instagram": null,
             "tiktok": null
           }
@@ -3372,12 +4025,12 @@
           "masterId": "akbgroup_ngt48_178",
           "name": "須藤 凜華",
           "profileURL": "https://ngt48.jp/profile/detail/178",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Suto_Rinka",
           "isGraduated": false,
           "colorHex": null,
           "birthday": "09-09",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/rinks2_99",
             "instagram": null,
             "tiktok": null
           }
@@ -3387,12 +4040,15 @@
           "masterId": "akbgroup_ngt48_167",
           "name": "高島 柚愛",
           "profileURL": "https://ngt48.jp/profile/detail/167",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Takashima_Yua",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFB6C1",
+            "#ADD8E6"
+          ],
           "birthday": "01-21",
           "sns": {
-            "twitter": null,
+            "twitter": "https://x.com/takashima_yua",
             "instagram": null,
             "tiktok": null
           }
@@ -3418,9 +4074,12 @@
           "masterId": "akbgroup_stu48_miyoshi_maaya_fs",
           "name": "三好 真綺",
           "profileURL": "https://sp.stu48.com/feature/miyoshi_maaya_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Miyoshi_Maaya",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#8000FF",
+            "#0000FF"
+          ],
           "birthday": "04-17",
           "sns": {
             "twitter": null,
@@ -3433,9 +4092,12 @@
           "masterId": "akbgroup_stu48_nakamura_mai_fs",
           "name": "中村 舞",
           "profileURL": "https://sp.stu48.com/feature/nakamura_mai_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Nakamura_Mai",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF8C00",
+            "#FF1493"
+          ],
           "birthday": "04-04",
           "sns": {
             "twitter": null,
@@ -3448,9 +4110,12 @@
           "masterId": "akbgroup_stu48_kurushima_yuka_fs",
           "name": "久留島 優果",
           "profileURL": "https://sp.stu48.com/feature/kurushima_yuka_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kurushima_Yuka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#00A651",
+            "#8000FF"
+          ],
           "birthday": "09-24",
           "sns": {
             "twitter": null,
@@ -3463,9 +4128,12 @@
           "masterId": "akbgroup_stu48_inoue_kurea_fs",
           "name": "井上 久伶杏",
           "profileURL": "https://sp.stu48.com/feature/inoue_kurea_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Inoue_Kurea",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFFFFF",
+            "#FF8C00"
+          ],
           "birthday": "03-28",
           "sns": {
             "twitter": null,
@@ -3478,9 +4146,12 @@
           "masterId": "akbgroup_stu48_shinano_soraha_fs",
           "name": "信濃 宙花",
           "profileURL": "https://sp.stu48.com/feature/shinano_soraha_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Shinano_Soraha",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#00A651"
+          ],
           "birthday": "08-09",
           "sns": {
             "twitter": null,
@@ -3493,9 +4164,12 @@
           "masterId": "akbgroup_stu48_hyodo_aoi_fs",
           "name": "兵頭 葵",
           "profileURL": "https://sp.stu48.com/feature/hyodo_aoi_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Hyodo_Aoi",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF",
+            "#00A651"
+          ],
           "birthday": "01-18",
           "sns": {
             "twitter": null,
@@ -3508,9 +4182,12 @@
           "masterId": "akbgroup_stu48_utsumi_rine_fs",
           "name": "内海 里音",
           "profileURL": "https://sp.stu48.com/feature/utsumi_rine_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Utsumi_Rine",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#000000",
+            "#FF69B4"
+          ],
           "birthday": "11-05",
           "sns": {
             "twitter": null,
@@ -3523,9 +4200,12 @@
           "masterId": "akbgroup_stu48_kitazawa_ichigo_fs",
           "name": "北澤苺",
           "profileURL": "https://sp.stu48.com/feature/kitazawa_ichigo_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kitazawa_Ichigo",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#FF0000"
+          ],
           "birthday": "12-27",
           "sns": {
             "twitter": null,
@@ -3538,9 +4218,12 @@
           "masterId": "akbgroup_stu48_harada_sayaka_fs",
           "name": "原田 清花",
           "profileURL": "https://sp.stu48.com/feature/harada_sayaka_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Harada_Sayaka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF8C00",
+            "#FF8C00"
+          ],
           "birthday": "06-19",
           "sns": {
             "twitter": null,
@@ -3553,9 +4236,12 @@
           "masterId": "akbgroup_stu48_yoshida_sara_fs",
           "name": "吉田 彩良",
           "profileURL": "https://sp.stu48.com/feature/yoshida_sara_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yoshida_Sara",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
           "birthday": "02-19",
           "sns": {
             "twitter": null,
@@ -3568,9 +4254,12 @@
           "masterId": "akbgroup_stu48_sakazaki_ai_fs",
           "name": "坂崎 愛",
           "profileURL": "https://sp.stu48.com/feature/sakazaki_ai_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sakazaki_Ai",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF",
+            "#FF0000"
+          ],
           "birthday": "09-05",
           "sns": {
             "twitter": null,
@@ -3583,9 +4272,12 @@
           "masterId": "akbgroup_stu48_sakaki_towana_fs",
           "name": "坂木 叶愛",
           "profileURL": "https://sp.stu48.com/feature/sakaki_towana_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sakaki_Towana",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF8C00",
+            "#FFD700"
+          ],
           "birthday": "12-15",
           "sns": {
             "twitter": null,
@@ -3598,9 +4290,12 @@
           "masterId": "akbgroup_stu48_okuda_yuina_fs",
           "name": "奥田唯菜",
           "profileURL": "https://sp.stu48.com/feature/okuda_yuina_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Okuda_Yuina",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFB6C1",
+            "#FFB6C1"
+          ],
           "birthday": "07-07",
           "sns": {
             "twitter": null,
@@ -3613,9 +4308,12 @@
           "masterId": "akbgroup_stu48_muneyuki_rika_fs",
           "name": "宗雪 里香",
           "profileURL": "https://sp.stu48.com/feature/muneyuki_rika_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Muneyuki_Rika",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF",
+            "#0000FF"
+          ],
           "birthday": "06-15",
           "sns": {
             "twitter": null,
@@ -3628,9 +4326,12 @@
           "masterId": "akbgroup_stu48_komatsu_nayu_fs",
           "name": "小松 奈侑",
           "profileURL": "https://sp.stu48.com/feature/komatsu_nayu_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Komatsu_Nayu",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFB6C1",
+            "#FF8C00"
+          ],
           "birthday": "12-08",
           "sns": {
             "twitter": null,
@@ -3643,9 +4344,12 @@
           "masterId": "akbgroup_stu48_osaki_serika_fs",
           "name": "尾崎 世里花",
           "profileURL": "https://sp.stu48.com/feature/osaki_serika_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Osaki_Serika",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#00A86B",
+            "#FFFFFF"
+          ],
           "birthday": "11-16",
           "sns": {
             "twitter": null,
@@ -3658,9 +4362,12 @@
           "masterId": "akbgroup_stu48_yagi_yuuna_fs",
           "name": "屋木 優菜",
           "profileURL": "https://sp.stu48.com/feature/yagi_yuuna_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yagi_Yuuna",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFB6C1",
+            "#8000FF"
+          ],
           "birthday": "02-11",
           "sns": {
             "twitter": null,
@@ -3673,9 +4380,12 @@
           "masterId": "akbgroup_stu48_okamura_rio_fs",
           "name": "岡村 梨央",
           "profileURL": "https://sp.stu48.com/feature/okamura_rio_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Okamura_Rio",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD700",
+            "#8000FF"
+          ],
           "birthday": "10-08",
           "sns": {
             "twitter": null,
@@ -3688,9 +4398,12 @@
           "masterId": "akbgroup_stu48_okada_azumi_fs",
           "name": "岡田 あずみ",
           "profileURL": "https://sp.stu48.com/feature/okada_azumi_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Okada_Azumi",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#7FDFFF",
+            "#FF69B4"
+          ],
           "birthday": "01-20",
           "sns": {
             "twitter": null,
@@ -3703,9 +4416,12 @@
           "masterId": "akbgroup_stu48_shimada_sayaka_fs",
           "name": "島田 紗香",
           "profileURL": "https://sp.stu48.com/feature/shimada_sayaka_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Shimada_Sayaka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#00A86B",
+            "#90EE90"
+          ],
           "birthday": "06-02",
           "sns": {
             "twitter": null,
@@ -3718,9 +4434,12 @@
           "masterId": "akbgroup_stu48_kawamata_yuuna_fs",
           "name": "川又 優菜",
           "profileURL": "https://sp.stu48.com/feature/kawamata_yuuna_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kawamata_Yuuna",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4",
+            "#FF69B4"
+          ],
           "birthday": "12-10",
           "sns": {
             "twitter": null,
@@ -3733,9 +4452,12 @@
           "masterId": "akbgroup_stu48_kudou_riko_fs",
           "name": "工藤 理子",
           "profileURL": "https://sp.stu48.com/feature/kudou_riko_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kudo_Riko",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#7FDFFF",
+            "#FFD700"
+          ],
           "birthday": "03-29",
           "sns": {
             "twitter": null,
@@ -3748,9 +4470,12 @@
           "masterId": "akbgroup_stu48_arai_ria_fs",
           "name": "新井梨杏",
           "profileURL": "https://sp.stu48.com/feature/arai_ria_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Arai_Ria",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#8000FF",
+            "#FFFFFF"
+          ],
           "birthday": "10-05",
           "sns": {
             "twitter": null,
@@ -3763,9 +4488,12 @@
           "masterId": "akbgroup_stu48_sogabe_ako_fs",
           "name": "曽我部 あこ",
           "profileURL": "https://sp.stu48.com/feature/sogabe_ako_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sogabe_Ako",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#FFFFFF"
+          ],
           "birthday": "03-27",
           "sns": {
             "twitter": null,
@@ -3778,9 +4506,12 @@
           "masterId": "akbgroup_stu48_kihara_hinayo_fs",
           "name": "木原 姫花世",
           "profileURL": "https://sp.stu48.com/feature/kihara_hinayo_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kihara_Hinayo",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4",
+            "#FF0000"
+          ],
           "birthday": "10-12",
           "sns": {
             "twitter": null,
@@ -3793,9 +4524,12 @@
           "masterId": "akbgroup_stu48_morisue_himena_fs",
           "name": "森末妃奈",
           "profileURL": "https://sp.stu48.com/feature/morisue_himena_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Morisue_Himena",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFC0CB",
+            "#0000FF"
+          ],
           "birthday": "06-20",
           "sns": {
             "twitter": null,
@@ -3808,9 +4542,12 @@
           "masterId": "akbgroup_stu48_yokoi_yuina_fs",
           "name": "横井 結菜",
           "profileURL": "https://sp.stu48.com/feature/yokoi_yuina_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Yokoi_Yuina",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#00A86B",
+            "#0000FF"
+          ],
           "birthday": "09-27",
           "sns": {
             "twitter": null,
@@ -3823,9 +4560,12 @@
           "masterId": "akbgroup_stu48_ikeda_yura_fs",
           "name": "池田 裕楽",
           "profileURL": "https://sp.stu48.com/feature/ikeda_yura_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ikeda_Yura",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF",
+            "#FFFFFF"
+          ],
           "birthday": "02-08",
           "sns": {
             "twitter": null,
@@ -3838,9 +4578,12 @@
           "masterId": "akbgroup_stu48_shimizu_sara_fs",
           "name": "清水 紗良",
           "profileURL": "https://sp.stu48.com/feature/shimizu_sara_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Shimizu_Sara",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#87CEEB",
+            "#87CEEB"
+          ],
           "birthday": "02-12",
           "sns": {
             "twitter": null,
@@ -3853,9 +4596,12 @@
           "masterId": "akbgroup_stu48_watanabe_natsuki_fs",
           "name": "渡辺 菜月",
           "profileURL": "https://sp.stu48.com/feature/watanabe_natsuki_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Watanabe_Natsuki",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD700",
+            "#00A651"
+          ],
           "birthday": "12-12",
           "sns": {
             "twitter": null,
@@ -3868,9 +4614,12 @@
           "masterId": "akbgroup_stu48_hamada_mii_fs",
           "name": "濵田 美惟",
           "profileURL": "https://sp.stu48.com/feature/hamada_mii_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Hamada_Mii",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#8000FF",
+            "#8000FF"
+          ],
           "birthday": "06-19",
           "sns": {
             "twitter": null,
@@ -3883,9 +4632,12 @@
           "masterId": "akbgroup_stu48_hamada_hibiki_fs",
           "name": "濵田響",
           "profileURL": "https://sp.stu48.com/feature/hamada_hibiki_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Hamada_Hibiki",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD700",
+            "#FFD700"
+          ],
           "birthday": "01-23",
           "sns": {
             "twitter": null,
@@ -3898,9 +4650,12 @@
           "masterId": "akbgroup_stu48_tanaka_nanako_fs",
           "name": "田中 奈菜子",
           "profileURL": "https://sp.stu48.com/feature/tanaka_nanako_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Tanaka_Nanako",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFB6C1",
+            "#00A651"
+          ],
           "birthday": "01-27",
           "sns": {
             "twitter": null,
@@ -3913,9 +4668,13 @@
           "masterId": "akbgroup_stu48_kai_cocoa_fs",
           "name": "甲斐 心愛",
           "profileURL": "https://sp.stu48.com/feature/kai_cocoa_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kai_Cocoa",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#FF0000",
+            "#FF0000"
+          ],
           "birthday": "11-28",
           "sns": {
             "twitter": null,
@@ -3928,9 +4687,12 @@
           "masterId": "akbgroup_stu48_ishihara_yuuna_fs",
           "name": "石原侑奈",
           "profileURL": "https://sp.stu48.com/feature/ishihara_yuuna_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ishihara_Yuuna",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFFFFF",
+            "#FFB6C1"
+          ],
           "birthday": "08-07",
           "sns": {
             "twitter": null,
@@ -3943,9 +4705,12 @@
           "masterId": "akbgroup_stu48_ishimatsu_haruna_fs",
           "name": "石松 陽菜",
           "profileURL": "https://sp.stu48.com/feature/ishimatsu_haruna_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ishimatsu_Haruna",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF1493",
+            "#FFD700"
+          ],
           "birthday": "01-03",
           "sns": {
             "twitter": null,
@@ -3958,9 +4723,12 @@
           "masterId": "akbgroup_stu48_ishida_chiho_fs",
           "name": "石田 千穂",
           "profileURL": "https://sp.stu48.com/feature/ishida_chiho_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Ishida_Chiho",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFFFFF",
+            "#7FDFFF"
+          ],
           "birthday": "03-17",
           "sns": {
             "twitter": null,
@@ -3973,9 +4741,12 @@
           "masterId": "akbgroup_stu48_fukuda_akari_fs",
           "name": "福田 朱里",
           "profileURL": "https://sp.stu48.com/feature/fukuda_akari_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Fukuda_Akari",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#00A651",
+            "#00A651"
+          ],
           "birthday": "03-29",
           "sns": {
             "twitter": null,
@@ -3988,9 +4759,12 @@
           "masterId": "akbgroup_stu48_kabutake_mana_fs",
           "name": "蕪竹 真奈",
           "profileURL": "https://sp.stu48.com/feature/kabutake_mana_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Kabutake_Mana",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#7FDFFF",
+            "#8000FF"
+          ],
           "birthday": "04-04",
           "sns": {
             "twitter": null,
@@ -4003,9 +4777,12 @@
           "masterId": "akbgroup_stu48_fujita_amu_fs",
           "name": "藤田 愛結",
           "profileURL": "https://sp.stu48.com/feature/fujita_amu_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Fujita_Amu",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFB6C1",
+            "#FF69B4"
+          ],
           "birthday": "08-23",
           "sns": {
             "twitter": null,
@@ -4018,9 +4795,13 @@
           "masterId": "akbgroup_stu48_morokuzu_noa_fs",
           "name": "諸葛 望愛",
           "profileURL": "https://sp.stu48.com/feature/morokuzu_noa_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Morokuzu_Noa",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF",
+            "#7FDFFF",
+            "#FFFFFF"
+          ],
           "birthday": "11-11",
           "sns": {
             "twitter": null,
@@ -4033,9 +4814,12 @@
           "masterId": "akbgroup_stu48_taniguchi_mahina_fs",
           "name": "谷口 茉妃菜",
           "profileURL": "https://sp.stu48.com/feature/taniguchi_mahina_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Taniguchi_Mahina",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#00A651",
+            "#FF8C00"
+          ],
           "birthday": "02-03",
           "sns": {
             "twitter": null,
@@ -4048,9 +4832,12 @@
           "masterId": "akbgroup_stu48_sako_himeka_fs",
           "name": "迫 姫華",
           "profileURL": "https://sp.stu48.com/feature/sako_himeka_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Sako_Himeka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#AEC6FF",
+            "#FFB6C1"
+          ],
           "birthday": "03-14",
           "sns": {
             "twitter": null,
@@ -4063,9 +4850,12 @@
           "masterId": "akbgroup_stu48_douho_runa_fs",
           "name": "道保 琉南",
           "profileURL": "https://sp.stu48.com/feature/douho_runa_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Douho_Runa",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF",
+            "#FF8C00"
+          ],
           "birthday": "11-02",
           "sns": {
             "twitter": null,
@@ -4078,9 +4868,12 @@
           "masterId": "akbgroup_stu48_nonaka_rio_fs",
           "name": "野中 莉央",
           "profileURL": "https://sp.stu48.com/feature/nonaka_rio_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Nonaka_Rio",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF",
+            "#FFD700"
+          ],
           "birthday": "10-26",
           "sns": {
             "twitter": null,
@@ -4093,9 +4886,12 @@
           "masterId": "akbgroup_stu48_takao_sayaka_fs",
           "name": "高雄 さやか",
           "profileURL": "https://sp.stu48.com/feature/takao_sayaka_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Takao_Sayaka",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000",
+            "#FFD700"
+          ],
           "birthday": "12-04",
           "sns": {
             "twitter": null,
@@ -4108,9 +4904,12 @@
           "masterId": "akbgroup_stu48_takamura_shiori_fs",
           "name": "髙村 栞里",
           "profileURL": "https://sp.stu48.com/feature/takamura_shiori_fs",
-          "imageSourceURL": null,
+          "imageSourceURL": "https://akb48.fandom.com/wiki/Takamura_Shiori",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#90EE90",
+            "#AEC6FF"
+          ],
           "birthday": "06-30",
           "sns": {
             "twitter": null,
