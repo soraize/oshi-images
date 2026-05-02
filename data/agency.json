@@ -13,5 +13,10 @@
     "agencyId": "stpr",
     "name": "STPR",
     "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/stpr.json"
+  },
+  {
+    "agencyId": "sakamichi",
+    "name": "坂道シリーズ",
+    "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/sakamichi.json"
   }
 ]
