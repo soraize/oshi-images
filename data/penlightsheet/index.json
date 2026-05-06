@@ -16,5 +16,14 @@
     "baseImageName": null,
     "baseImageURL": "images/dotHeart.png",
     "group": "double"
+  },
+  {
+    "id": "ribbon1",
+    "title": "リボン１",
+    "subtitle": "リボンライン",
+    "layoutKind": "double",
+    "baseImageName": null,
+    "baseImageURL": "images/ribbon1.png",
+    "group": "double"
   }
 ]
