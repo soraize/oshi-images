@@ -35,4 +35,40 @@
     "baseImageURL": "images/ribbon2.jpg",
     "group": "double"
   }
+  {
+    "id": "ribbon3",
+    "title": "リボン3",
+    "subtitle": "リボンライン",
+    "layoutKind": "double",
+    "baseImageName": null,
+    "baseImageURL": "images/ribbon3.jpg",
+    "group": "double"
+  }
+  {
+    "id": "heart1",
+    "title": "ハート１",
+    "subtitle": "ハートライン",
+    "layoutKind": "single",
+    "baseImageName": null,
+    "baseImageURL": "images/heart1.jpg",
+    "group": "single"
+  }
+  {
+    "id": "star1",
+    "title": "星１",
+    "subtitle": "星ライン",
+    "layoutKind": "single",
+    "baseImageName": null,
+    "baseImageURL": "images/star1.jpg",
+    "group": "single"
+  }
+  {
+    "id": "star2",
+    "title": "星２",
+    "subtitle": "星ライン",
+    "layoutKind": "double",
+    "baseImageName": null,
+    "baseImageURL": "images/star2.jpg",
+    "group": "double"
+  }
 ]
