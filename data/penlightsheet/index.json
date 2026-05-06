@@ -25,5 +25,14 @@
     "baseImageName": null,
     "baseImageURL": "images/ribbon1.jpg",
     "group": "double"
+  },
+  {
+    "id": "ribbon2",
+    "title": "リボン２",
+    "subtitle": "リボンライン",
+    "layoutKind": "double",
+    "baseImageName": null,
+    "baseImageURL": "images/ribbon2.jpg",
+    "group": "double"
   }
 ]
