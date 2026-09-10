@@ -4710,6 +4710,18 @@
           "birthday": null,
           "joinDate": null,
           "sns": {"twitter": "https://x.com/iMiN_aru", "instagram": null, "tiktok": "https://www.tiktok.com/@imin_aru"}
+        },
+        {
+          "uuid": "B23FDD7D-3A9F-40E1-998F-AB008DAB9B39",
+          "masterId": "heroines_imin_izumi_nemu",
+          "name": "和泉ねむ",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#3957FF"],
+          "birthday": "06-30",
+          "joinDate": "2026-09-10",
+          "formerGroups": ["BiTE A SHOCK"],
+          "sns": {"twitter": "https://x.com/iMiN__nemu", "instagram": null, "tiktok": "https://www.tiktok.com/@imin_nemu"}
         }
       ]
     }
